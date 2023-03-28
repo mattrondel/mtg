@@ -231,7 +231,11 @@ Wandering Treefolk (online only)
 - [X] Xenosquirrels Foil
 
 201 cards, 22.3 pages (23)
+
 -------------------------------------------------------------------
+
+#### Tokens 
+
 Unofficial and official Tokens will have its own section
 
 
@@ -253,8 +257,7 @@ unfinity 2x https://www.tcgplayer.com/product/288183/magic-unfinity-squirrel-tok
 
 14? 2 pages
 
-
-*****Unofficial*****
+#### Unofficial Tokens
 
 - [ ] Jeff’s (signed) tokens
 
