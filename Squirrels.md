@@ -20,22 +20,22 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 - [ ] Acorn catapult
 - [ ] Acorn catapult
 
-- [ ] Chatter of the squirrel
-- [ ] Chatter of the squirrel
-- [ ] Chatter of the squirrel
-- [ ] Chatter of the squirrel
-- [ ] Chatter of the squirrel
-- [ ] Chatter of the squirrel
+- [ ] Chatter of the squirrel 	Mystery Booster/The List (odyssey logo with foil stamp lower left)
+- [ ] Chatter of the squirrel double masters foil
+- [ ] Chatter of the squirrel odyssey foil
+- [ ] Chatter of the squirrel odyssey
+- [ ] Chatter of the squirrel double masters (has a double helix and boarder is lighter)
+- [ ] Chatter of the squirrel secret lair
 
 - [ ] Chatterfang new art style
-- [ ] Chatterfang new art style foil
+- [ ] Chatterfang new art style foil $30+
 
-- [ ] Chatterfang (original art) 6x
-- [ ] Chatterfang (original art)
-- [ ] Chatterfang (original art)
-- [ ] Chatterfang (original art)
-- [ ] Chatterfang (original art)
-- [ ] Chatterfang (original art)
+- [ ] Chatterfang (original art) Modern Horizons 2
+- [ ] Chatterfang (original art) Modern Horizons 2 Variants (according to Card kingdom 2 types of these exist)
+- [ ] Chatterfang (original art) Modern Horizons 2 Variants
+- [ ] Chatterfang (original art) Promotional (diamond looking symbol)
+- [ ] Chatterfang (original art) Modern Horizons 2 foil
+- [ ] Chatterfang (original art) Modern Horizons 2 Variants foil
 
 - [ ] Chatterfang art cards old art card 
 - [ ] Chatterfang art cards old art card signed
