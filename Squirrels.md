@@ -14,7 +14,7 @@ check against Cardkingdom.com for "normal cards"
 
 Cardkingdom.com seems to be the best
 
-fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-briefly-took-over-magic-the-gathering
+:shipit: fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-briefly-took-over-magic-the-gathering
 
 -------------------------------------------------------------------
 
