@@ -15,7 +15,9 @@ check against Cardkingdom.com for "normal cards"
 Cardkingdom.com seems to be the best
 
 fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-briefly-took-over-magic-the-gathering
+
 -------------------------------------------------------------------
+
 Acornelia, Fashionable Filcher 2x
 
 Acorn harvest 2x
@@ -35,93 +37,173 @@ Chatterfang old art 6x
 Chatterstorm 5x
 
 Chatterstorm art 2x
+
 Chittersplinter 5x
+
 Cloakwood Hermit 3x
+
 Deep forest hermit 4x
+
 Deranged hermit 3x
+
 Druids call 2x
+
 Dry keeper 2x
+
 Earl of squirrel 3x
+
 Form of the squirrel 
+
 Half squirrel half 3x
+
 Helica glider 3x
+
 Junk winder 2x
+
 Junk winder art cards 2x
+
 Kill destroy 2x
+
 Knight of New Benalia 2x
+
 Krosan beast 3x
+
 Liege of the hallows
+
 Might of oaks 2x (foil is $80+!)
+
 Monstrous Growth 3x
+
 Mother kangaroo 3x
+
 Nantuko shrine 2x
+
 Nested shambler 5x
+
 Nested shambler art cards 2x
+
 Night Brushwagg Ringmaster
+
 Nut collector 3x
+
 Oaken Brawler 2x
+
 Oaken Power Suit 2x
+
 Oddly Uneven 3x
+
 Psychotic haze 2x
+
 Quirion Beastcaller 7x
+
 Ravenous squirrel 4x
+
 Savvy Hunter 2x
+
 Scurred colony 2x
+
 Scurry oak 2x
+
 Scurry oak 2x (as art cards)
+
 Snickering squirrel 3x
+
 So shinny 2x
+
 Specimen collector 2x
+
 Squirrel dealer 2x
+
 Squirrel farm 2x
+
 Squirrel mob 7x
+
 Squirrel nest 7x
+
 Squirrel powered scheme 2x
+
 Squirrel sanctuary 2x
+
 Squirrel sanctuary art cards 2x
+
 Squirrel sovereign 5x
+
 Squirrel sovereign art cards 2x
+
 squirrel squatters 2x
+
 squirrel stack 6x (2-3-6, 2-4-6, 2-5-6, 3-4-6, 3-5-6, 4-5-6)
+
 Squirrel wrangler 4x
+
 Steel squirrel 2x
+
 Swarmyard 5x
+
 Sylvan Tutor(only 1 and $50+!)
+
 Team spirit (unglued)
+
 Toski 7x (2 are old art)
+
 Toski art 2x
+
 Underworld hermit 4x
+
 Urzras dark cannonball
+
 Verdant command 4x
+
 Wandering Treefolk (online only)
+
 Xenosquirrels 2x
 
 201 cards, 22.3 pages (23)
 -------------------------------------------------------------------
 Unofficial and official Tokens will have its own section
 
+
 *****Official Tokens*****
+
 Flying towards user 7x (Double masters, Dominaria remastered, modern horizons, modern horizons 2, unsantioned, consiracy, commander legends battle) 
+
 unstable (wheel and water bottle) - got it!
+
 Expensive odyssey one
+
 Korean one that looks like a hamster "JingHe Age Token Cards" They are not printed on official Magic card stock
+
 Unglued  need a dedicated one cant take from ungluded set
+
 Secret lair one  - got it!
+
 unfinity 2x https://www.tcgplayer.com/product/288183/magic-unfinity-squirrel-token
+
 14? 2 pages
 
 
 *****Unofficial*****
+
 Jeff’s (signed) tokens
+
 Cardimagigs 8x
+
 Johannes voss sparkley squirrel (there are 2 known ones one on ebay)
+
 Pat lewis ? is this an official one?
+
 GND (ebay) 5x
+
 oma store 8x (including a pat lewis one)
+
 card kingdom robot squirrel - got it!
+
 Squirrel/ bird yourmovegames.com - got it!
+
 more here get from other sites first becuase they seem like they have foil variants other other sites stuff https://www.tokensformtg.com/search/search/squirrel
 
 put extra at the end of the book as "extras"
+
 36 cards ? 4 pages?
+
 squirrel lands 5x put at the end of tokens
