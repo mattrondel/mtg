@@ -218,9 +218,9 @@ GND (ebay) 5x
 
 oma store 8x (including a pat lewis one)
 
-card kingdom robot squirrel - got it!
+- [x] card kingdom robot squirrel
 
-Squirrel/ bird yourmovegames.com - got it!
+- [x] Squirrel/ bird yourmovegames.com
 
 more here get from other sites first becuase they seem like they have foil variants other other sites stuff https://www.tokensformtg.com/search/search/squirrel
 
@@ -228,4 +228,8 @@ put extra at the end of the book as "extras"
 
 36 cards ? 4 pages?
 
-squirrel lands 5x put at the end of tokens
+- [x] squirrel lands Plains
+- [x] squirrel lands Forest
+- [x] squirrel lands Moutain
+- [x] squirrel lands Island
+- [x] squirrel lands Swamp
