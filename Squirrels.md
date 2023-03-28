@@ -55,7 +55,7 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 - [ ] Chittersplinter
 - [ ] Chittersplinter
 - [ ] Chittersplinter
-- [ ] Chittersplinter
+- [ ] Chittersplinter (Extended Art) - Modern Horizons 2 (MH2)
 
 - [ ] Cloakwood Hermit 3x
 - [ ] Cloakwood Hermit 3x
