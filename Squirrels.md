@@ -66,7 +66,7 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 - [ ] Deep forest hermit 4x Modern Horizons foil #161
 
 - [ ] Deranged hermit urzas legacy
-- [ ] Deranged hermit urzas legacy foil ($199+
+- [ ] Deranged hermit urzas legacy foil ($199+)
 - [ ] Deranged hermit Judges promo ($75+)
 
 - [ ] Druids call
