@@ -1,6 +1,6 @@
-:shipit:
-## Squirrels 
 
+## Squirrels 
+:shipit:
 check against Cardkingdom.com for "normal cards"
 
 Cardkingdom.com seems to be the best
