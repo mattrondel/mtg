@@ -13,14 +13,14 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 - [X] Acornelia, Fashionable Filcher foil
 
 - [ ] Acorn harvest
-- [ ] Acorn harvest
+- [ ] Acorn harvest foil
 
 - [ ] Acorn stash
 
-- [ ] Acorn catapult
-- [ ] Acorn catapult
+- [ ] Acorn catapult Mystery Booster/the list (TLP) foil stamp lower left
+- [ ] Acorn catapult commander
 
-- [ ] Chatter of the squirrel 	Mystery Booster/The List (odyssey logo with foil stamp lower left)
+- [ ] Chatter of the squirrel	Mystery Booster/The List (odyssey logo with foil stamp lower left)
 - [ ] Chatter of the squirrel double masters foil
 - [ ] Chatter of the squirrel odyssey foil
 - [ ] Chatter of the squirrel odyssey
@@ -42,43 +42,44 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 - [ ] Chatterfang art cards new art card 
 - [ ] Chatterfang art cards new art card signed
 
-- [ ] Chatterstorm
-- [ ] Chatterstorm 
-- [ ] Chatterstorm 
-- [ ] Chatterstorm 
-- [ ] Chatterstorm 
+- [ ] Chatterstorm Modern Horizons 2 #411 foil "etched" (Retro Frame) 
+- [ ] Chatterstorm Modern Horizons 2 #411 (Retro Frame) 
+- [ ] Chatterstorm Modern Horizons 2 #152
+- [ ] Chatterstorm Modern Horizons 2 #152 Foil
+- [ ] Chatterstorm - not sure if a 5th variant exists
 
 - [ ] Chatterstorm art card
 - [ ] Chatterstorm art card signed
 
-- [ ] Chittersplinter
-- [ ] Chittersplinter
-- [ ] Chittersplinter
-- [ ] Chittersplinter
-- [ ] Chittersplinter (Extended Art) - Modern Horizons 2 (MH2)
+- [ ] Chittersplinter Modern Horizons 2 extended art foil
+- [ ] Chittersplinter Modern Horizons 2 foil
+- [ ] Chittersplinter Modern Horizons 2
+- [ ] Chittersplinter Chitterspitter (Prerelease Foil)
+- [ ] Chittersplinter Extended Art - Modern Horizons 2 (MH2)
 
-- [ ] Cloakwood Hermit 3x
-- [ ] Cloakwood Hermit 3x
-- [ ] Cloakwood Hermit 3x
+- [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate
+- [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate (CLB) Foil
 
-- [ ] Deep forest hermit 4x
-- [ ] Deep forest hermit 4x
-- [ ] Deep forest hermit 4x
-- [ ] Deep forest hermit 4x
+- [ ] Deep forest hermit 4x Modern Horizons Foil "Etched" #20 Retro Frame
+- [ ] Deep forest hermit 4x Modern Horizons #161
+- [ ] Deep forest hermit 4x Modern Horizons retro frame #20 foil
+- [ ] Deep forest hermit 4x Modern Horizons foil #161
 
-- [ ] Deranged hermit 3x
-- [ ] Deranged hermit 3x
-- [ ] Deranged hermit 3x
+- [ ] Deranged hermit urzas legacy
+- [ ] Deranged hermit urzas legacy foil ($199+
+- [ ] Deranged hermit Judges promo ($75+)
 
-- [ ] Druids call 2x
-- [ ] Druids call 2x
+- [ ] Druids call
+- [ ] Druids call mystery booster/the list (foil stamp lower left)
+- [ ] Druids call odyssey foil 
 
-- [ ] Dry keeper 2x
-- [ ] Dry keeper 2x
+- [ ] Drey keeper
+- [ ] Drey keeper foil
 
-- [ ] Earl of squirrel
-- [ ] Earl of squirrel
-- [ ] Earl of squirrel
+- [ ] Earl of squirrel launch promo
+- [ ] Earl of squirrel unstable
+- [ ] Earl of squirrel Unstable foil
+- [ ] Earl of squirrel Mystery Booster/The List  (foil stamp lower left)
 
 - [ ] Form of the squirrel 
 
