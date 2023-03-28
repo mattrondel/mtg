@@ -18,51 +18,51 @@ Cardkingdom.com seems to be the best
 
 -------------------------------------------------------------------
 
-Acornelia, Fashionable Filcher
-Acornelia, Fashionable Filcher foil
+- [ ] Acornelia, Fashionable Filcher
+- [ ] Acornelia, Fashionable Filcher foil
 
-Acorn harvest
-Acorn harvest
+- [ ] Acorn harvest
+- [ ] Acorn harvest
 
-Acorn stash
+- [ ] Acorn stash
 
-Acorn catapult
-Acorn catapult
+- [ ] Acorn catapult
+- [ ] Acorn catapult
 
-Chatter of the squirrel
-Chatter of the squirrel
-Chatter of the squirrel
-Chatter of the squirrel
-Chatter of the squirrel
-Chatter of the squirrel
+- [ ] Chatter of the squirrel
+- [ ] Chatter of the squirrel
+- [ ] Chatter of the squirrel
+- [ ] Chatter of the squirrel
+- [ ] Chatter of the squirrel
+- [ ] Chatter of the squirrel
 
-Chatterfang new art style
-Chatterfang new art style foil
+- [ ] Chatterfang new art style
+- [ ] Chatterfang new art style foil
 
-Chatterfang (original art) 6x
-Chatterfang (original art)
-Chatterfang (original art)
-Chatterfang (original art)
-Chatterfang (original art)
-Chatterfang (original art)
+- [ ] Chatterfang (original art) 6x
+- [ ] Chatterfang (original art)
+- [ ] Chatterfang (original art)
+- [ ] Chatterfang (original art)
+- [ ] Chatterfang (original art)
+- [ ] Chatterfang (original art)
 
-Chatterfang art cards old art card 
-Chatterfang art cards old art card signed
-Chatterfang art cards new art card 
-Chatterfang art cards new art card signed
+- [ ] Chatterfang art cards old art card 
+- [ ] Chatterfang art cards old art card signed
+- [ ] Chatterfang art cards new art card 
+- [ ] Chatterfang art cards new art card signed
 
-Chatterstorm
-Chatterstorm 
-Chatterstorm 
-Chatterstorm 
-Chatterstorm 
+- [ ] Chatterstorm
+- [ ] Chatterstorm 
+- [ ] Chatterstorm 
+- [ ] Chatterstorm 
+- [ ] Chatterstorm 
 
-Chatterstorm art
-Chatterstorm art card signed
+- [ ] Chatterstorm art
+- [ ] Chatterstorm art card signed
 
-Chittersplinter 5x
+- [ ] Chittersplinter 5x
 
-Cloakwood Hermit 3x
+- [ ] Cloakwood Hermit 3x
 
 Deep forest hermit 4x
 
@@ -138,46 +138,87 @@ Squirrel dealer 2x
 
 Squirrel farm 2x
 
-Squirrel mob 7x
+- [ ] Squirrel mob
+- [ ] Squirrel mob
+- [ ] Squirrel mob
+- [ ] Squirrel mob
+- [ ] Squirrel mob
+- [ ] Squirrel mob
+- [ ] Squirrel mob
 
-Squirrel nest 7x
 
-Squirrel powered scheme 2x
+- [ ] Squirrel nest
+- [ ] Squirrel nest
+- [ ] Squirrel nest
+- [ ] Squirrel nest
+- [ ] Squirrel nest
+- [ ] Squirrel nest
+- [ ] Squirrel nest
 
-Squirrel sanctuary 2x
+- [ ] Squirrel powered scheme
+- [ ] Squirrel powered scheme
 
-Squirrel sanctuary art cards 2x
+- [ ] Squirrel sanctuary
+- [ ] Squirrel sanctuary
 
-Squirrel sovereign 5x
+- [ ] Squirrel sanctuary art cards 2x
+- [ ] Squirrel sanctuary art cards 2x
 
-Squirrel sovereign art cards 2x
+- [ ] Squirrel sovereign
+- [ ] Squirrel sovereign
+- [ ] Squirrel sovereign
+- [ ] Squirrel sovereign
+- [ ] Squirrel sovereign
 
-squirrel squatters 2x
+- [ ] Squirrel sovereign art cards 2x
+- [ ] Squirrel sovereign art cards 2x
 
-squirrel stack 2-3-6
-squirrel stack 2-4-6
-squirrel stack 2-5-6
-squirrel stack 3-4-6
-squirrel stack 3-5-6
-squirrel stack 4-5-6
+- [ ] squirrel squatters 2x
+- [ ] squirrel squatters 2x
 
-Squirrel wrangler 4x
 
-Steel squirrel 2x
+- [ ] squirrel stack 2-3-6
+- [ ] squirrel stack 2-4-6
+- [ ] squirrel stack 2-5-6
+- [ ] squirrel stack 3-4-6
+- [ ] squirrel stack 3-5-6
+- [ ] squirrel stack 4-5-6
 
-Swarmyard 5x
+- [ ] Squirrel wrangler
+- [ ] Squirrel wrangler
+- [ ] Squirrel wrangler
+- [ ] Squirrel wrangler
 
-Sylvan Tutor(only 1 and $50+!)
+- [ ] Steel squirrel
+- [ ] Steel squirrel
 
-Team spirit (unglued)
+- [ ] Swarmyard
+- [ ] Swarmyard 
+- [ ] Swarmyard 
+- [ ] Swarmyard 
+- [ ] Swarmyard 
 
-Toski 7x (2 are old art)
+- [ ] Sylvan Tutor(only 1 and $50+!)
 
-Toski art card 2x
+- [ ] Team spirit (unglued)
 
-Underworld hermit 4x
+- [ ] Toski old artwork
+- [ ] Toski old artwork foil
+- [ ] Toski 
+- [ ] Toski 
+- [ ] Toski 
+- [ ] Toski 
+- [ ] Toski 
+ 
+- [ ] Toski art card 2x
+- [ ] Toski art card 2x
 
-Urzras dark cannonball
+- [ ] Underworld hermit
+- [ ] Underworld hermit
+- [ ] Underworld hermit
+- [ ] Underworld hermit
+
+- [ ] Urzras dark cannonball
 
 - [ ] Verdant command 4x
 - [ ] Verdant command 4x
@@ -227,15 +268,15 @@ Pat lewis ? is this an official one?
 
 - [ ] GND (ebay) 5x
 
-oma store 8x (including a pat lewis one)
+- [ ] oma store 8x (including a pat lewis one)
 
 - [x] card kingdom robot squirrel
 
 - [x] Squirrel/ bird yourmovegames.com
 
-more here get from other sites first becuase they seem like they have foil variants other other sites stuff https://www.tokensformtg.com/search/search/squirrel
+- [ ] more here get from other sites first becuase they seem like they have foil variants other other sites stuff https://www.tokensformtg.com/search/search/squirrel
 
-put extra at the end of the book as "extras"
+- [ ] put extra at the end of the book as "extras"
 
 36 cards ? 4 pages?
 
