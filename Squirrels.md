@@ -254,16 +254,16 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 
 - [ ] Team spirit (unglued)
 
-- [ ] Toski old artwork
-- [ ] Toski old artwork foil
-- [ ] Toski 
-- [ ] Toski 
-- [ ] Toski 
-- [ ] Toski 
-- [ ] Toski 
+- [ ] Toski, Bearer of Secrets old artwork
+- [ ] Toski, Bearer of Secrets old artwork foil
+- [ ] Toski, Bearer of Secrets 
+- [ ] Toski, Bearer of Secrets 
+- [ ] Toski, Bearer of Secrets 
+- [ ] Toski, Bearer of Secrets 
+- [ ] Toski, Bearer of Secrets 
  
-- [ ] Toski art card 2x
-- [ ] Toski art card 2x
+- [ ] Toski, Bearer of Secrets art card 2x
+- [ ] Toski, Bearer of Secrets art card 2x
 
 - [ ] Underworld hermit
 - [ ] Underworld hermit
