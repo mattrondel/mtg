@@ -1,15 +1,3 @@
-### Solar System Exploration, 1950s – 1960s
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
-
 check against Cardkingdom.com for "normal cards"
 
 Cardkingdom.com seems to be the best
@@ -18,25 +6,47 @@ Cardkingdom.com seems to be the best
 
 -------------------------------------------------------------------
 
-Acornelia, Fashionable Filcher 2x
+Acornelia, Fashionable Filcher
+Acornelia, Fashionable Filcher foil
 
-Acorn harvest 2x
+Acorn harvest
+Acorn harvest
 
 Acorn stash
 
-Acron catapult 2x
+Acorn catapult
+Acorn catapult
 
-Chatter of the squirrel 6x
+Chatter of the squirrel
+Chatter of the squirrel
+Chatter of the squirrel
+Chatter of the squirrel
+Chatter of the squirrel
+Chatter of the squirrel
 
-Chatterfang 2x new art
+Chatterfang new art style
+Chatterfang new art style foil
 
-Chatterfang art cards 4x (old and new art signed and not)
+Chatterfang (original art) 6x
+Chatterfang (original art)
+Chatterfang (original art)
+Chatterfang (original art)
+Chatterfang (original art)
+Chatterfang (original art)
 
-Chatterfang old art 6x
+Chatterfang art cards old art card 
+Chatterfang art cards old art card signed
+Chatterfang art cards new art card 
+Chatterfang art cards new art card signed
 
-Chatterstorm 5x
+Chatterstorm
+Chatterstorm 
+Chatterstorm 
+Chatterstorm 
+Chatterstorm 
 
-Chatterstorm art 2x
+Chatterstorm art
+Chatterstorm art card signed
 
 Chittersplinter 5x
 
@@ -146,7 +156,7 @@ Team spirit (unglued)
 
 Toski 7x (2 are old art)
 
-Toski art 2x
+Toski art card 2x
 
 Underworld hermit 4x
 
