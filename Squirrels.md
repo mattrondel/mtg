@@ -9,8 +9,8 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 
 -------------------------------------------------------------------
 
-- [ ] Acornelia, Fashionable Filcher
-- [ ] Acornelia, Fashionable Filcher foil
+- [X] Acornelia, Fashionable Filcher
+- [X] Acornelia, Fashionable Filcher foil
 
 - [ ] Acorn harvest
 - [ ] Acorn harvest
@@ -48,86 +48,86 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 - [ ] Chatterstorm 
 - [ ] Chatterstorm 
 
-- [ ] Chatterstorm art
+- [ ] Chatterstorm art card
 - [ ] Chatterstorm art card signed
 
 - [ ] Chittersplinter 5x
 
 - [ ] Cloakwood Hermit 3x
 
-Deep forest hermit 4x
+- [ ] Deep forest hermit 4x
 
-Deranged hermit 3x
+- [ ] Deranged hermit 3x
 
-Druids call 2x
+- [ ] Druids call 2x
 
-Dry keeper 2x
+- [ ] Dry keeper 2x
 
-Earl of squirrel 3x
+- [ ] Earl of squirrel 3x
 
-Form of the squirrel 
+- [ ] Form of the squirrel 
 
-Half squirrel half 3x
+- [ ] Half squirrel half 3x
 
-Helica glider 3x
+- [ ] Helica glider 3x
 
-Junk winder 2x
+- [ ] Junk winder 2x
 
-Junk winder art cards 2x
+- [ ] Junk winder art cards 2x
 
-Kill destroy 2x
+- [ ] Kill destroy 2x
 
-Knight of New Benalia 2x
+- [ ] Knight of New Benalia 2x
 
-Krosan beast 3x
+- [ ] Krosan beast 3x
 
-Liege of the hallows
+- [ ] Liege of the hallows
 
-Might of oaks 2x (foil is $80+!)
+- [ ] Might of oaks 2x (foil is $80+!)
 
-Monstrous Growth 3x
+- [ ] Monstrous Growth 3x
 
-Mother kangaroo 3x
+- [ ] Mother kangaroo 3x
 
-Nantuko shrine 2x
+- [ ] Nantuko shrine 2x
 
-Nested shambler 5x
+- [ ] Nested shambler 5x
 
-Nested shambler art cards 2x
+- [ ] Nested shambler art cards 2x
 
-Night Brushwagg Ringmaster
+- [ ] Night Brushwagg Ringmaster
 
-Nut collector 3x
+- [ ] Nut collector 3x
 
-Oaken Brawler 2x
+- [ ] Oaken Brawler 2x
 
-Oaken Power Suit 2x
+- [ ] Oaken Power Suit 2x
 
-Oddly Uneven 3x
+- [ ] Oddly Uneven 3x
 
-Psychotic haze 2x
+- [ ] Psychotic haze 2x
 
-Quirion Beastcaller 7x
+- [ ] Quirion Beastcaller 7x
 
-Ravenous squirrel 4x
+- [ ] Ravenous squirrel 4x
 
-Savvy Hunter 2x
+- [ ] Savvy Hunter 2x
 
-Scurred colony 2x
+- [ ] Scurred colony 2x
 
-Scurry oak 2x
+- [ ] Scurry oak 2x
 
-Scurry oak 2x (as art cards)
+- [ ] Scurry oak 2x (as art cards)
 
-Snickering squirrel 3x
+- [ ] Snickering squirrel 3x
 
-So shinny 2x
+- [ ] So shinny 2x
 
-Specimen collector 2x
+- [ ] Specimen collector 2x
 
-Squirrel dealer 2x
+- [ ] Squirrel dealer 2x
 
-Squirrel farm 2x
+- [ ] Squirrel farm 2x
 
 - [ ] Squirrel mob
 - [ ] Squirrel mob
@@ -135,8 +135,7 @@ Squirrel farm 2x
 - [ ] Squirrel mob
 - [ ] Squirrel mob
 - [ ] Squirrel mob
-- [ ] Squirrel mob
-
+- [ ] Squirrel mob secret lair
 
 - [ ] Squirrel nest
 - [ ] Squirrel nest
@@ -152,8 +151,8 @@ Squirrel farm 2x
 - [ ] Squirrel sanctuary
 - [ ] Squirrel sanctuary
 
-- [ ] Squirrel sanctuary art cards 2x
-- [ ] Squirrel sanctuary art cards 2x
+- [ ] Squirrel sanctuary art card
+- [ ] Squirrel sanctuary art card signed
 
 - [ ] Squirrel sovereign
 - [ ] Squirrel sovereign
@@ -166,7 +165,6 @@ Squirrel farm 2x
 
 - [ ] squirrel squatters 2x
 - [ ] squirrel squatters 2x
-
 
 - [ ] squirrel stack 2-3-6
 - [ ] squirrel stack 2-4-6
@@ -229,10 +227,15 @@ Wandering Treefolk (online only)
 
 Unofficial and official Tokens will have its own section
 
-
 *****Official Tokens*****
 
-Flying towards user 7x (Double masters, Dominaria remastered, modern horizons, modern horizons 2, unsantioned, consiracy, commander legends battle) 
+- [ ] Flying towards player Double masters 
+- [ ] Flying towards player Dominaria remastered
+- [ ] Flying towards player modern horizons
+- [ ] Flying towards player modern horizons 2
+- [ ] Flying towards player unsantioned ?
+- [ ] Flying towards player consiracy
+- [ ] Flying towards player commander legends battle
 
 - [X] unstable (wheel and water bottle) - got it!
 
@@ -240,11 +243,12 @@ Flying towards user 7x (Double masters, Dominaria remastered, modern horizons, m
 
 - [ ] Korean one that looks like a hamster "JingHe Age Token Cards" They are not printed on official Magic card stock
 
-Unglued  need a dedicated one cant take from ungluded set
+- [ ] Unglued  need a dedicated one cant take from ungluded set
 
 - [X] Secret lair one  
 
-unfinity 2x https://www.tcgplayer.com/product/288183/magic-unfinity-squirrel-token
+- [ ] unfinity 2x? https://www.tcgplayer.com/product/288183/magic-unfinity-squirrel-token
+- [ ] unfinity 2x?
 
 14? 2 pages
 
