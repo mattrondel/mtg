@@ -154,7 +154,12 @@ Squirrel sovereign art cards 2x
 
 squirrel squatters 2x
 
-squirrel stack 6x (2-3-6, 2-4-6, 2-5-6, 3-4-6, 3-5-6, 4-5-6)
+squirrel stack 2-3-6
+squirrel stack 2-4-6
+squirrel stack 2-5-6
+squirrel stack 3-4-6
+squirrel stack 3-5-6
+squirrel stack 4-5-6
 
 Squirrel wrangler 4x
 
@@ -174,11 +179,15 @@ Underworld hermit 4x
 
 Urzras dark cannonball
 
-Verdant command 4x
+- [ ] Verdant command 4x
+- [ ] Verdant command 4x
+- [ ] Verdant command 4x
+- [ ] Verdant command 4x
 
 Wandering Treefolk (online only)
 
-Xenosquirrels 2x
+- [X] Xenosquirrels
+- [X] Xenosquirrels Foil
 
 201 cards, 22.3 pages (23)
 -------------------------------------------------------------------
@@ -189,15 +198,15 @@ Unofficial and official Tokens will have its own section
 
 Flying towards user 7x (Double masters, Dominaria remastered, modern horizons, modern horizons 2, unsantioned, consiracy, commander legends battle) 
 
-unstable (wheel and water bottle) - got it!
+- [X] unstable (wheel and water bottle) - got it!
 
-Expensive odyssey one
+- [ ] Expensive odyssey one
 
-Korean one that looks like a hamster "JingHe Age Token Cards" They are not printed on official Magic card stock
+- [ ] Korean one that looks like a hamster "JingHe Age Token Cards" They are not printed on official Magic card stock
 
 Unglued  need a dedicated one cant take from ungluded set
 
-Secret lair one  - got it!
+- [X] Secret lair one  
 
 unfinity 2x https://www.tcgplayer.com/product/288183/magic-unfinity-squirrel-token
 
@@ -206,15 +215,17 @@ unfinity 2x https://www.tcgplayer.com/product/288183/magic-unfinity-squirrel-tok
 
 *****Unofficial*****
 
-Jeff’s (signed) tokens
+- [ ] Jeff’s (signed) tokens
 
-Cardimagigs 8x
+- [ ] Cardimagigs 8x
 
-Johannes voss sparkley squirrel (there are 2 known ones one on ebay)
+- [ ] Johannes voss sparkley squirrel (there are 2 known ones one on ebay)
+
+- [ ] Johannes voss sparkley squirrel (there are 2 known ones one on ebay)
 
 Pat lewis ? is this an official one?
 
-GND (ebay) 5x
+- [ ] GND (ebay) 5x
 
 oma store 8x (including a pat lewis one)
 
