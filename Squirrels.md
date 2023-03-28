@@ -11,18 +11,29 @@
 - [ ] Comet Haley
 
 check against Cardkingdom.com for "normal cards"
+
 Cardkingdom.com seems to be the best
+
 fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-briefly-took-over-magic-the-gathering
 -------------------------------------------------------------------
 Acornelia, Fashionable Filcher 2x
+
 Acorn harvest 2x
+
 Acorn stash
+
 Acron catapult 2x
+
 Chatter of the squirrel 6x
+
 Chatterfang 2x new art
+
 Chatterfang art cards 4x (old and new art signed and not)
+
 Chatterfang old art 6x
+
 Chatterstorm 5x
+
 Chatterstorm art 2x
 Chittersplinter 5x
 Cloakwood Hermit 3x
