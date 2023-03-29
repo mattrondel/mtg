@@ -9,6 +9,8 @@ fun article https://magicuntapped.com/index.php/features/item/77-how-squirrels-b
 
 https://draftsim.com/mtg-squirrel/
 
+https://cardgamebase.com/best-mtg-squirrels/
+
 -------------------------------------------------------------------
 
 - [X] Acornelia, Fashionable Filcher
