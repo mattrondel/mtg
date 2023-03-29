@@ -1,4 +1,4 @@
-
+get what makes me happy / sparka joy like dont by ugly ones unless you want to
 ## Squirrels 
 :shipit:
 check against Cardkingdom.com for "normal cards"
