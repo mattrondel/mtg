@@ -64,10 +64,10 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate
 - [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate (CLB) Foil
 
-- [ ] Deep forest hermit 4x Modern Horizons Foil "Etched" #20 Retro Frame
-- [ ] Deep forest hermit 4x Modern Horizons #161
-- [ ] Deep forest hermit 4x Modern Horizons retro frame #20 foil
-- [ ] Deep forest hermit 4x Modern Horizons foil #161
+- [ ] Deep forest hermit Modern Horizons Foil "Etched" #20 Retro Frame
+- [ ] Deep forest hermit Modern Horizons #161
+- [ ] Deep forest hermit Modern Horizons retro frame #20 foil
+- [ ] Deep forest hermit Modern Horizons foil #161
 
 - [ ] Deranged hermit urzas legacy
 - [ ] Deranged hermit urzas legacy foil ($199+)
@@ -83,7 +83,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Earl of squirrel launch promo
 - [ ] Earl of squirrel unstable
 - [ ] Earl of squirrel Unstable foil
-- [ ] Earl of squirrel Mystery Booster/The List  (foil stamp lower left)
+- [ ] Earl of squirrel Mystery Booster/The List (foil stamp lower left)
 
 - [ ] Form of the squirrel 
 
@@ -107,94 +107,94 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Knight of New Benalia
 - [ ] Knight of New Benalia
 
-- [ ] Krosan beast 3x
-- [ ] Krosan beast 3x
-- [ ] Krosan beast 3x
+- [ ] Krosan beast 
+- [ ] Krosan beast 
+- [ ] Krosan beast seacret lair
 
 - [ ] Liege of the hallows
 
 - [ ] Might of oaks
-- [ ] Might of oaks 2x (foil is $80+!)
+- [ ] Might of oaks (foil is $80+!)
 
 - [ ] Monstrous Growth
 - [ ] Monstrous Growth
 - [ ] Monstrous Growth
 
-- [ ] Mother kangaroo 3x
-- [ ] Mother kangaroo 3x
-- [ ] Mother kangaroo 3x
+- [ ] Mother kangaroo 
+- [ ] Mother kangaroo 
+- [ ] Mother kangaroo 
 
-- [ ] Nantuko shrine 2x
-- [ ] Nantuko shrine 2x
+- [ ] Nantuko shrine 
+- [ ] Nantuko shrine 
 
-- [ ] Nested shambler 5x
-- [ ] Nested shambler 5x
-- [ ] Nested shambler 5x
-- [ ] Nested shambler 5x
-- [ ] Nested shambler 5x
+- [ ] Nested shambler 
+- [ ] Nested shambler 
+- [ ] Nested shambler 
+- [ ] Nested shambler 
+- [ ] Nested shambler 
 
-- [ ] Nested shambler art cards 2x
-- [ ] Nested shambler art cards 2x
+- [ ] Nested shambler art cards 
+- [ ] Nested shambler art cards 
 
 - [ ] Night Brushwagg Ringmaster
 
-- [ ] Nut collector 3x
-- [ ] Nut collector 3x
-- [ ] Nut collector 3x
+- [ ] Nut collector
+- [ ] Nut collector
+- [ ] Nut collector
 
-- [ ] Oaken Brawler 2x
-- [ ] Oaken Brawler 2x
+- [ ] Oaken Brawler 
+- [ ] Oaken Brawler 
 
-- [ ] Oaken Power Suit 2x
-- [ ] Oaken Power Suit 2x
+- [ ] Oaken Power Suit 
+- [ ] Oaken Power Suit 
 
-- [ ] Oddly Uneven 3x
-- [ ] Oddly Uneven 3x
-- [ ] Oddly Uneven 3x
+- [ ] Oddly Uneven 
+- [ ] Oddly Uneven 
+- [ ] Oddly Uneven 
 
-- [ ] Psychotic haze 2x
-- [ ] Psychotic haze 2x
+- [ ] Psychotic haze 
+- [ ] Psychotic haze 
 
-- [ ] Quirion Beastcaller 7x
-- [ ] Quirion Beastcaller 7x
-- [ ] Quirion Beastcaller 7x
-- [ ] Quirion Beastcaller 7x
-- [ ] Quirion Beastcaller 7x
-- [ ] Quirion Beastcaller 7x
-- [ ] Quirion Beastcaller 7x
+- [ ] Quirion Beastcaller 
+- [ ] Quirion Beastcaller 
+- [ ] Quirion Beastcaller 
+- [ ] Quirion Beastcaller 
+- [ ] Quirion Beastcaller 
+- [ ] Quirion Beastcaller 
+- [ ] Quirion Beastcaller 
 
-- [ ] Ravenous squirrel 4x
-- [ ] Ravenous squirrel 4x
-- [ ] Ravenous squirrel 4x
-- [ ] Ravenous squirrel 4x
+- [ ] Ravenous squirrel
+- [ ] Ravenous squirrel
+- [ ] Ravenous squirrel
+- [ ] Ravenous squirrel
 
-- [ ] Savvy Hunter 2x
-- [ ] Savvy Hunter 2x
+- [ ] Savvy Hunter 
+- [ ] Savvy Hunter 
 
-- [ ] Scurred colony 2x
-- [ ] Scurred colony 2x
+- [ ] Scurred colony 
+- [ ] Scurred colony 
 
-- [ ] Scurry oak 2x
-- [ ] Scurry oak 2x
+- [ ] Scurry oak 
+- [ ] Scurry oak 
 
-- [ ] Scurry oak 2x (as art cards)
-- [ ] Scurry oak 2x (as art cards)
+- [ ] Scurry oak (as art cards)
+- [ ] Scurry oak (as art cards)
 
-- [ ] Snickering squirrel 3x
-- [ ] Snickering squirrel 3x
-- [ ] Snickering squirrel 3x
+- [ ] Snickering squirrel 
+- [ ] Snickering squirrel 
+- [ ] Snickering squirrel 
 
-- [ ] So shinny 2x
-- [ ] So shinny 2x
+- [ ] So shinny 
+- [ ] So shinny 
 
-- [ ] Specimen collector 2x
-- [ ] Specimen collector 2x
+- [ ] Specimen collector 
+- [ ] Specimen collector 
 
-- [ ] Squirrel dealer 2x
-- [ ] Squirrel dealer 2x
+- [ ] Squirrel dealer 
+- [ ] Squirrel dealer 
 
-- [ ] Squirrel farm 2x
-- [ ] Squirrel farm 2x
+- [ ] Squirrel farm 
+- [ ] Squirrel farm 
 
 - [ ] Squirrel mob
 - [ ] Squirrel mob
@@ -227,11 +227,11 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sovereign
 - [ ] Squirrel sovereign
 
-- [ ] Squirrel sovereign art cards 2x
-- [ ] Squirrel sovereign art cards 2x
+- [ ] Squirrel sovereign art cards 
+- [ ] Squirrel sovereign art cards 
 
-- [ ] squirrel squatters 2x
-- [ ] squirrel squatters 2x
+- [ ] squirrel squatters
+- [ ] squirrel squatters
 
 - [ ] squirrel stack 2-3-6
 - [ ] squirrel stack 2-4-6
@@ -266,8 +266,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Toski, Bearer of Secrets 
 - [ ] Toski, Bearer of Secrets 
  
-- [ ] Toski, Bearer of Secrets art card 2x
-- [ ] Toski, Bearer of Secrets art card 2x
+- [ ] Toski, Bearer of Secrets art card 
+- [ ] Toski, Bearer of Secrets art card 
 
 - [ ] Underworld hermit
 - [ ] Underworld hermit
@@ -276,12 +276,10 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Urzras dark cannonball
 
-- [ ] Verdant command 4x
-- [ ] Verdant command 4x
-- [ ] Verdant command 4x
-- [ ] Verdant command 4x
-
-Wandering Treefolk (online only)
+- [ ] Verdant command
+- [ ] Verdant command
+- [ ] Verdant command
+- [ ] Verdant command
 
 - [X] Xenosquirrels
 - [X] Xenosquirrels Foil
