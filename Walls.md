@@ -32,7 +32,6 @@ Ones without Wall in the name
 - [ ] Cinder Wall – 4 x 2 different
 - [ ] Clockwork Drawbridge
 - [ ] Coastal Bulwark
-- [ ] Concealing Curtains
 - [ ] Concealing Curtains 4x 2 different “tinting”
 - [ ] Coral Colony
 - [ ] Crashing Drawbridge
