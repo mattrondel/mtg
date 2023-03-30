@@ -52,7 +52,6 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Chatterstorm Modern Horizons 2 #411 foil "etched" (Retro Frame) 
 - [ ] Chatterstorm Modern Horizons 2 #411 (Retro Frame) 
 ------------------------ 
-
 - [ ] Chatterstorm Modern Horizons 2 #152
 - [ ] Chatterstorm Modern Horizons 2 #152 Foil
 - [ ] Chatterstorm - not sure if a 5th variant exists
@@ -64,6 +63,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Chittersplinter Modern Horizons 2 foil
 - [ ] Chittersplinter Modern Horizons 2
 - [ ] Chittersplinter Chitterspitter (Prerelease Foil)
+------------------------ 
 - [ ] Chittersplinter Extended Art - Modern Horizons 2 (MH2)
 
 - [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate
@@ -76,6 +76,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Deranged hermit urzas legacy
 - [ ] Deranged hermit urzas legacy foil ($199+)
+------------------------ 
 - [ ] Deranged hermit Judges promo ($75+)
 
 - [ ] Druids call
@@ -88,6 +89,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Earl of squirrel launch promo
 - [ ] Earl of squirrel unstable
 - [ ] Earl of squirrel Unstable foil
+------------------------ 
 - [ ] Earl of squirrel Mystery Booster/The List (foil stamp lower left)
 
 - [ ] Form of the squirrel 
@@ -101,6 +103,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Helica glider
 
 - [ ] Junk winder
+------------------------ 
 - [ ] Junk winder
 
 - [ ] Junk winder art cards
@@ -114,7 +117,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Krosan beast 
 - [ ] Krosan beast 
-- [ ] Krosan beast seacret lair
+------------------------ 
+- [ ] Krosan beast secret lair
 
 - [ ] Liege of the hallows
 
@@ -127,6 +131,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Mother kangaroo 
 - [ ] Mother kangaroo 
+------------------------ 
 - [ ] Mother kangaroo 
 
 - [ ] Nantuko shrine 
@@ -139,6 +144,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Nested shambler 
 
 - [ ] Nested shambler art cards 
+------------------------ 
 - [ ] Nested shambler art cards 
 
 - [ ] Night Brushwagg Ringmaster
@@ -152,7 +158,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Oaken Power Suit 
 - [ ] Oaken Power Suit 
-
+------------------------ 
 - [ ] Oddly Uneven 
 - [ ] Oddly Uneven 
 - [ ] Oddly Uneven 
@@ -163,7 +169,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Quirion Beastcaller 
 - [ ] Quirion Beastcaller 
 - [ ] Quirion Beastcaller 
-- [ ] Quirion Beastcaller 
+- [ ] Quirion Beastcaller
+------------------------  
 - [ ] Quirion Beastcaller 
 - [ ] Quirion Beastcaller 
 - [ ] Quirion Beastcaller 
@@ -175,7 +182,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Savvy Hunter 
 - [ ] Savvy Hunter 
-
+------------------------ 
 - [ ] Scurred colony 
 - [ ] Scurred colony 
 
@@ -188,7 +195,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Snickering squirrel 
 - [ ] Snickering squirrel 
 - [ ] Snickering squirrel 
-
+------------------------ 
 - [ ] So shinny 
 - [ ] So shinny 
 
@@ -202,6 +209,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel farm 
 
 - [ ] Squirrel mob
+------------------------ 
 - [ ] Squirrel mob
 - [ ] Squirrel mob
 - [ ] Squirrel mob
@@ -212,6 +220,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel nest
 - [ ] Squirrel nest
 - [ ] Squirrel nest
+------------------------ 
 - [ ] Squirrel nest
 - [ ] Squirrel nest
 - [ ] Squirrel nest
@@ -224,6 +233,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sanctuary
 
 - [ ] Squirrel sanctuary art card
+------------------------ 
 - [ ] Squirrel sanctuary art card signed
 
 - [ ] Squirrel sovereign
@@ -236,6 +246,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sovereign art cards 
 
 - [ ] squirrel squatters
+------------------------ 
 - [ ] squirrel squatters
 
 - [ ] squirrel stack 2-3-6
@@ -247,6 +258,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Squirrel wrangler
 - [ ] Squirrel wrangler
+------------------------ 
 - [ ] Squirrel wrangler
 - [ ] Squirrel wrangler
 
@@ -257,8 +269,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Swarmyard 
 - [ ] Swarmyard 
 - [ ] Swarmyard 
-- [ ] Swarmyard 
-
+- [ ] Swarmyard secret lair foil
+------------------------ 
 - [ ] Sylvan Tutor(only 1 and $50+!)
 
 - [ ] Team spirit (unglued)
@@ -270,9 +282,10 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Toski, Bearer of Secrets 
 - [ ] Toski, Bearer of Secrets 
 - [ ] Toski, Bearer of Secrets 
+------------------------ 
  
 - [ ] Toski, Bearer of Secrets art card 
-- [ ] Toski, Bearer of Secrets art card 
+- [ ] Toski, Bearer of Secrets art card signed
 
 - [ ] Underworld hermit
 - [ ] Underworld hermit
@@ -283,6 +296,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Verdant command
 - [ ] Verdant command
+------------------------ 
 - [ ] Verdant command
 - [ ] Verdant command
 
@@ -297,7 +311,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 Unofficial and official Tokens will have its own section
 
-*****Official Tokens*****
+#### Official Tokens
 
 - [ ] Flying towards player Double masters 
 - [ ] Flying towards player Dominaria remastered
@@ -307,18 +321,22 @@ Unofficial and official Tokens will have its own section
 - [ ] Flying towards player consiracy
 - [ ] Flying towards player commander legends battle
 
+- [ ] Unglued - need a dedicated one cant take from ungluded set
 - [X] unstable (wheel and water bottle) - got it!
+- [ ] unfinity 2x? "cutesy eyes" https://www.tcgplayer.com/product/288183/magic-unfinity-squirrel-token
+- [X] Secret lair foil "furry"
 
 - [ ] Expensive odyssey one
 
 - [ ] Korean one that looks like a hamster "JingHe Age Token Cards" They are not printed on official Magic card stock
 
-- [ ] Unglued  need a dedicated one cant take from ungluded set
+#### Squirrel lands
+- [x] squirrel lands Plains
+- [x] squirrel lands Forest
+- [x] squirrel lands Moutain
+- [x] squirrel lands Island
+- [x] squirrel lands Swamp
 
-- [X] Secret lair one  
-
-- [ ] unfinity 2x? https://www.tcgplayer.com/product/288183/magic-unfinity-squirrel-token
-- [ ] unfinity 2x?
 
 14? 2 pages
 
@@ -337,6 +355,7 @@ Pat lewis ? is this an official one?
 - [ ] GND (ebay) 5x
 
 - [ ] oma store 8x (including a pat lewis one)
+- [ ] Cardamajigs 8 different styles , 5 of which I like
 
 - [x] card kingdom robot squirrel
 
@@ -344,12 +363,7 @@ Pat lewis ? is this an official one?
 
 - [ ] more here get from other sites first becuase they seem like they have foil variants other other sites stuff https://www.tokensformtg.com/search/search/squirrel
 
-- [ ] put extra at the end of the book as "extras"
+#### Spares/ extras are kept in the book
 
-36 cards ? 4 pages?
+36 cards ? 4 pages? no idea
 
-- [x] squirrel lands Plains
-- [x] squirrel lands Forest
-- [x] squirrel lands Moutain
-- [x] squirrel lands Island
-- [x] squirrel lands Swamp
