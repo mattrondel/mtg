@@ -1,4 +1,4 @@
-get what makes me happy / sparka joy like dont by ugly ones unless you want to, mainly focus on tokens and creatures
+get what makes me happy / spark joy like dont by ugly ones unless you want to, mainly focus on tokens and creatures, List is built for assuming collectiong them all with 9 page positions
 ## Squirrels 
 :shipit:
 check against Cardkingdom.com for "normal cards"
