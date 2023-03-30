@@ -1,10 +1,10 @@
-For sake of sanity maybe just get the different art works but not necessarily all printed copies (though it would be cool)
-Stick with the different versions i have so i can avoid getting alpha cards 
-At least make place holders for these cards
-Fun article https://mtg.fandom.com/wiki/Wall
-Cross check bottom lists against https://www.tcgplayer.com/ and https://www.cardkingdom.com/
+### For sake of sanity maybe just get the different art works but not necessarily all printed copies (though it would be cool)
+### Stick with the different versions i have so i can avoid getting alpha cards 
+### At least make place holders for these cards
+### Fun article https://mtg.fandom.com/wiki/Wall
+### Cross check bottom lists against https://www.tcgplayer.com/ and https://www.cardkingdom.com/
 ------------------------------------------------------------------------------------
-Missing from current collection Walls are separated by starts with "wall of" and ones that don’t
+### Missing from current collection Walls are separated by starts with "wall of" and ones that don’t
 - [ ] Shield sphere artifact - alliances
 - [ ] Shifting wall - stronghold
 - [ ] Shimmering barrier urzas saga
@@ -14,10 +14,10 @@ Missing from current collection Walls are separated by starts with "wall of" and
 - [ ] Wall of kelp homelands
 - [ ] Wall of razors stronghold
 ------------------------------------------------------------------------------------
-Legends in Italian? Like wall of light and putrid flesh, tombstones
-Walls in renaissance? Too many to track down, skip
-What about foils? 
-What about creatures with defender that don’t say create type wall?
+### Legends in Italian? Like wall of light and putrid flesh, tombstones
+### Walls in renaissance? Too many to track down, skip
+### What about foils? 
+### What about creatures with defender that don’t say create type wall?
 - [ ] Wall tokens 4x 3 different types
 - [ ] tinderwall
 ------------------------------------------------------------------------------------
@@ -78,7 +78,7 @@ Ones without Wall in the name
 - [ ] Wall of denial 4 x
 - [ ] Wall of Diffusion 3 x
 - [ ] Wall of Distortion
-- [ ] Wall of Dust 2 x - have
+- [X] Wall of Dust
 - [ ] Wall of Faith
 - [ ] Wall of fire 11 x (alpha $50+) 4 different styles
 - [ ] Wall of Forgotten Pharaohs 2 x
@@ -103,7 +103,7 @@ Ones without Wall in the name
 - [ ] Wall of Reverence 3 versions
 - [ ] Wall of Roots 8x (two styles I think I have one of these so far)
 - [ ] Wall of Runes 2x
-- [ ] Wall of Shadows 2x (I think I have these need to check) - have
+- [X] Wall of Shadows 2x (I think I have these need to check)
 - [ ] Wall of Shards
 - [ ] Wall of Stolen Identity
 - [ ] Wall of tanglecord
