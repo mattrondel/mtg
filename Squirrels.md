@@ -26,6 +26,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Chatter of the squirrel	Mystery Booster/The List (odyssey logo with foil stamp lower left)
 - [ ] Chatter of the squirrel double masters foil
+------------------------
+
 - [ ] Chatter of the squirrel odyssey foil
 - [ ] Chatter of the squirrel odyssey
 - [ ] Chatter of the squirrel double masters (has a double helix and boarder is lighter)
@@ -37,6 +39,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Chatterfang (original art) Modern Horizons 2
 - [ ] Chatterfang (original art) Modern Horizons 2 Variants (according to Card kingdom 2 types of these exist)
 - [ ] Chatterfang (original art) Modern Horizons 2 Variants
+------------------------
 - [ ] Chatterfang (original art) Promotional (diamond looking symbol)
 - [ ] Chatterfang (original art) Modern Horizons 2 foil
 - [ ] Chatterfang (original art) Modern Horizons 2 Variants foil
@@ -48,6 +51,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Chatterstorm Modern Horizons 2 #411 foil "etched" (Retro Frame) 
 - [ ] Chatterstorm Modern Horizons 2 #411 (Retro Frame) 
+------------------------ new page
+
 - [ ] Chatterstorm Modern Horizons 2 #152
 - [ ] Chatterstorm Modern Horizons 2 #152 Foil
 - [ ] Chatterstorm - not sure if a 5th variant exists
