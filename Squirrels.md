@@ -51,7 +51,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Chatterstorm Modern Horizons 2 #411 foil "etched" (Retro Frame) 
 - [ ] Chatterstorm Modern Horizons 2 #411 (Retro Frame) 
------------------------- new page
+------------------------ 
 
 - [ ] Chatterstorm Modern Horizons 2 #152
 - [ ] Chatterstorm Modern Horizons 2 #152 Foil
