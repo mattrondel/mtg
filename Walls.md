@@ -1,10 +1,10 @@
 #### For sake of sanity maybe just get the different art works but not necessarily all printed copies (though it would be cool)
-### Stick with the different versions i have so i can avoid getting alpha cards 
-### At least make place holders for these cards
-### Fun article https://mtg.fandom.com/wiki/Wall
-### Cross check bottom lists against https://www.tcgplayer.com/ and https://www.cardkingdom.com/
+#### Stick with the different versions i have so i can avoid getting alpha cards 
+#### At least make place holders for these cards
+#### Fun article https://mtg.fandom.com/wiki/Wall
+#### Cross check bottom lists against https://www.tcgplayer.com/ and https://www.cardkingdom.com/
 ------------------------------------------------------------------------------------
-### Missing from current collection Walls are separated by starts with "wall of" and ones that don’t
+#### Missing from current collection Walls are separated by starts with "wall of" and ones that don’t
 - [ ] Shield sphere artifact - alliances
 - [ ] Shifting wall - stronghold
 - [ ] Shimmering barrier urzas saga
@@ -14,10 +14,10 @@
 - [ ] Wall of kelp homelands
 - [ ] Wall of razors stronghold
 ------------------------------------------------------------------------------------
-### Legends in Italian? Like wall of light and putrid flesh, tombstones
-### Walls in renaissance? Too many to track down, skip
-### What about foils? 
-### What about creatures with defender that don’t say create type wall?
+#### Legends in Italian? Like wall of light and putrid flesh, tombstones
+#### Walls in renaissance? Too many to track down, skip
+#### What about foils? 
+#### What about creatures with defender that don’t say create type wall?
 - [ ] Wall tokens 4x 3 different types
 - [ ] tinderwall
 ------------------------------------------------------------------------------------
