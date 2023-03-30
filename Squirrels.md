@@ -265,25 +265,26 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Steel squirrel
 - [ ] Steel squirrel
 
-- [ ] Swarmyard
-- [ ] Swarmyard 
-- [ ] Swarmyard 
-- [ ] Swarmyard 
+- [ ] Swarmyard time spiral
+- [ ] Swarmyard time spiral remastered
+- [ ] Swarmyard time spiral FOIL
+- [ ] Swarmyard time spiral remastered FOIL
 - [ ] Swarmyard secret lair foil
 ------------------------ 
 - [ ] Sylvan Tutor(only 1 and $50+!)
 
 - [ ] Team spirit (unglued)
 
-- [ ] Toski, Bearer of Secrets old artwork
-- [ ] Toski, Bearer of Secrets old artwork foil
-- [ ] Toski, Bearer of Secrets 
-- [ ] Toski, Bearer of Secrets 
-- [ ] Toski, Bearer of Secrets 
-- [ ] Toski, Bearer of Secrets 
-- [ ] Toski, Bearer of Secrets 
+- [ ] Toski, Bearer of Secrets Kaldheim Variants (old artwork)
+- [ ] Toski, Bearer of Secrets Kaldheim Variants FOIL (old artwork)
+- [ ] Toski, Bearer of Secrets Kaldheim
+- [ ] Toski, Bearer of Secrets Prerelease
+- [ ] Toski, Bearer of Secrets Promo pack has a stamp above the expansion symbol
+- [ ] Toski, Bearer of Secrets Promo pack FOIL has a stamp above the expansion symbol
+- [ ] Toski, Bearer of Secrets Kaldheim FOIL
+
 ------------------------ 
- 
+- [ ] Toski, Bearer of Secrets  
 - [ ] Toski, Bearer of Secrets art card 
 - [ ] Toski, Bearer of Secrets art card signed
 
@@ -295,8 +296,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Urzras dark cannonball
 
 - [ ] Verdant command Modern horizons 2 (full color art)
-- [ ] Verdant command Modern horizons 2 variants (art not colored in)
 ------------------------ 
+- [ ] Verdant command Modern horizons 2 variants (art not colored in)
 - [ ] Verdant command Modern horizons 2 prerelease 2021 stamp
 - [ ] Verdant command Modern horizons 2 FOIL (full color art)
 - [ ] Verdant command Modern horizons 2 variants FOIL (art not colored in)
@@ -332,6 +333,7 @@ Unofficial and official Tokens will have its own section
 - [ ] Korean one that looks like a hamster "JingHe Age Token Cards" They are not printed on official Magic card stock
 
 #### Squirrel lands
+
 - [x] squirrel lands Plains
 - [x] squirrel lands Forest
 - [x] squirrel lands Moutain
@@ -364,7 +366,6 @@ Pat lewis ? is this an official one?
 
 - [ ] more here get from other sites first becuase they seem like they have foil variants other other sites stuff https://www.tokensformtg.com/search/search/squirrel
 
-#### Spares/ extras are kept in the book
-
 36 cards ? 4 pages? no idea
 
+#### Spares/ extras are kept in the book
