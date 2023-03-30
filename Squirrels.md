@@ -287,18 +287,19 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Toski, Bearer of Secrets art card 
 - [ ] Toski, Bearer of Secrets art card signed
 
-- [ ] Underworld hermit
-- [ ] Underworld hermit
-- [ ] Underworld hermit
-- [ ] Underworld hermit
+- [ ] Underworld hermit Modern horizons 2
+- [ ] Underworld hermit Modern horizons 2 variants (art not colored in)
+- [ ] Underworld hermit Modern horizons 2 FOIL
+- [ ] Underworld hermit Modern horizons 2 variants FOIL (art not colored in)
 
 - [ ] Urzras dark cannonball
 
-- [ ] Verdant command
-- [ ] Verdant command
+- [ ] Verdant command Modern horizons 2 (full color art)
+- [ ] Verdant command Modern horizons 2 variants (art not colored in)
 ------------------------ 
-- [ ] Verdant command
-- [ ] Verdant command
+- [ ] Verdant command Modern horizons 2 prerelease 2021 stamp
+- [ ] Verdant command Modern horizons 2 FOIL (full color art)
+- [ ] Verdant command Modern horizons 2 variants FOIL (art not colored in)
 
 - [X] Xenosquirrels
 - [X] Xenosquirrels Foil
