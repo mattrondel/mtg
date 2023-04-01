@@ -14,9 +14,9 @@
 - [ ] Wall of kelp homelands
 - [ ] Wall of razors stronghold
 ------------------------------------------------------------------------------------
-#### Legends in Italian? Like wall of light and putrid flesh, tombstones
-#### Walls in renaissance? Too many to track down, skip
-#### What about foils? 
+Legends in Italian? Like wall of light and putrid flesh, tombstones
+Walls in renaissance? Too many to track down, skip
+What about foils? 
 What about creatures with defender that don’t say create type wall?
 - [ ] Wall tokens 4x 3 different types
 - [ ] tinderwall
