@@ -22,8 +22,21 @@ What about foils? nah too many at the moment to track down
 
 What about creatures with defender that don’t say create type wall?
 
+-need to get with next purchase (next text break too) do this only after the next batch of orders come in
 - [ ] Wall tokens 4x 3 different types
 - [ ] tinderwall
+- [ ]  Roving Keep
+
+------------------------------------------------------------------------------------
+Create type not a wall but deals with them namley makes tokens:
+- [ ] Testament of Faith
+- [ ] Teyo, the Shieldmage
+- [ ] Tidal Wave
+- [ ] Basalt Golem
+- [ ] The Birth of Meletis
+- [ ] Wall of Kelp
+- [ ] Jungle Patrol
+
 ------------------------------------------------------------------------------------
 Ones without Wall in the name 
 - [ ] Academy Wall
