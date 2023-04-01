@@ -62,7 +62,9 @@ Ones without Wall in the name
 - [ ] Tuktuk Rubblefort (this is the correct spelling)
 - [ ] Vine Trellis
 - [ ] Weathered Sentinels
+- [ ] 
 ------------------------------------------------------------------------------------
+
 “WALL OF”
 - [ ] Wall of Air 10x (3 different styles) alpha $120+
 - [ ] Wall of Blood 2x
