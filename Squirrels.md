@@ -99,8 +99,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Half squirrel half
 
 - [ ] Helica glider
-- [ ] Helica glider
-- [ ] Helica glider
+- [ ] Helica glider foil
+- [ ] Helica glider no third version exists reshuffle the order
 
 - [ ] Junk winder
 ------------------------ 
