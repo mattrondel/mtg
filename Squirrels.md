@@ -33,9 +33,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Chatter of the squirrel double masters (has a double helix and boarder is lighter)
 - [ ] Chatter of the squirrel secret lair
 
-- [ ] Chatterfang new art style
-- [ ] Chatterfang new art style foil $30+
-
+- [ ] Chatterfang Modern Horizons 2 Variants (borderless) #316
+- [ ] Chatterfang Modern Horizons 2 Variants (borderless) FOIL #316
+- [ ] 
 - [ ] Chatterfang (original art) Modern Horizons 2
 - [ ] Chatterfang (original art) Modern Horizons 2 Variants (according to Card kingdom 2 types of these exist)
 - [ ] Chatterfang (original art) Modern Horizons 2 Variants
