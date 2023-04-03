@@ -120,65 +120,71 @@ https://cardgamebase.com/best-mtg-squirrels/
 ------------------------ 
 - [ ] Krosan beast secret lair
 
-- [ ] Liege of the hallows
+- [ ] Liege of the hollows
 
 - [ ] Might of oaks
 - [ ] Might of oaks (foil is $80+!)
 
-- [ ] Monstrous Growth
-- [ ] Monstrous Growth
-- [ ] Monstrous Growth
+- [ ] Monstrous Growth Starter 1999
+- [ ] Monstrous Growth portal II
+- [ ] Monstrous Growth Starter 2000
 
-- [ ] Mother kangaroo 
-- [ ] Mother kangaroo 
+- [ ] Mother kangaroo unstable
+- [ ] Mother kangaroo unssantioned
 ------------------------ 
-- [ ] Mother kangaroo 
+- [ ] Mother kangaroo unstable foil
 
 - [ ] Nantuko shrine 
-- [ ] Nantuko shrine 
+- [ ] Nantuko shrine FOIL (around $29)
 
-- [ ] Nested shambler 
-- [ ] Nested shambler 
-- [ ] Nested shambler 
-- [ ] Nested shambler 
-- [ ] Nested shambler 
+- [ ] Nested shambler #95
+- [ ] Nested shambler #399 (retro frame)
+- [ ] Nested shambler #399 (Foil Etched Retro Frame)
+- [ ] Nested shambler #399 FOIL (Retro Frame)
+- [ ] Nested shambler #95 FOIL
 
-- [ ] Nested shambler art cards 
------------------------- 
-- [ ] Nested shambler art cards 
+- [ ] Nested shambler art card
+------------------------ < need to redo the pages from this point >
+- [ ] Nested shambler art card signed 
 
 - [ ] Night Brushwagg Ringmaster
 
-- [ ] Nut collector
-- [ ] Nut collector
-- [ ] Nut collector
+- [ ] Nut collector Odyssey
+- [ ] Nut collector Odyssey FOIL (around $40)
+- [ ] Nut collector Mystery booster/the list (foil stamp in lower left)
+- [ ] Nut collector Dominaria remastered # 171 (I'll call you.. in flavor text)
+- [ ] Nut collector Dominaria remastered # 171 FOIL (I'll call you.. in flavor text)
+- [ ] Nut collector Dominaria remastered # 347 (I'll call you.. in flavor text)
+- [ ] Nut collector Dominaria remastered # 347 FOIL (I'll call you.. in flavor text)
+- [ ] Nut collector Dominaria remastered # 440 borderless (playing a harp) $8
+- [ ] Nut collector Dominaria remastered # 440 borderless FOIL (playing a harp)
 
 - [ ] Oaken Brawler 
-- [ ] Oaken Brawler 
+- [ ] Oaken Brawler foil
 
 - [ ] Oaken Power Suit 
 - [ ] Oaken Power Suit 
 ------------------------ 
-- [ ] Oddly Uneven 
-- [ ] Oddly Uneven 
-- [ ] Oddly Uneven 
+- [ ] Oddly Uneven unstable
+- [ ] Oddly Uneven unstable FOIL
+- [ ] Oddly Uneven Mystery booster/the list
 
 - [ ] Psychotic haze 
 - [ ] Psychotic haze 
 
-- [ ] Quirion Beastcaller 
-- [ ] Quirion Beastcaller 
-- [ ] Quirion Beastcaller 
-- [ ] Quirion Beastcaller
+- [ ] Quirion Beastcaller dominaria united
+- [ ] Quirion Beastcaller promo pack
+- [ ] Quirion Beastcaller dominaria united variants
+- [ ] Quirion Beastcaller promotional
 ------------------------  
-- [ ] Quirion Beastcaller 
-- [ ] Quirion Beastcaller 
-- [ ] Quirion Beastcaller 
+- [ ] Quirion Beastcaller dominaria united FOIL
+- [ ] Quirion Beastcaller promo pack FOIL
+- [ ] Quirion Beastcaller dominaria united variants FOIL
 
-- [ ] Ravenous squirrel
-- [ ] Ravenous squirrel
-- [ ] Ravenous squirrel
-- [ ] Ravenous squirrel
+- [ ] Ravenous squirrel Modern horizons 2
+- [ ] Ravenous squirrel Modern horizons 2 variants #375
+- [ ] Ravenous squirrel Modern horizons 2 FOIL
+- [ ] Ravenous squirrel Modern horizons 2 variants #375 FOIL
 
 - [ ] Savvy Hunter 
 - [ ] Savvy Hunter 
@@ -189,12 +195,12 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Scurry oak 
 - [ ] Scurry oak 
 
-- [ ] Scurry oak (as art cards)
-- [ ] Scurry oak (as art cards)
+- [ ] Scurry oak art card
+- [ ] Scurry oak art card signed
 
-- [ ] Snickering squirrel 
-- [ ] Snickering squirrel 
-- [ ] Snickering squirrel 
+- [ ] Snickering squirrel unstantioned 
+- [ ] Snickering squirrel unstable
+- [ ] Snickering squirrel unstable FOIL
 ------------------------ 
 - [ ] So shinny 
 - [ ] So shinny 
