@@ -49,6 +49,7 @@ about $54
 
 Check list from scryfall convereted to csv:
 -Est cost of set per scryfall $108-
+https://scryfall.com/sets/ust?as=checklist
 ----------------------------------------
 ,Number,NAME,Rarity,Price
 - [ ] ,1,Adorable Kitten,C,0.16
