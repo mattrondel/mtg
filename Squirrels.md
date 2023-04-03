@@ -35,7 +35,6 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Chatterfang Modern Horizons 2 Variants (borderless) #316
 - [ ] Chatterfang Modern Horizons 2 Variants (borderless) FOIL #316
-- [ ] 
 - [ ] Chatterfang (original art) Modern Horizons 2
 - [ ] Chatterfang (original art) Modern Horizons 2 Variants (according to Card kingdom 2 types of these exist)
 - [ ] Chatterfang (original art) Modern Horizons 2 Variants
