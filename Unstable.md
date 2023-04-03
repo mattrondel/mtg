@@ -22,3 +22,300 @@ Unfinity — 244 card booster set, plus 50 Attractions and 48 Sticker sheets
 https://www.google.com/aclk?sa=l&ai=DChcSEwif_e-Rh47-AhVv6-MHHdvABvYYABARGgJ5bQ&ae=2&sig=AOD64_1Dnc0Ee1LbMtYAGkgwHpsMkqFvhg&q&adurl&ved=2ahUKEwjV5eSRh47-AhWJEVkFHfS2AhkQ0Qx6BAgFEAE
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjV5eSRh47-AhWJEVkFHfS2AhkQFnoECEIQAQ&url=https%3A%2F%2Fwww.cardtrader.com%2Fen%2Fcards%2Funstable-complete-set-unstable&usg=AOvVaw2e2R04vIfVmhPupdjrB16f
+----------------------------------------
+Top 20 most expensive cards
+- [ ] ,147a,Everythingamajig,R,4.6
+- [ ] ,136,"Urza, Academy Headmaster",M,3.8
+- [ ] ,214,Swamp,C,3.7
+- [ ] ,49e,Very Cryptic Command,R,3.53
+- [ ] ,213,Island,C,3.44
+- [ ] ,49d,Very Cryptic Command,R,3.03
+- [ ] ,216,Forest,C,2.65
+- [ ] ,113c,Ineffable Blessing,R,2.59
+- [ ] ,82d,Garbage Elemental,U,2.58
+- [ ] ,212,Plains,C,2.53
+- [ ] ,147e,Everythingamajig,R,2.52
+- [ ] ,147c,Everythingamajig,R,2.47
+- [ ] ,147d,Everythingamajig,R,2.32
+- [ ] ,215,Mountain,C,2.26
+- [ ] ,49c,Very Cryptic Command,R,2.13
+- [ ] ,163,Sword of Dungeons & Dragons,M,2.07
+- [ ] ,147b,Everythingamajig,R,1.98
+- [ ] ,147f,Everythingamajig,R,1.95
+- [ ] ,108,Earl of Squirrel,R,1.87
+- [ ] ,113a,Ineffable Blessing,R,1.66
+
+about $54
+
+Check list from scryfall convereted to csv:
+-Est cost of set per scryfall $108-
+----------------------------------------
+,Number,NAME,Rarity,Price
+- [ ] ,1,Adorable Kitten,C,0.16
+- [ ] ,2,Aerial Toastmaster,U,0.12
+- [ ] ,3a,Amateur Auteur,C,0.14
+- [ ] ,3b,Amateur Auteur,C,0.13
+- [ ] ,3c,Amateur Auteur,C,0.1
+- [ ] ,3d,Amateur Auteur,C,0.14
+- [ ] ,4,By Gnome Means,R,0.18
+- [ ] ,5,Chivalrous Chevalier,C,0.09
+- [ ] ,6,Do-It-Yourself Seraph,M,0.59
+- [ ] ,7,Gimme Five,U,0.11
+- [ ] ,8,GO TO JAIL,C,0.1
+- [ ] ,9,"Half-Kitten, Half-",U,0.25
+- [ ] ,10,Humming-,C,0.09
+- [ ] ,11,Jackknight,R,0.22
+- [ ] ,12a,Knight of the Kitchen Sink,U,0.56
+- [ ] ,12b,Knight of the Kitchen Sink,U,0.27
+- [ ] ,12c,Knight of the Kitchen Sink,U,0.34
+- [ ] ,12d,Knight of the Kitchen Sink,U,0.36
+- [ ] ,12e,Knight of the Kitchen Sink,U,0.34
+- [ ] ,12f,Knight of the Kitchen Sink,U,0.29
+- [ ] ,13,Knight of the Widget,U,0.12
+- [ ] ,14,Midlife Upgrade,U,0.1
+- [ ] ,15,Oddly Uneven,R,0.19
+- [ ] ,16,Old Guard,C,0.06
+- [ ] ,17,Ordinary Pony,C,0.11
+- [ ] ,18,Rhino-,U,0.17
+- [ ] ,19,Riveting Rigger,C,0.03
+- [ ] ,20,Rules Lawyer,R,0.27
+- [ ] ,21,Sacrifice Play,C,0.07
+- [ ] ,22,Shaggy Camel,C,0.08
+- [ ] ,23,Side Quest,U,0.1
+- [ ] ,24,Success!,C,0.07
+- [ ] ,25,Teacher's Pet,U,0.17
+- [ ] ,26,Animate Library,R,0.25
+- [ ] ,27,Blurry Beeble,C,0.11
+- [ ] ,28,Chipper Chopper,C,0.09
+- [ ] ,29,Clocknapper,R,0.2
+- [ ] ,30,Crafty Octopus,C,0.13
+- [ ] ,31,Crow Storm,U,0.21
+- [ ] ,32,Defective Detective,C,0.08
+- [ ] ,33,Five-Finger Discount,U,0.15
+- [ ] ,34,Graveyard Busybody,R,0.22
+- [ ] ,35,"Half-Shark, Half-",U,0.16
+- [ ] ,36,Incite Insight,R,0.22
+- [ ] ,37,Kindly Cognician,U,0.11
+- [ ] ,38,Magic Word,C,0.07
+- [ ] ,39,Mer Man,C,0.08
+- [ ] ,40,More or Less,U,0.16
+- [ ] ,41a,Novellamental,C,0.1
+- [ ] ,41b,Novellamental,C,0.1
+- [ ] ,41c,Novellamental,C,0.12
+- [ ] ,41d,Novellamental,C,0.16
+- [ ] ,42,Numbing Jellyfish,C,0.09
+- [ ] ,43,S.N.E.A.K. Dispatcher,U,0.09
+- [ ] ,44,Socketed Sprocketer,U,0.13
+- [ ] ,45,Spell Suck,C,0.09
+- [ ] ,46,Spy Eye,U,0.11
+- [ ] ,47,Suspicious Nanny,U,0.12
+- [ ] ,48,Time Out,C,0.08
+- [ ] ,49a,Very Cryptic Command,R,1.63
+- [ ] ,49b,Very Cryptic Command,R,1.51
+- [ ] ,49c,Very Cryptic Command,R,2.13
+- [ ] ,49d,Very Cryptic Command,R,3.03
+- [ ] ,49e,Very Cryptic Command,R,3.53
+- [ ] ,49f,Very Cryptic Command,R,1.53
+- [ ] ,50,Wall of Fortune,C,0.11
+- [ ] ,51,Big Boa Constrictor,C,0.13
+- [ ] ,52,capital offense,C,0.08
+- [ ] ,53,Dirty Rat,C,0.1
+- [ ] ,54a,Extremely Slow Zombie,C,0.2
+- [ ] ,54b,Extremely Slow Zombie,C,0.18
+- [ ] ,54c,Extremely Slow Zombie,C,0.23
+- [ ] ,54d,Extremely Slow Zombie,C,0.23
+- [ ] ,55,"Finders, Keepers",C,0.15
+- [ ] ,56,Hangman,R,0.24
+- [ ] ,57,Hazmat Suit (Used),C,0.08
+- [ ] ,58,Hoisted Hireling,C,0.07
+- [ ] ,59,Inhumaniac,U,0.12
+- [ ] ,60,Masterful Ninja,R,0.19
+- [ ] ,61,Ninja,U,0.18
+- [ ] ,62,Old-Fashioned Vampire,U,0.2
+- [ ] ,63,Over My Dead Bodies,R,0.23
+- [ ] ,64,Overt Operative,U,0.15
+- [ ] ,65,"""Rumors of My Death . . .""",U,0.1
+- [ ] ,66,Skull Saucer,U,0.1
+- [ ] ,67a,Sly Spy,U,0.3
+- [ ] ,67b,Sly Spy,U,0.25
+- [ ] ,67c,Sly Spy,U,0.25
+- [ ] ,67d,Sly Spy,U,0.23
+- [ ] ,67e,Sly Spy,U,0.34
+- [ ] ,67f,Sly Spy,U,0.94
+- [ ] ,68,Snickering Squirrel,C,0.17
+- [ ] ,69,"Spike, Tournament Grinder",R,0.23
+- [ ] ,70,Squirrel-Powered Scheme,U,0.25
+- [ ] ,71,Steady-Handed Mook,C,0.11
+- [ ] ,72,Stinging Scorpion,C,0.06
+- [ ] ,73,Subcontract,C,0.09
+- [ ] ,74,Summon the Pack,M,0.4
+- [ ] ,75,Zombified,U,0.17
+- [ ] ,76,The Big Idea,R,0.23
+- [ ] ,77,Box of Free-Range Goblins,C,0.1
+- [ ] ,78,Bumbling Pangolin,C,0.08
+- [ ] ,79,Common Iguana,C,0.08
+- [ ] ,80,The Countdown Is at One,R,0.22
+- [ ] ,81,Feisty Stegosaurus,C,0.13
+- [ ] ,82a,Garbage Elemental,U,0.25
+- [ ] ,82b,Garbage Elemental,U,0.66
+- [ ] ,82c,Garbage Elemental,U,0.6
+- [ ] ,82d,Garbage Elemental,U,2.58
+- [ ] ,82e,Garbage Elemental,U,0.24
+- [ ] ,82f,Garbage Elemental,U,0.26
+- [ ] ,83,Goblin Haberdasher,U,0.13
+- [ ] ,84,"Half-Orc, Half-",U,0.11
+- [ ] ,85,Hammer Helper,C,0.1
+- [ ] ,86,Hammer Jammer,U,0.13
+- [ ] ,87,Hammerfest Boomtacular,U,0.1
+- [ ] ,88,Infinity Elemental,M,0.35
+- [ ] ,89,It That Gets Left Hanging,C,0.06
+- [ ] ,90,Just Desserts,C,0.09
+- [ ] ,91,Painiac,C,0.07
+- [ ] ,92,Party Crasher,U,0.13
+- [ ] ,93,Steamflogger Boss,R,0.44
+- [ ] ,94,Steamflogger of the Month,R,0.2
+- [ ] ,95,Steamflogger Temp,U,0.16
+- [ ] ,96,Steamfloggery,U,0.11
+- [ ] ,97,Super-Duper Death Ray,U,0.13
+- [ ] ,98a,Target Minotaur,C,0.16
+- [ ] ,98b,Target Minotaur,C,0.17
+- [ ] ,98c,Target Minotaur,C,0.12
+- [ ] ,98d,Target Minotaur,C,0.18
+- [ ] ,99,Three-Headed Goblin,R,0.28
+- [ ] ,100,Work a Double,C,0.09
+- [ ] ,101,Wrench-Rigger,C,0.1
+- [ ] ,102,As Luck Would Have It,R,0.22
+- [ ] ,103a,Beast in Show,C,0.14
+- [ ] ,103b,Beast in Show,C,0.13
+- [ ] ,103c,Beast in Show,C,0.2
+- [ ] ,103d,Beast in Show,C,0.12
+- [ ] ,104,Chittering Doom,U,0.2
+- [ ] ,105,Clever Combo,U,0.2
+- [ ] ,106,Druid of the Sacred Beaker,U,0.11
+- [ ] ,107,Eager Beaver,C,0.1
+- [ ] ,108,Earl of Squirrel,R,1.87
+- [ ] ,109,First Pick,U,0.16
+- [ ] ,110,Ground Pounder,C,0.1
+- [ ] ,111,"Half-Squirrel, Half-",U,0.14
+- [ ] ,112,Hydradoodle,R,0.23
+- [ ] ,113a,Ineffable Blessing,R,1.66
+- [ ] ,113b,Ineffable Blessing,R,1.03
+- [ ] ,113c,Ineffable Blessing,R,2.59
+- [ ] ,113d,Ineffable Blessing,R,1.33
+- [ ] ,113e,Ineffable Blessing,R,1.22
+- [ ] ,113f,Ineffable Blessing,R,0.82
+- [ ] ,114,Joyride Rigger,C,0.13
+- [ ] ,115,Monkey-,U,0.19
+- [ ] ,116,Mother Kangaroo,C,0.09
+- [ ] ,117,Multi-Headed,C,0.06
+- [ ] ,118,Really Epic Punch,C,0.1
+- [ ] ,119,Selfie Preservation,C,0.17
+- [ ] ,120,Serpentine,R,0.19
+- [ ] ,121,Shellephant,U,0.1
+- [ ] ,122,Slaying Mantis,U,0.11
+- [ ] ,123,Squirrel Dealer,C,0.24
+- [ ] ,124,Steamflogger Service Rep,U,0.12
+- [ ] ,125,Wild Crocodile,C,0.07
+- [ ] ,126,Willing Test Subject,C,0.11
+- [ ] ,127,Baron Von Count,M,0.6
+- [ ] ,128,Better Than One,R,0.18
+- [ ] ,129,Cramped Bunker,R,0.18
+- [ ] ,130,Dr. Julius Jumblemorph,M,0.33
+- [ ] ,131,The Grand Calcutron,M,0.45
+- [ ] ,132,"Grusilda, Monster Masher",R,0.26
+- [ ] ,133,Hot Fix,R,0.18
+- [ ] ,134,Ol' Buzzbark,M,0.48
+- [ ] ,135,"Phoebe, Head of S.N.E.A.K.",M,0.64
+- [ ] ,136,"Urza, Academy Headmaster",M,3.8
+- [ ] ,137,X,R,0.24
+- [ ] ,138,Mary O'Kill,R,0.2
+- [ ] ,139,Angelic Rocket,R,0.26
+- [ ] ,140,Border Guardian,U,0.13
+- [ ] ,141,Buzzing Whack-a-Doodle,U,0.1
+- [ ] ,142,Clock of DOOOOOOOOOOOOM!,U,0.12
+- [ ] ,143,Cogmentor,U,0.13
+- [ ] ,144,Contraption Cannon,U,0.09
+- [ ] ,145a,Curious Killbot,C,0.31
+- [ ] ,145b,Delighted Killbot,C,0.23
+- [ ] ,145c,Despondent Killbot,C,0.21
+- [ ] ,145d,Enraged Killbot,C,0.2
+- [ ] ,146,Entirely Normal Armchair,U,0.22
+- [ ] ,147a,Everythingamajig,R,4.6
+- [ ] ,147b,Everythingamajig,R,1.98
+- [ ] ,147c,Everythingamajig,R,2.47
+- [ ] ,147d,Everythingamajig,R,2.32
+- [ ] ,147e,Everythingamajig,R,2.52
+- [ ] ,147f,Everythingamajig,R,1.95
+- [ ] ,148,Gnome-Made Engine,C,0.1
+- [ ] ,149,Handy Dandy Clone Machine,R,0.12
+- [ ] ,150,Kindslaver,R,0.19
+- [ ] ,151,Krark's Other Thumb,U,0.42
+- [ ] ,152,Labro Bot,U,0.19
+- [ ] ,153,Lobe Lobber,U,0.25
+- [ ] ,154,Mad Science Fair Project,C,0.13
+- [ ] ,155,Modular Monstrosity,R,0.17
+- [ ] ,156,Proper Laboratory Attire,U,0.1
+- [ ] ,157,Robo-,U,0.17
+- [ ] ,158,Split Screen,R,0.26
+- [ ] ,159,Staff of the Letter Magus,U,0.12
+- [ ] ,160,Stamp of Approval,U,0.1
+- [ ] ,161,Steam-Powered,U,0.16
+- [ ] ,162,Steel Squirrel,U,0.4
+- [ ] ,163,Sword of Dungeons & Dragons,M,2.07
+- [ ] ,164,Voracious Vacuum,C,0.09
+- [ ] ,165a,Secret Base,C,0.2
+- [ ] ,165b,Secret Base,C,0.19
+- [ ] ,165c,Secret Base,C,0.22
+- [ ] ,165d,Secret Base,C,0.19
+- [ ] ,165e,Secret Base,C,0.2
+- [ ] ,166,Watermarket,R,0.2
+- [ ] ,167,Accessories to Murder,U,0.22
+- [ ] ,168,Applied Aeronautics,C,0.11
+- [ ] ,169,Arms Depot,U,0.22
+- [ ] ,170,Auto-Key,C,0.1
+- [ ] ,171,Bee-Bee Gun,M,0.34
+- [ ] ,172,Boomflinger,C,0.1
+- [ ] ,173,Buzz Buggy,C,0.13
+- [ ] ,174,Deadly Poison Sampler,R,0.19
+- [ ] ,175,Dictation Quillograph,C,0.1
+- [ ] ,176,Dispatch Dispensary,U,0.24
+- [ ] ,177,Division Table,C,0.09
+- [ ] ,178,Dogsnail Engine,U,0.25
+- [ ] ,179,Dual Doomsuits,R,0.18
+- [ ] ,180,Duplication Device,R,0.19
+- [ ] ,181,Faerie Aerie,M,0.44
+- [ ] ,182,Genetic Recombinator,U,0.25
+- [ ] ,183,Gift Horse,R,0.2
+- [ ] ,184,Gnomeball Machine,U,0.24
+- [ ] ,185,Goblin Slingshot,R,0.14
+- [ ] ,186,Guest List,R,0.17
+- [ ] ,187,Hard Hat Area,M,0.24
+- [ ] ,188,Head Banger,C,0.12
+- [ ] ,189,Hypnotic Swirly Disc,R,0.17
+- [ ] ,190,Inflation Station,C,0.12
+- [ ] ,191,Insufferable Syphon,U,0.23
+- [ ] ,192,Jamming Device,U,0.21
+- [ ] ,193,Lackey Recycler,C,0.14
+- [ ] ,194,Mandatory Friendship Shackles,C,0.11
+- [ ] ,195,Neural Network,U,0.23
+- [ ] ,196,Oaken Power Suit,R,0.17
+- [ ] ,197,Optical Optimizer,U,0.24
+- [ ] ,198,Pet Project,M,0.4
+- [ ] ,199,Quick-Stick Lick Trick,C,0.15
+- [ ] ,200,Rapid Prototyper,M,0.35
+- [ ] ,201,Record Store,R,0.22
+- [ ] ,202,Refibrillator,R,0.22
+- [ ] ,203,Sap Sucker,C,0.12
+- [ ] ,204,Sundering Fork,U,0.22
+- [ ] ,205,Targeting Rocket,U,0.22
+- [ ] ,206,Thud-for-Duds,U,0.25
+- [ ] ,207,Top-Secret Tunnel,C,0.12
+- [ ] ,208,Tread Mill,C,0.13
+- [ ] ,209,Turbo-Thwacking Auto-Hammer,U,0.24
+- [ ] ,210,Twiddlestick Charger,C,0.1
+- [ ] ,211,Widget Contraption,U,0.18
+- [ ] ,212,Plains,C,2.53
+- [ ] ,213,Island,C,3.44
+- [ ] ,214,Swamp,C,3.7
+- [ ] ,215,Mountain,C,2.26
+- [ ] ,216,Forest,C,2.65
