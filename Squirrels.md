@@ -108,16 +108,16 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Junk winder art cards
 - [ ] Junk winder art cards
 
-- [ ] Kill destroy
-- [ ] Kill destroy
+- [ ] Kill! Destroy! 
+- [ ] Kill! Destroy! FOIL
 
 - [ ] Knight of New Benalia
-- [ ] Knight of New Benalia
+- [ ] Knight of New Benalia FOIL
 
-- [ ] Krosan beast 
-- [ ] Krosan beast 
+- [X] Krosan beast Odyssey
+- [ ] Krosan beast Odyssey FOIL
 ------------------------ 
-- [ ] Krosan beast secret lair
+- [X] Krosan beast secret lair
 
 - [ ] Liege of the hollows
 
@@ -222,14 +222,18 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel mob
 - [ ] Squirrel mob secret lair
 
-- [ ] Squirrel nest
-- [ ] Squirrel nest
-- [ ] Squirrel nest
------------------------- 
-- [ ] Squirrel nest
-- [ ] Squirrel nest
-- [ ] Squirrel nest
-- [ ] Squirrel nest
+- [ ] Squirrel nest dominaria remastered #177
+- [ ] Squirrel nest odyssey
+- [ ] Squirrel nest world championship gold border
+------------------------  <<< need to add more to this
+- [ ] Squirrel nest modern horizon
+- [ ] Squirrel nest conspiracy
+- [ ] Squirrel nest dominaria remastered variants #349
+- [ ] Squirrel nest dominaria remastered variants #349 FOIL
+- [ ] Squirrel nest conspiracy FOIL #180
+- [ ] Squirrel nest modern horizon FOIL
+- [ ] Squirrel nest dominaria FOIL
+- [ ] Squirrel nest odyssey FOIL
 
 - [ ] Squirrel powered scheme
 - [ ] Squirrel powered scheme
