@@ -143,7 +143,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Nested shambler #95 FOIL
 
 - [ ] Nested shambler art card
------------------------- < need to redo the pages from this point >
+------------------------ 
+<<<< need to redo the pages from this point >
+
 - [ ] Nested shambler art card signed 
 
 - [ ] Night Brushwagg Ringmaster
@@ -225,7 +227,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel nest dominaria remastered #177
 - [ ] Squirrel nest odyssey
 - [ ] Squirrel nest world championship gold border
-------------------------  <<< need to add more to this
+------------------------  
+<<< need to add more to this
 - [ ] Squirrel nest modern horizon
 - [ ] Squirrel nest conspiracy
 - [ ] Squirrel nest dominaria remastered variants #349
