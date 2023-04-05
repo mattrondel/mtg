@@ -26,7 +26,8 @@ What about creatures with defender that don’t say create type wall?
 -need to get with next purchase (next text break too) do this only after the next batch of orders come in
 - [ ] Wall tokens 4x 3 different types
 - [ ] tinderwall
-- [ ]  Roving Keep
+- [ ] Roving Keep
+- [ ] Wall of kelp from homelands
 
 ------------------------------------------------------------------------------------
 Create type not a wall but deals with them namley makes tokens:
