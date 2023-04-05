@@ -290,14 +290,13 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Team spirit (unglued)
 
-- [ ] Toski, Bearer of Secrets Kaldheim Variants (old artwork)
-- [ ] Toski, Bearer of Secrets Kaldheim Variants FOIL (old artwork)
-- [ ] Toski, Bearer of Secrets Kaldheim
+- [ ] Toski, Bearer of Secrets Kaldheim Variants 
+- [ ] Toski, Bearer of Secrets Kaldheim Variants FOIL 
 - [ ] Toski, Bearer of Secrets Prerelease
 - [ ] Toski, Bearer of Secrets Promo pack has a stamp above the expansion symbol
 - [ ] Toski, Bearer of Secrets Promo pack FOIL has a stamp above the expansion symbol
------------------------- 
 - [ ] Toski, Bearer of Secrets Kaldheim FOIL
+------------------------ 
 - [ ] Toski, Bearer of Secrets  
 - [ ] Toski, Bearer of Secrets art card 
 - [ ] Toski, Bearer of Secrets art card signed
@@ -308,9 +307,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Underworld hermit Modern horizons 2 variants FOIL (art not colored in)
 
 - [ ] Urzras dark cannonball
------------------------- 
-- [ ] Verdant command Modern horizons 2 (full color art)
 
+- [ ] Verdant command Modern horizons 2 (full color art)
+------------------------ 
 - [ ] Verdant command Modern horizons 2 variants (art not colored in)
 - [ ] Verdant command Modern horizons 2 prerelease 2021 stamp
 - [ ] Verdant command Modern horizons 2 FOIL (full color art)
