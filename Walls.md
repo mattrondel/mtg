@@ -28,6 +28,7 @@ What about creatures with defender that don’t say create type wall?
 - [ ] tinderwall
 - [ ] Roving Keep
 - [ ] Wall of kelp from homelands
+## Get cards below too
 
 ------------------------------------------------------------------------------------
 Create type not a wall but deals with them namley makes tokens:
