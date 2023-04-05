@@ -50,7 +50,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Chatterstorm Modern Horizons 2 #411 foil "etched" (Retro Frame) 
 - [ ] Chatterstorm Modern Horizons 2 #411 (Retro Frame) 
------------------------- 
+ ------------------------
 - [ ] Chatterstorm Modern Horizons 2 #152
 - [ ] Chatterstorm Modern Horizons 2 #152 Foil
 - [ ] Chatterstorm - not sure if a 5th variant exists
@@ -61,13 +61,20 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Chittersplinter Modern Horizons 2 extended art foil
 - [ ] Chittersplinter Modern Horizons 2 foil
 - [ ] Chittersplinter Modern Horizons 2
-- [ ] Chittersplinter Chitterspitter (Prerelease Foil)
------------------------- 
+- [X] Chittersplinter Chitterspitter (Prerelease Foil)
+ ------------------------
 - [ ] Chittersplinter Extended Art - Modern Horizons 2 (MH2)
 
 - [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate
 - [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate (CLB) Foil
 
+- [ ] Comet, Stellar Pup
+- [ ] Comet, Stellar Pup (Borderless)
+- [ ] Comet, Stellar Pup foil #166
+- [ ] Comet, Stellar Pup (Borderless) foil #275
+- [ ] Comet, Stellar Pup galaxy foil #452
+- [ ] Comet, Stellar Pup (Borderless) galaxy foil #526
+------------------------
 - [ ] Deep forest hermit Modern Horizons Foil "Etched" #20 Retro Frame
 - [ ] Deep forest hermit Modern Horizons #161
 - [ ] Deep forest hermit Modern Horizons retro frame #20 foil
@@ -75,11 +82,12 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Deranged hermit urzas legacy
 - [ ] Deranged hermit urzas legacy foil ($199+)
------------------------- 
+ 
 - [ ] Deranged hermit Judges promo ($75+)
 
 - [ ] Druids call
 - [ ] Druids call mystery booster/the list (foil stamp lower left)
+------------------------
 - [ ] Druids call odyssey foil 
 
 - [ ] Drey keeper
@@ -88,27 +96,26 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Earl of squirrel launch promo
 - [ ] Earl of squirrel unstable
 - [ ] Earl of squirrel Unstable foil
------------------------- 
+ 
 - [ ] Earl of squirrel Mystery Booster/The List (foil stamp lower left)
 
 - [ ] Form of the squirrel 
 
-- [ ] Half squirrel half
-- [ ] Half squirrel half
-- [ ] Half squirrel half
+- [ ] Half-squirrel half unstantioned
+------------------------
+- [ ] Half-squirrel half unstable
+- [ ] Half-squirrel half unstable FOIL
 
 - [ ] Helica glider
 - [ ] Helica glider foil
-- [ ] Helica glider no third version exists reshuffle the order
 
 - [ ] Junk winder
------------------------- 
 - [ ] Junk winder foil
-
 - [ ] Junk winder art card
 - [ ] Junk winder art card signed
 
 - [ ] Kill! Destroy! 
+------------------------
 - [ ] Kill! Destroy! FOIL
 
 - [ ] Knight of New Benalia
@@ -116,13 +123,16 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [X] Krosan beast Odyssey
 - [ ] Krosan beast Odyssey FOIL
------------------------- 
 - [X] Krosan beast secret lair
 
 - [ ] Liege of the hollows
 
 - [ ] Might of oaks
 - [ ] Might of oaks (foil is $80+!)
+------------------------
+- [ ] Mistakes Were Made
+- [ ] Mistakes Were Made foil #147
+- [ ] Mistakes Were Made galaxy foil #433
 
 - [ ] Monstrous Growth Starter 1999
 - [ ] Monstrous Growth portal II
@@ -130,9 +140,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Mother kangaroo unstable
 - [ ] Mother kangaroo unssantioned
------------------------- 
 - [ ] Mother kangaroo unstable foil
-
+------------------------
 - [ ] Nantuko shrine 
 - [ ] Nantuko shrine FOIL (around $29)
 
@@ -143,9 +152,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Nested shambler #95 FOIL
 
 - [ ] Nested shambler art card
------------------------- 
+ 
 - [ ] Nested shambler art card signed 
-
+------------------------
 - [ ] Night Brushwagg Ringmaster
 
 - [ ] Nut collector Odyssey
@@ -155,9 +164,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Nut collector Dominaria remastered # 171 FOIL (I'll call you.. in flavor text)
 - [ ] Nut collector Dominaria remastered # 347 (I'll call you.. in flavor text)
 - [ ] Nut collector Dominaria remastered # 347 FOIL (I'll call you.. in flavor text)
-
------------------------- 
 - [ ] Nut collector Dominaria remastered # 440 borderless (playing a harp) $8
+------------------------
 - [ ] Nut collector Dominaria remastered # 440 borderless FOIL (playing a harp)
 
 - [ ] Oaken Brawler 
@@ -169,20 +177,21 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Oddly Uneven unstable
 - [ ] Oddly Uneven unstable FOIL
 - [ ] Oddly Uneven Mystery booster/the list
------------------------- 
+ 
 - [ ] Psychotic haze 
-- [ ] Psychotic haze 
+------------------------
+- [ ] Psychotic haze foil
 
 - [ ] Quirion Beastcaller dominaria united
 - [ ] Quirion Beastcaller promo pack
 - [ ] Quirion Beastcaller dominaria united variants
 - [ ] Quirion Beastcaller promotional
-
 - [ ] Quirion Beastcaller dominaria united FOIL
 - [ ] Quirion Beastcaller promo pack FOIL
 - [ ] Quirion Beastcaller dominaria united variants FOIL
------------------------- 
+ 
 - [ ] Ravenous squirrel Modern horizons 2
+------------------------
 - [ ] Ravenous squirrel Modern horizons 2 variants #375
 - [ ] Ravenous squirrel Modern horizons 2 FOIL
 - [ ] Ravenous squirrel Modern horizons 2 variants #375 FOIL
@@ -191,12 +200,11 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Savvy Hunter 
 
 - [ ] Scurred colony 
-- [ ] Scurred colony 
+- [ ] Scurred colony foil
 
 - [ ] Scurry oak 
------------------------- 
 - [ ] Scurry oak FOIL
-
+------------------------
 - [ ] Scurry oak art card
 - [ ] Scurry oak art card signed
 
@@ -205,12 +213,12 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Snickering squirrel unstable FOIL
 
 - [ ] So shinny 
-- [ ] So shinny 
+- [ ] So shinny foil
 
 - [ ] Specimen collector 
------------------------- 
+ 
 - [ ] Specimen collector FOIL
-
+------------------------
 - [ ] Squirrel dealer 
 - [ ] Squirrel dealer FOIL
 
@@ -222,20 +230,20 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel mob modern horizons 2
 - [ ] Squirrel mob modern horizons 2 foil etched #286
 - [ ] Squirrel mob mystery booster/the list
------------------------- 
+ 
 - [ ] Squirrel mob odyssey foil (around $23)
+------------------------
 - [ ] Squirrel mob modern horizons 2 FOIL (not the same as etched, collector numbers are the same) Grainy texture = Etched Smooth texture = Foil
 - [ ] Squirrel mob secret lair
 
 - [ ] Squirrel nest dominaria remastered #177
 - [ ] Squirrel nest odyssey
 - [ ] Squirrel nest world championship gold border
-
 - [ ] Squirrel nest modern horizon
 - [ ] Squirrel nest conspiracy
 - [ ] Squirrel nest dominaria remastered variants #349
------------------------- 
 - [ ] Squirrel nest dominaria remastered variants #349 FOIL
+------------------------
 - [ ] Squirrel nest conspiracy FOIL #180
 - [ ] Squirrel nest modern horizon FOIL
 - [ ] Squirrel nest dominaria FOIL
@@ -246,8 +254,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Squirrel sanctuary
 - [ ] Squirrel sanctuary FOIL
------------------------- 
-- [ ] Squirrel sanctuary art card
+ - [ ] Squirrel sanctuary art card
+------------------------
 - [ ] Squirrel sanctuary art card signed
 
 - [ ] Squirrel sovereign modern horizons 2
@@ -255,11 +263,11 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sovereign modern horizons 2 variants retro frame
 - [ ] Squirrel sovereign modern horizons 2 variants retro frame #175 FOIL
 - [ ] Squirrel sovereign modern horizons 2 variants retro frame #415 FOIL
-
 - [ ] Squirrel sovereign art card
 - [ ] Squirrel sovereign art card signed
------------------------- 
+ 
 - [ ] squirrel squatters
+------------------------
 - [ ] squirrel squatters FOIL #156
 - [ ] squirrel squatters Galaxy Foil (around $8) #442
 
@@ -271,8 +279,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] squirrel stack 4-5-6
 
 - [ ] Squirrel wrangler Prophecy
+------------------------
 - [ ] Squirrel wrangler Prophecy FOIL (around $20)
------------------------- 
+ 
 - [ ] Squirrel wrangler mystery booster/the list
 - [ ] Squirrel wrangler secret lair
 
@@ -283,9 +292,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Swarmyard time spiral remastered
 - [ ] Swarmyard time spiral FOIL (around $27)
 - [ ] Swarmyard time spiral remastered FOIL
-
+------------------------
 - [ ] Swarmyard secret lair foil
------------------------- 
+ 
 - [ ] Sylvan Tutor(only 1 and $50+!)
 
 - [ ] Team spirit (unglued)
@@ -297,7 +306,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Toski, Bearer of Secrets Promo pack FOIL has a stamp above the expansion symbol
 - [ ] Toski, Bearer of Secrets Kaldheim FOIL
 - [ ] Toski, Bearer of Secrets  
------------------------- 
+ 
 - [ ] Toski, Bearer of Secrets art card 
 - [ ] Toski, Bearer of Secrets art card signed
 
@@ -310,7 +319,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Verdant command Modern horizons 2 (full color art)
 - [ ] Verdant command Modern horizons 2 variants (art not colored in)
------------------------- 
+ 
 - [ ] Verdant command Modern horizons 2 prerelease 2021 stamp
 - [ ] Verdant command Modern horizons 2 FOIL (full color art)
 - [ ] Verdant command Modern horizons 2 variants FOIL (art not colored in)
@@ -319,17 +328,6 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Xenosquirrels Foil #096
 - [ ] Xenosquirrels galaxy Foil #382
 
-Add to the list and reorder
-- [X] Comet, Stellar Pup
-- [X] Comet, Stellar Pup (Borderless)
-- [X] Comet, Stellar Pup foil #166
-- [X] Comet, Stellar Pup (Borderless) foil #275
-- [X] Comet, Stellar Pup galaxy foil #452
-- [X] Comet, Stellar Pup (Borderless) galaxy foil #526
-
-- [X] Mistakes Were Made
-- [X] Mistakes Were Made foil #147
-- [X] Mistakes Were Made galaxy foil #433
 
 -------------------------------------------------------------------
 
