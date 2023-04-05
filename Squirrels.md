@@ -195,7 +195,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Scurry oak 
 ------------------------ 
-- [ ] Scurry oak 
+- [ ] Scurry oak FOIL
 
 - [ ] Scurry oak art card
 - [ ] Scurry oak art card signed
@@ -209,13 +209,13 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Specimen collector 
 ------------------------ 
-- [ ] Specimen collector 
+- [ ] Specimen collector FOIL
 
 - [ ] Squirrel dealer 
-- [ ] Squirrel dealer 
+- [ ] Squirrel dealer FOIL
 
 - [ ] Squirrel farm unglued
-- [ ] Squirrel farm 
+- [ ] Squirrel farm Unsanctioned
 
 - [ ] Squirrel mob odyssey
 
@@ -241,11 +241,11 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel nest dominaria FOIL
 - [ ] Squirrel nest odyssey FOIL
 
-- [ ] Squirrel powered scheme
-- [ ] Squirrel powered scheme
+- [ ] Squirrel-powered scheme
+- [ ] Squirrel-powered scheme FOIL
 
 - [ ] Squirrel sanctuary
-- [ ] Squirrel sanctuary
+- [ ] Squirrel sanctuary FOIL
 ------------------------ 
 - [ ] Squirrel sanctuary art card
 - [ ] Squirrel sanctuary art card signed
@@ -260,7 +260,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sovereign art card signed
 ------------------------ 
 - [ ] squirrel squatters
-- [ ] squirrel squatters
+- [ ] squirrel squatters FOIL
+- [ ] squirrel squatters Galaxy Foil (around $8)
 
 - [ ] squirrel stack 2-3-6
 - [ ] squirrel stack 2-4-6
@@ -269,23 +270,22 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] squirrel stack 3-5-6
 - [ ] squirrel stack 4-5-6
 
-- [ ] Squirrel wrangler
+- [ ] Squirrel wrangler Prophecy
+- [ ] Squirrel wrangler Prophecy FOIL (around $20)
 ------------------------ 
-- [ ] Squirrel wrangler
-
-- [ ] Squirrel wrangler
+- [ ] Squirrel wrangler mystery booster/the list
 - [ ] Squirrel wrangler secret lair
 
 - [ ] Steel squirrel
-- [ ] Steel squirrel
+- [ ] Steel squirrel FOIL (around $8)
 
 - [ ] Swarmyard time spiral
 - [ ] Swarmyard time spiral remastered
-- [ ] Swarmyard time spiral FOIL
+- [ ] Swarmyard time spiral FOIL (around $27)
 - [ ] Swarmyard time spiral remastered FOIL
------------------------- 
-- [ ] Swarmyard secret lair foil
 
+- [ ] Swarmyard secret lair foil
+------------------------ 
 - [ ] Sylvan Tutor(only 1 and $50+!)
 
 - [ ] Team spirit (unglued)
@@ -296,8 +296,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Toski, Bearer of Secrets Promo pack has a stamp above the expansion symbol
 - [ ] Toski, Bearer of Secrets Promo pack FOIL has a stamp above the expansion symbol
 - [ ] Toski, Bearer of Secrets Kaldheim FOIL
------------------------- 
 - [ ] Toski, Bearer of Secrets  
+------------------------ 
 - [ ] Toski, Bearer of Secrets art card 
 - [ ] Toski, Bearer of Secrets art card signed
 
@@ -309,8 +309,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Urzras dark cannonball
 
 - [ ] Verdant command Modern horizons 2 (full color art)
------------------------- 
 - [ ] Verdant command Modern horizons 2 variants (art not colored in)
+------------------------ 
 - [ ] Verdant command Modern horizons 2 prerelease 2021 stamp
 - [ ] Verdant command Modern horizons 2 FOIL (full color art)
 - [ ] Verdant command Modern horizons 2 variants FOIL (art not colored in)
