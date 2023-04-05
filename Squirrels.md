@@ -260,8 +260,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sovereign art card signed
 ------------------------ 
 - [ ] squirrel squatters
-- [ ] squirrel squatters FOIL
-- [ ] squirrel squatters Galaxy Foil (around $8)
+- [ ] squirrel squatters FOIL #156
+- [ ] squirrel squatters Galaxy Foil (around $8) #442
 
 - [ ] squirrel stack 2-3-6
 - [ ] squirrel stack 2-4-6
@@ -316,7 +316,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Verdant command Modern horizons 2 variants FOIL (art not colored in)
 
 - [X] Xenosquirrels
-- [X] Xenosquirrels Foil
+- [ ] Xenosquirrels Foil #096
+- [ ] Xenosquirrels galaxy Foil #382
 
 -------------------------------------------------------------------
 
