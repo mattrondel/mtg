@@ -103,10 +103,10 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Junk winder
 ------------------------ 
-- [ ] Junk winder
+- [ ] Junk winder foil
 
-- [ ] Junk winder art cards
-- [ ] Junk winder art cards
+- [ ] Junk winder art card
+- [ ] Junk winder art card signed
 
 - [ ] Kill! Destroy! 
 - [ ] Kill! Destroy! FOIL
@@ -217,14 +217,14 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel farm unglued
 - [ ] Squirrel farm 
 
-- [ ] Squirrel mob
+- [ ] Squirrel mob odyssey
 
-- [ ] Squirrel mob
-- [ ] Squirrel mob
-- [ ] Squirrel mob
+- [ ] Squirrel mob modern horizons 2
+- [ ] Squirrel mob modern horizons 2 foil etched #286
+- [ ] Squirrel mob mystery booster/the list
 ------------------------ 
-- [ ] Squirrel mob
-- [ ] Squirrel mob
+- [ ] Squirrel mob odyssey foil (around $23)
+- [ ] Squirrel mob modern horizons 2 FOIL (not the same as etched, collector numbers are the same) Grainy texture = Etched Smooth texture = Foil
 - [ ] Squirrel mob secret lair
 
 - [ ] Squirrel nest dominaria remastered #177
@@ -248,21 +248,18 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sanctuary
 ------------------------ 
 - [ ] Squirrel sanctuary art card
-
 - [ ] Squirrel sanctuary art card signed
 
-- [ ] Squirrel sovereign
-- [ ] Squirrel sovereign
-- [ ] Squirrel sovereign
-- [ ] Squirrel sovereign
-- [ ] Squirrel sovereign
+- [ ] Squirrel sovereign modern horizons 2
+- [ ] Squirrel sovereign modern horizons 2 variants foil etched
+- [ ] Squirrel sovereign modern horizons 2 variants retro frame
+- [ ] Squirrel sovereign modern horizons 2 variants retro frame #175 FOIL
+- [ ] Squirrel sovereign modern horizons 2 variants retro frame #415 FOIL
 
 - [ ] Squirrel sovereign art card
-
 - [ ] Squirrel sovereign art card signed
 ------------------------ 
 - [ ] squirrel squatters
-
 - [ ] squirrel squatters
 
 - [ ] squirrel stack 2-3-6
@@ -277,7 +274,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel wrangler
 
 - [ ] Squirrel wrangler
-- [ ] Squirrel wrangler
+- [ ] Squirrel wrangler secret lair
 
 - [ ] Steel squirrel
 - [ ] Steel squirrel
