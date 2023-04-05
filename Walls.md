@@ -12,7 +12,7 @@
 - [ ] Tinder wall ice age ice age, cold snap them deck reprints
 - [ ] Wall of blossoms - 14 possible printings all the same highest being $40+
 - [ ] Wall of essence stronghold 2x 2 frame differences same art
-- [ ] Wall of kelp homelands
+- [ ] Wall of kelp homelands around $4 this is the one that escaped me for years
 - [ ] Wall of razors stronghold
 ------------------------------------------------------------------------------------
 Legends in Italian? Like wall of light and putrid flesh, tombstones
