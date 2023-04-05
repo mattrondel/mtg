@@ -305,8 +305,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Toski, Bearer of Secrets Promo pack has a stamp above the expansion symbol
 - [ ] Toski, Bearer of Secrets Promo pack FOIL has a stamp above the expansion symbol
 - [ ] Toski, Bearer of Secrets Kaldheim FOIL
+------------------------
 - [ ] Toski, Bearer of Secrets  
- 
 - [ ] Toski, Bearer of Secrets art card 
 - [ ] Toski, Bearer of Secrets art card signed
 
@@ -318,6 +318,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Urzras dark cannonball
 
 - [ ] Verdant command Modern horizons 2 (full color art)
+------------------------
 - [ ] Verdant command Modern horizons 2 variants (art not colored in)
  
 - [ ] Verdant command Modern horizons 2 prerelease 2021 stamp
