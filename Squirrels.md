@@ -319,8 +319,17 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Xenosquirrels Foil #096
 - [ ] Xenosquirrels galaxy Foil #382
 
-Unfinity cards that make squirrel tokens
-Comet, Stellar Pup
+Add to the list and reorder
+- [X] Comet, Stellar Pup
+- [X] Comet, Stellar Pup (Borderless)
+- [X] Comet, Stellar Pup foil #166
+- [X] Comet, Stellar Pup (Borderless) foil #275
+- [X] Comet, Stellar Pup galaxy foil #452
+- [X] Comet, Stellar Pup (Borderless) galaxy foil #526
+
+- [X] Mistakes Were Made
+- [X] Mistakes Were Made foil #147
+- [X] Mistakes Were Made galaxy foil #433
 
 -------------------------------------------------------------------
 
