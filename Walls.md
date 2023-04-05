@@ -9,7 +9,7 @@
 - [ ] Shield sphere artifact - alliances
 - [ ] Shifting wall - stronghold
 - [ ] Shimmering barrier urzas saga
-- [ ] Tinder wall ice age ice age, cold snap them deck reprints
+- [ ] Tinder wall
 - [ ] Wall of blossoms - 14 possible printings all the same highest being $40+
 - [ ] Wall of essence stronghold 2x 2 frame differences same art
 - [ ] Wall of kelp homelands around $4 this is the one that escaped me for years
