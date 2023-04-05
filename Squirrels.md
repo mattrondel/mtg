@@ -144,8 +144,6 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Nested shambler art card
 ------------------------ 
-<<<< need to redo the pages from this point >
-
 - [ ] Nested shambler art card signed 
 
 - [ ] Night Brushwagg Ringmaster
@@ -157,6 +155,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Nut collector Dominaria remastered # 171 FOIL (I'll call you.. in flavor text)
 - [ ] Nut collector Dominaria remastered # 347 (I'll call you.. in flavor text)
 - [ ] Nut collector Dominaria remastered # 347 FOIL (I'll call you.. in flavor text)
+
+------------------------ 
 - [ ] Nut collector Dominaria remastered # 440 borderless (playing a harp) $8
 - [ ] Nut collector Dominaria remastered # 440 borderless FOIL (playing a harp)
 
@@ -165,11 +165,11 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Oaken Power Suit 
 - [ ] Oaken Power Suit 
------------------------- 
+
 - [ ] Oddly Uneven unstable
 - [ ] Oddly Uneven unstable FOIL
 - [ ] Oddly Uneven Mystery booster/the list
-
+------------------------ 
 - [ ] Psychotic haze 
 - [ ] Psychotic haze 
 
@@ -177,11 +177,11 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Quirion Beastcaller promo pack
 - [ ] Quirion Beastcaller dominaria united variants
 - [ ] Quirion Beastcaller promotional
-------------------------  
+
 - [ ] Quirion Beastcaller dominaria united FOIL
 - [ ] Quirion Beastcaller promo pack FOIL
 - [ ] Quirion Beastcaller dominaria united variants FOIL
-
+------------------------ 
 - [ ] Ravenous squirrel Modern horizons 2
 - [ ] Ravenous squirrel Modern horizons 2 variants #375
 - [ ] Ravenous squirrel Modern horizons 2 FOIL
@@ -189,11 +189,12 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Savvy Hunter 
 - [ ] Savvy Hunter 
------------------------- 
+
 - [ ] Scurred colony 
 - [ ] Scurred colony 
 
 - [ ] Scurry oak 
+------------------------ 
 - [ ] Scurry oak 
 
 - [ ] Scurry oak art card
@@ -202,24 +203,26 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Snickering squirrel unstantioned 
 - [ ] Snickering squirrel unstable
 - [ ] Snickering squirrel unstable FOIL
------------------------- 
+
 - [ ] So shinny 
 - [ ] So shinny 
 
 - [ ] Specimen collector 
+------------------------ 
 - [ ] Specimen collector 
 
 - [ ] Squirrel dealer 
 - [ ] Squirrel dealer 
 
-- [ ] Squirrel farm 
+- [ ] Squirrel farm unglued
 - [ ] Squirrel farm 
 
 - [ ] Squirrel mob
+
+- [ ] Squirrel mob
+- [ ] Squirrel mob
+- [ ] Squirrel mob
 ------------------------ 
-- [ ] Squirrel mob
-- [ ] Squirrel mob
-- [ ] Squirrel mob
 - [ ] Squirrel mob
 - [ ] Squirrel mob
 - [ ] Squirrel mob secret lair
@@ -227,11 +230,11 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel nest dominaria remastered #177
 - [ ] Squirrel nest odyssey
 - [ ] Squirrel nest world championship gold border
-------------------------  
-<<< need to add more to this
+
 - [ ] Squirrel nest modern horizon
 - [ ] Squirrel nest conspiracy
 - [ ] Squirrel nest dominaria remastered variants #349
+------------------------ 
 - [ ] Squirrel nest dominaria remastered variants #349 FOIL
 - [ ] Squirrel nest conspiracy FOIL #180
 - [ ] Squirrel nest modern horizon FOIL
@@ -243,9 +246,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Squirrel sanctuary
 - [ ] Squirrel sanctuary
-
-- [ ] Squirrel sanctuary art card
 ------------------------ 
+- [ ] Squirrel sanctuary art card
+
 - [ ] Squirrel sanctuary art card signed
 
 - [ ] Squirrel sovereign
@@ -254,11 +257,12 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sovereign
 - [ ] Squirrel sovereign
 
-- [ ] Squirrel sovereign art cards 
-- [ ] Squirrel sovereign art cards 
+- [ ] Squirrel sovereign art card
 
-- [ ] squirrel squatters
+- [ ] Squirrel sovereign art card signed
 ------------------------ 
+- [ ] squirrel squatters
+
 - [ ] squirrel squatters
 
 - [ ] squirrel stack 2-3-6
@@ -269,8 +273,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] squirrel stack 4-5-6
 
 - [ ] Squirrel wrangler
-- [ ] Squirrel wrangler
 ------------------------ 
+- [ ] Squirrel wrangler
+
 - [ ] Squirrel wrangler
 - [ ] Squirrel wrangler
 
@@ -281,8 +286,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Swarmyard time spiral remastered
 - [ ] Swarmyard time spiral FOIL
 - [ ] Swarmyard time spiral remastered FOIL
-- [ ] Swarmyard secret lair foil
 ------------------------ 
+- [ ] Swarmyard secret lair foil
+
 - [ ] Sylvan Tutor(only 1 and $50+!)
 
 - [ ] Team spirit (unglued)
@@ -293,9 +299,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Toski, Bearer of Secrets Prerelease
 - [ ] Toski, Bearer of Secrets Promo pack has a stamp above the expansion symbol
 - [ ] Toski, Bearer of Secrets Promo pack FOIL has a stamp above the expansion symbol
-- [ ] Toski, Bearer of Secrets Kaldheim FOIL
-
 ------------------------ 
+- [ ] Toski, Bearer of Secrets Kaldheim FOIL
 - [ ] Toski, Bearer of Secrets  
 - [ ] Toski, Bearer of Secrets art card 
 - [ ] Toski, Bearer of Secrets art card signed
@@ -304,9 +309,9 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Underworld hermit Modern horizons 2 variants (art not colored in)
 - [ ] Underworld hermit Modern horizons 2 FOIL
 - [ ] Underworld hermit Modern horizons 2 variants FOIL (art not colored in)
------------------------- 
-- [ ] Urzras dark cannonball
 
+- [ ] Urzras dark cannonball
+------------------------ 
 - [ ] Verdant command Modern horizons 2 (full color art)
 
 - [ ] Verdant command Modern horizons 2 variants (art not colored in)
