@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=MC1XsNzEBmM
 sliver commander coming soon
 
 https://www.amazon.com/Magic-Gathering-Commander-Masters-Deck/dp/B0BVT8R4GF
+
+https://smokeandmirrorshobby.com/
