@@ -1,4 +1,5 @@
 #### For sake of sanity maybe just get the different art works but not necessarily all printed copies (though it would be cool)
+-Collection will be at least one of each card allowing for different art styles
 #### Stick with the different versions i have so i can avoid getting alpha cards 
 #### At least make place holders for these cards
 #### Fun article https://mtg.fandom.com/wiki/Wall
