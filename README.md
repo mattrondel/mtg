@@ -20,3 +20,6 @@ https://www.amazon.com/Magic-Gathering-Commander-Masters-Deck/dp/B0BVT8R4GF
 1 card each for commander 
 
 https://smokeandmirrorshobby.com/
+
+Another edh squirrel deck
+https://draftsim.com/chatterfang-edh-deck/
