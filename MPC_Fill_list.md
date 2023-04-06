@@ -1,1 +1,22 @@
 
+Mpc fill list 
+Wasteland
+Karpulsan forests
+Torian academy
+Mox diamonds
+
+
+Sliver queen
+
+Emerald charm
+Survival of fittest
+
+Other green cards from spike deck
+
+Squirrel general 
+Swarmland
+Green black land
+Intuition 
+
+Degranged hermit
+Earth craft
