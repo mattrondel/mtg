@@ -23,3 +23,4 @@ https://smokeandmirrorshobby.com/
 
 Another edh squirrel deck
 https://draftsim.com/chatterfang-edh-deck/
+https://www.moxfield.com/decks/LR3dmNd270SODwstc0Ezkg
