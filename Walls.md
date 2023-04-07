@@ -6,14 +6,14 @@
 #### Cross check bottom lists against https://www.tcgplayer.com/ and https://www.cardkingdom.com/
 ------------------------------------------------------------------------------------
 #### Missing from current collection Walls are separated by starts with "wall of" and ones that don’t
-- [ ] Shield sphere artifact - alliances
-- [ ] Shifting wall - stronghold
-- [ ] Shimmering barrier urzas saga
+- [X] Shield sphere artifact - alliances
+- [X] Shifting wall - stronghold
+- [X] Shimmering barrier urzas saga
 - [ ] Tinder wall
 - [ ] Wall of blossoms - 14 possible printings all the same highest being $40+
-- [ ] Wall of essence stronghold 2x 2 frame differences same art
+- [X] Wall of essence stronghold 2x 2 frame differences same art
 - [ ] Wall of kelp homelands around $4 this is the one that escaped me for years
-- [ ] Wall of razors stronghold
+- [X] Wall of razors stronghold
 ------------------------------------------------------------------------------------
 Legends in Italian? Like wall of light and putrid flesh, tombstones
 
@@ -29,6 +29,7 @@ What about creatures with defender that don’t say create type wall?
 - [ ] Roving Keep
 - [ ] Wall of kelp from homelands
 - [ ] Get cards below too
+- [ ] wall of one thousand cuts signed (if it exists)
 ------------------------------------------------------------------------------------
 Create type not a wall but deals with them namley makes tokens:
 - [ ] Testament of Faith
@@ -41,17 +42,17 @@ Create type not a wall but deals with them namley makes tokens:
 
 ------------------------------------------------------------------------------------
 Ones without Wall in the name 
-- [ ] Academy Wall
+- [X] Academy Wall
 - [ ] Aether Membrane 2x
 - [ ] Amaranthine Wall
 - [ ] Angelic Wall - 5 x (3 different styles)
 - [ ] Barrier of Bones
-- [ ] Battle Rampart
+- [X] Battle Rampart
 - [ ] Carrion Wall 2x
 - [ ] Cinder Wall – 4 x 2 different
 - [ ] Clockwork Drawbridge
 - [ ] Coastal Bulwark
-- [ ] Concealing Curtains 4x 2 different “tinting”
+- [ ] Concealing Curtains 4x 2 different “tinting” (i have one)
 - [ ] Coral Colony
 - [ ] Crashing Drawbridge
 - [ ] Crenellated Wall
