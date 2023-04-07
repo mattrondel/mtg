@@ -109,45 +109,57 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Half-squirrel half unstable
 - [ ] Half-squirrel half unstable FOIL
 
-- [ ] Helica glider
-- [ ] Helica glider foil
+- [X] Helica glider
+- [X] Helica glider foil
 
+"squirrel in the art"
 - [ ] Junk winder
 - [ ] Junk winder foil
 - [ ] Junk winder art card
 - [ ] Junk winder art card signed
 
+"squirrel in the art"
 - [ ] Kill! Destroy! 
 ------------------------
 - [ ] Kill! Destroy! FOIL
 
+"squirrel in the art"
 - [ ] Knight of New Benalia
 - [ ] Knight of New Benalia FOIL
 
+"squirrel card"
 - [X] Krosan beast Odyssey
 - [ ] Krosan beast Odyssey FOIL
 - [X] Krosan beast secret lair
 
+"token makers"
 - [ ] Liege of the hollows
 
+"squirrel in the art"
 - [ ] Might of oaks
 - [ ] Might of oaks (foil is $80+!)
 ------------------------
+
+"token makers"
 - [ ] Mistakes Were Made
 - [ ] Mistakes Were Made foil #147
 - [ ] Mistakes Were Made galaxy foil #433
 
+"squirrel in the art"
 - [ ] Monstrous Growth Starter 1999
 - [ ] Monstrous Growth portal II
 - [ ] Monstrous Growth Starter 2000
 
+"squirrel in the art"
 - [ ] Mother kangaroo unstable
 - [ ] Mother kangaroo unssantioned
 - [ ] Mother kangaroo unstable foil
 ------------------------
+"token makers"
 - [ ] Nantuko shrine 
 - [ ] Nantuko shrine FOIL (around $29)
 
+"token makers"
 - [ ] Nested shambler #95
 - [ ] Nested shambler #399 (retro frame)
 - [ ] Nested shambler #399 (Foil Etched Retro Frame)
@@ -158,8 +170,11 @@ https://cardgamebase.com/best-mtg-squirrels/
  
 - [ ] Nested shambler art card signed 
 ------------------------
+
+"squirrel in the art"
 - [ ] Night Brushwagg Ringmaster
 
+"squirrel in the art and tokens"
 - [ ] Nut collector Odyssey
 - [ ] Nut collector Odyssey FOIL (around $40)
 - [ ] Nut collector Mystery booster/the list (foil stamp in lower left)
