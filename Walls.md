@@ -43,44 +43,44 @@ Create type not a wall but deals with them namley makes tokens:
 ------------------------------------------------------------------------------------
 Ones without Wall in the name 
 - [X] Academy Wall
-- [ ] Aether Membrane 2x
+- [X] Aether Membrane 2x
 - [X] Amaranthine Wall
 - [ ] Angelic Wall - 5 x (3 different styles) 1 new added
-- [ ] Barrier of Bones
+- [X] Barrier of Bones
 - [X] Battle Rampart (2 versions? )
-- [ ] Carrion Wall 2x
-- [ ] Cinder Wall – 4 x 2 different
-- [ ] Clockwork Drawbridge
+- [X] Carrion Wall 2x does this mean there 2 variants)
+- [X] Cinder Wall – 4 x 2 different, 1 bew one
+- [X] Clockwork Drawbridge
 - [X] Coastal Bulwark
 - [X] Concealing Curtains 4x 2 different “tinting”
-- [ ] Coral Colony
+- [X] Coral Colony
 - [X] Crashing Drawbridge
 - [ ] Crenellated Wall
 - [X] Electrostatic Field
-- [ ] Flowstone Wall
-- [X] Glacial Wall 5x 4 styles (I think I have at least 1)
+- [X] Flowstone Wall
+- [X] Glacial Wall 5x 4 styles (have all 4(
 - [X] Jeskai Barricade
 - [ ] Jungle Barrier
 - [ ] Living Wall 8X (alpha runs about $180)
 - [X] Jungle Barrier 4x 2 frame styles
-- [ ] Mirror wall
-- [ ] Mistform Wall
-- [X] Mnemonic Wall 5 x (2 variations) 1 gotten
-- [ ] Moaning Wall
+- [X] Mirror wall
+- [X] Mistform Wall
+- [X] Mnemonic Wall 5 x (2 variations) 2 gotten
+- [X] Moaning Wall
 - [X] Overgrown Arch
 - [ ] Overgrown Battlement
-- [ ] Pitchstone Wall
+- [X] Pitchstone Wall
 - [X] Portcullis Vine
-- [ ] Pramikon, Sky Rampart
+- [x] Pramikon, Sky Rampart
 - [X] Prize Wall
-- [ ] Quicksilver Wall
+- [X] Quicksilver Wall
 - [ ] Secret Door
 - [ ] Shield Wall 4 x (3 art variations)
-- [ ] Steel Wall 2 versions
+- [X] Steel Wall 2 versions 1 i got 
 - [X] Sunscape Familiar
 - [ ] Suspicious Bookcase (2 variants got both)
 - [X] Tuktuk Rubblefort (this is the correct spelling)
-- [ ] Vine Trellis
+- [X] Vine Trellis
 - [X] Weathered Sentinels
 - [ ] 
 ------------------------------------------------------------------------------------
