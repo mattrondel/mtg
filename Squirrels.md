@@ -20,7 +20,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [X] Acornelia, Fashionable Filcher foil
 
 - [ ] Acorn harvest
-- [ ] Acorn harvest foil
+- [ ] Acorn harvest foil (due here soon)
 
 - [ ] Acorn stash
 
