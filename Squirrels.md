@@ -1,5 +1,5 @@
-walls ste cool but when i bought the walls and squirrels i was way more happy about the squirrels 
-in fact i kind of looked past the wall cards
+walls are cool but when i bought the walls and squirrels I was way more happy about the squirrels 
+in fact i kind of looked past the wall cards. i have less than 10 cards left and im glad they're cheap otherwise id probably stop
 
 get what makes me happy / spark joy like dont by ugly ones unless you want to, mainly focus on tokens and creatures, List is built for assuming collectiong them all with 9 page positions
 ## Squirrels 
@@ -27,7 +27,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Acorn catapult Mystery Booster/the list (TLP) foil stamp lower left
 - [ ] Acorn catapult commander
 
-- [ ] Chatter of the squirrel	Mystery Booster/The List (odyssey logo with foil stamp lower left)
+- [ ] Chatter of the squirrel	Mystery Booster/The List (odyssey logo with foil stamp lower left) #233
 - [ ] Chatter of the squirrel double masters foil
 ------------------------
 
@@ -68,9 +68,11 @@ https://cardgamebase.com/best-mtg-squirrels/
  ------------------------
 - [ ] Chittersplinter Extended Art - Modern Horizons 2 (MH2)
 
+"squirrel art and tokens"
 - [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate
 - [ ] Cloakwood Hermit Commander Legends: Battle for Baldur's Gate (CLB) Foil
 
+"squirrel tokens"
 - [ ] Comet, Stellar Pup
 - [ ] Comet, Stellar Pup (Borderless)
 - [ ] Comet, Stellar Pup foil #166
@@ -78,16 +80,18 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Comet, Stellar Pup galaxy foil #452
 - [ ] Comet, Stellar Pup (Borderless) galaxy foil #526
 ------------------------
+"squirrel art and tokens"
 - [ ] Deep forest hermit Modern Horizons Foil "Etched" #20 Retro Frame
 - [ ] Deep forest hermit Modern Horizons #161
 - [ ] Deep forest hermit Modern Horizons retro frame #20 foil
 - [ ] Deep forest hermit Modern Horizons foil #161
 
+"squirrel art and tokens"
 - [ ] Deranged hermit urzas legacy
 - [ ] Deranged hermit urzas legacy foil ($199+)
- 
 - [ ] Deranged hermit Judges promo ($75+)
 
+"squirrel art and tokens"
 - [ ] Druids call
 - [ ] Druids call mystery booster/the list (foil stamp lower left)
 ------------------------
@@ -99,7 +103,6 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Earl of squirrel launch promo
 - [ ] Earl of squirrel unstable
 - [ ] Earl of squirrel Unstable foil
- 
 - [ ] Earl of squirrel Mystery Booster/The List (foil stamp lower left)
 
 - [ ] Form of the squirrel 
@@ -165,9 +168,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Nested shambler #399 (Foil Etched Retro Frame)
 - [ ] Nested shambler #399 FOIL (Retro Frame)
 - [ ] Nested shambler #95 FOIL
-
 - [ ] Nested shambler art card
- 
 - [ ] Nested shambler art card signed 
 ------------------------
 
@@ -272,7 +273,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 - [ ] Squirrel sanctuary
 - [ ] Squirrel sanctuary FOIL
- - [ ] Squirrel sanctuary art card
+- [ ] Squirrel sanctuary art card
 ------------------------
 - [ ] Squirrel sanctuary art card signed
 
@@ -338,7 +339,6 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Verdant command Modern horizons 2 (full color art)
 ------------------------
 - [ ] Verdant command Modern horizons 2 variants (art not colored in)
- 
 - [ ] Verdant command Modern horizons 2 prerelease 2021 stamp
 - [ ] Verdant command Modern horizons 2 FOIL (full color art)
 - [ ] Verdant command Modern horizons 2 variants FOIL (art not colored in)
