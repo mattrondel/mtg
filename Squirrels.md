@@ -1,3 +1,6 @@
+walls ste cool but when i bought the walls and squirrels i was way more happy about the squirrels 
+in fact i kind of looked past the wall cards
+
 get what makes me happy / spark joy like dont by ugly ones unless you want to, mainly focus on tokens and creatures, List is built for assuming collectiong them all with 9 page positions
 ## Squirrels 
 :shipit:
