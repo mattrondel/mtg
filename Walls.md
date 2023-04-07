@@ -45,7 +45,7 @@ Ones without Wall in the name
 - [X] Academy Wall
 - [ ] Aether Membrane 2x
 - [X] Amaranthine Wall
-- [ ] Angelic Wall - 5 x (3 different styles)
+- [ ] Angelic Wall - 5 x (3 different styles) 1 new added
 - [ ] Barrier of Bones
 - [X] Battle Rampart (2 versions? )
 - [ ] Carrion Wall 2x
@@ -58,28 +58,28 @@ Ones without Wall in the name
 - [ ] Crenellated Wall
 - [X] Electrostatic Field
 - [ ] Flowstone Wall
-- [ ] Glacial Wall 5x 4 styles (I think I have at least 1)
+- [X] Glacial Wall 5x 4 styles (I think I have at least 1)
 - [X] Jeskai Barricade
 - [ ] Jungle Barrier
 - [ ] Living Wall 8X (alpha runs about $180)
-- [ ] Jungle Barrier 4x 2 frame styles
+- [X] Jungle Barrier 4x 2 frame styles
 - [ ] Mirror wall
 - [ ] Mistform Wall
-- [ ] Mnemonic Wall 5 x (2 variations)
+- [X] Mnemonic Wall 5 x (2 variations) 1 gotten
 - [ ] Moaning Wall
 - [X] Overgrown Arch
 - [ ] Overgrown Battlement
 - [ ] Pitchstone Wall
 - [X] Portcullis Vine
 - [ ] Pramikon, Sky Rampart
-- [ ] Prize Wall
+- [X] Prize Wall
 - [ ] Quicksilver Wall
 - [ ] Secret Door
 - [ ] Shield Wall 4 x (3 art variations)
 - [ ] Steel Wall 2 versions
 - [X] Sunscape Familiar
 - [ ] Suspicious Bookcase (2 variants got both)
-- [ ] Tuktuk Rubblefort (this is the correct spelling)
+- [X] Tuktuk Rubblefort (this is the correct spelling)
 - [ ] Vine Trellis
 - [X] Weathered Sentinels
 - [ ] 
