@@ -61,7 +61,7 @@ Ones without Wall in the name
 - [X] Glacial Wall 5x 4 styles (have all 4(
 - [X] Jeskai Barricade
 - [ ] Jungle Barrier
-- [ ] Living Wall 8X (alpha runs about $180)
+- [X] Living Wall 8X (alpha runs about $180)
 - [X] Jungle Barrier 4x 2 frame styles
 - [X] Mirror wall
 - [X] Mistform Wall
@@ -82,7 +82,6 @@ Ones without Wall in the name
 - [X] Tuktuk Rubblefort (this is the correct spelling)
 - [X] Vine Trellis
 - [X] Weathered Sentinels
-- [ ] 
 ------------------------------------------------------------------------------------
 
 “WALL OF”
