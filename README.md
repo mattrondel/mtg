@@ -26,4 +26,7 @@ https://draftsim.com/chatterfang-edh-deck/
 https://www.moxfield.com/decks/LR3dmNd270SODwstc0Ezkg
 
 manacrafter for commander decks
+
 http://manabasecrafter.com/
+
+https://managathering.com/duallands/golgari.html
