@@ -10,7 +10,7 @@
 - [X] Shifting wall - stronghold
 - [X] Shimmering barrier urzas saga
 - [ ] Tinder wall
-- [ ] Wall of blossoms - 14 possible printings all the same highest being $40+
+- [X] Wall of blossoms - 14 possible printings all the same highest being $40+ (i have 2 of these one foil for fun)
 - [X] Wall of essence stronghold 2x 2 frame differences same art
 - [ ] Wall of kelp homelands around $4 this is the one that escaped me for years
 - [X] Wall of razors stronghold
@@ -25,7 +25,7 @@ What about creatures with defender that don’t say create type wall?
 
 -need to get with next purchase (next text break too) do this only after the next batch of orders come in
 - [ ] Wall tokens 4x 3 different types
-- [ ] tinderwall
+- [ ] tinder wall
 - [ ] Roving Keep
 - [ ] Wall of kelp from homelands
 - [ ] Get cards below too
@@ -78,7 +78,7 @@ Ones without Wall in the name
 - [ ] Shield Wall 4 x (3 art variations)
 - [X] Steel Wall 2 versions 1 i got 
 - [X] Sunscape Familiar
-- [ ] Suspicious Bookcase (2 variants got both)
+- [X] Suspicious Bookcase (2 variants got both)
 - [X] Tuktuk Rubblefort (this is the correct spelling)
 - [X] Vine Trellis
 - [X] Weathered Sentinels
