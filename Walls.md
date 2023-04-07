@@ -44,22 +44,22 @@ Create type not a wall but deals with them namley makes tokens:
 Ones without Wall in the name 
 - [X] Academy Wall
 - [ ] Aether Membrane 2x
-- [ ] Amaranthine Wall
+- [X] Amaranthine Wall
 - [ ] Angelic Wall - 5 x (3 different styles)
 - [ ] Barrier of Bones
-- [X] Battle Rampart
+- [X] Battle Rampart (2 versions? )
 - [ ] Carrion Wall 2x
 - [ ] Cinder Wall – 4 x 2 different
 - [ ] Clockwork Drawbridge
-- [ ] Coastal Bulwark
-- [ ] Concealing Curtains 4x 2 different “tinting” (i have one)
+- [X] Coastal Bulwark
+- [X] Concealing Curtains 4x 2 different “tinting”
 - [ ] Coral Colony
-- [ ] Crashing Drawbridge
+- [X] Crashing Drawbridge
 - [ ] Crenellated Wall
-- [ ] Electrostatic Field
+- [X] Electrostatic Field
 - [ ] Flowstone Wall
 - [ ] Glacial Wall 5x 4 styles (I think I have at least 1)
-- [ ] Jeskai Barricade
+- [X] Jeskai Barricade
 - [ ] Jungle Barrier
 - [ ] Living Wall 8X (alpha runs about $180)
 - [ ] Jungle Barrier 4x 2 frame styles
@@ -67,21 +67,21 @@ Ones without Wall in the name
 - [ ] Mistform Wall
 - [ ] Mnemonic Wall 5 x (2 variations)
 - [ ] Moaning Wall
-- [ ] Overgrown Arch
+- [X] Overgrown Arch
 - [ ] Overgrown Battlement
 - [ ] Pitchstone Wall
-- [ ] Portcullis Vine
+- [X] Portcullis Vine
 - [ ] Pramikon, Sky Rampart
 - [ ] Prize Wall
 - [ ] Quicksilver Wall
 - [ ] Secret Door
 - [ ] Shield Wall 4 x (3 art variations)
 - [ ] Steel Wall 2 versions
-- [ ] Sunscape Familiar
-- [ ] Suspicious Bookcase
+- [X] Sunscape Familiar
+- [ ] Suspicious Bookcase (2 variants got both)
 - [ ] Tuktuk Rubblefort (this is the correct spelling)
 - [ ] Vine Trellis
-- [ ] Weathered Sentinels
+- [X] Weathered Sentinels
 - [ ] 
 ------------------------------------------------------------------------------------
 
