@@ -82,6 +82,7 @@ Ones without Wall in the name
 - [X] Tuktuk Rubblefort (this is the correct spelling)
 - [X] Vine Trellis
 - [X] Weathered Sentinels
+wall tokens will go here
 ------------------------------------------------------------------------------------
 
 “WALL OF”
