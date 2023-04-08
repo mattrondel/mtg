@@ -29,7 +29,7 @@ What about creatures with defender that don’t say create type wall?
 - [ ] Roving Keep
 - [ ] Wall of kelp from homelands
 - [ ] Get cards below too
-- [ ] wall of one thousand cuts signed (if it exists)
+
 ------------------------------------------------------------------------------------
 Create type not a wall but deals with them namley makes tokens:
 - [ ] Testament of Faith
@@ -39,6 +39,7 @@ Create type not a wall but deals with them namley makes tokens:
 - [ ] The Birth of Meletis
 - [ ] Wall of Kelp
 - [ ] Jungle Patrol
+- [ ] Jumpstart: Walls Theme Card (found at card kingdom)
 
 ------------------------------------------------------------------------------------
 Ones without Wall in the name 
@@ -85,6 +86,8 @@ wall tokens will go here
 ------------------------------------------------------------------------------------
 
 “WALL OF”
+X means copies of that card like regualr and foil
+
 - [ ] Wall of Air 10x (3 different variants)
 - [ ] Wall of Blood 2x (1 variant)
 - [ ] Wall of bone 10 x (3 variants )
@@ -96,28 +99,37 @@ wall tokens will go here
 - [X] Wall of Dust (1 variant)
 - [ ] Wall of Faith (1 variant)
 - [ ] Wall of fire 11 x (alpha $50+) 4 different styles
-- [ ] Wall of Forgotten Pharaohs 2 x
-- [X] Wall of Fortune 2 x
-- [X] Wall of frost 6 x 
-- [X] Wall of Granite
-- [ ] Wall of Heat 3x
-- [ ] Wall of glare 
-- [ ] Wall of hope
-- [ ] Wall of ice 9x (Alpha is $112+)
-- [ ] Wall of junk 2 x 
-- [ ] Wall of limbs
-- [ ] Wall of lost thoughts 2 x
-- [ ] Wall of mist 2 x
-- [ ] Wall of Mourning 2 x 
-- [X] Wall of Mulch 2x both are different frame styles
-- [ lx] Wall of Omens 10 x (3 styles)
-- [X] Wall of One Thousand Cuts 3X including 1x Art Card
+- [ ] Wall of Forgotten Pharaohs 2 x (1 variant)
+- [X] Wall of Fortune 3 x (1 variant)
+- [X] Wall of frost 13 x (1 variant)
+- [X] Wall of Granite (1 variant)
+- [ ] Wall of Heat 3x (1 variant)
+- [ ] Wall of glare 2x (1 variant)
+- [ ] Wall of hope 2x (1 variant)
+- [ ] Wall of ice 9x (1 variant) (Alpha is $112+)
+- [ ] Wall of junk 3 x (1 variant)
+- [ ] Wall of limbs 2x (1 variant)
+- [ ] Wall of lost thoughts 3x (1 variant)
+- [ ] Wall of mist 4 x (2 variants)
+- [ ] Wall of Mourning 2x (2 variants, 1 of them is borderless)
+- [X] Wall of Mulch 4x (1 variant) both types are 2 different frame styles
+- [X] Wall of Omens 14 x (3 styles, 1 is borderless)
+- [X] Wall of One Thousand Cuts 3x (1 variant)
+- [X] Wall of One Thousand Cuts Art Card
 - [ ] Wall of Opposition 2x
-- [ ] Wall of Resurgence
-- [ ] Wall of Reverence 3 versions
-- [ ] Wall of Roots 8x (two styles I think I have one of these so far)
-- [ ] Wall of Runes 2x
+- [ ] Wall of Resurgence 2x (1 variant)
+- [ ] Wall of Reverence 5x (1 variant)
+- [ ] Wall of Roots 10 (2 variants one has a golden frame)
+- [ ] Wall of Runes 4x
 - [X] Wall of Shadows 2x (I think I have these need to check)
-- [ ] Wall of Shards
-- [ ] Wall of Stolen Identity
-- [ ] Wall of tanglecord
+- [ ] Wall of Shards 3x (1 variant)
+- [ ] Wall of Stolen Identity 1x (1 variant)
+- [ ] Wall of tanglecord 2x (1 variant)
+
+Additional ones found though cardkingdom
+- [ ] Wall of vipers
+- [ ] Wall of Vines
+- [ ] wall of torches
+- [ ] wall of wonder (addional printings)
+- [ ] wall of omens FNM variant (do i have this one?)
+- [ ] Excavated Wall 
