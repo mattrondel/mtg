@@ -132,4 +132,5 @@ Additional ones found though cardkingdom
 - [ ] wall of torches
 - [ ] wall of wonder (addional printings)
 - [ ] wall of omens FNM variant (do i have this one?)
-- [ ] Excavated Wall 
+- [ ] Excavated Wall
+- [ ] Fortified Rampart 
