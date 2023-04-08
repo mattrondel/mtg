@@ -55,7 +55,7 @@ Ones without Wall in the name
 - [X] Concealing Curtains 4x 2 different “tinting”
 - [X] Coral Colony
 - [X] Crashing Drawbridge
-- [ ] Crenellated Wall
+- [X] Crenellated Wall
 - [X] Electrostatic Field
 - [X] Flowstone Wall
 - [X] Glacial Wall 5x 4 styles (have all 4(
