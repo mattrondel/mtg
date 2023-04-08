@@ -136,7 +136,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [X] Krosan beast secret lair
 
 "token makers"
-- [ ] Liege of the hollows
+- [ ] Liege of the Hollows
 
 "squirrel in the art"
 - [ ] Might of oaks
