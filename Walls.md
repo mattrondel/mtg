@@ -45,7 +45,7 @@ Ones without Wall in the name
 - [X] Academy Wall
 - [X] Aether Membrane 2x
 - [X] Amaranthine Wall
-- [ ] Angelic Wall - 5 x (3 different styles) 1 new added
+- [X] Angelic Wall - 5 x (3 different styles) 1 new added
 - [X] Barrier of Bones
 - [X] Battle Rampart (2 versions? )
 - [X] Carrion Wall 2x does this mean there 2 variants)
