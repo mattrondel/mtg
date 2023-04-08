@@ -85,16 +85,16 @@ wall tokens will go here
 ------------------------------------------------------------------------------------
 
 “WALL OF”
-- [ ] Wall of Air 10x (3 different styles) alpha $120+
-- [ ] Wall of Blood 2x
-- [ ] Wall of bone 10 x (3 different styles) alpha $100+
-- [ ] Wall of brambles 6 x alpha $99+
-- [ ] Wall of Deceit 3 x
-- [ ] Wall of denial 4 x
-- [ ] Wall of Diffusion 3 x
-- [ ] Wall of Distortion
-- [X] Wall of Dust
-- [ ] Wall of Faith
+- [ ] Wall of Air 10x (3 different variants)
+- [ ] Wall of Blood 2x (1 variant)
+- [ ] Wall of bone 10 x (3 variants )
+- [ ] Wall of brambles 6 x (2 variants)
+- [ ] Wall of Deceit 3 x (1 variant)
+- [ ] Wall of denial 4 x (1 variant)
+- [ ] Wall of Diffusion 3 x (1 variant)
+- [ ] Wall of Distortion (1 variant)
+- [X] Wall of Dust (1 variant)
+- [ ] Wall of Faith (1 variant)
 - [ ] Wall of fire 11 x (alpha $50+) 4 different styles
 - [ ] Wall of Forgotten Pharaohs 2 x
 - [X] Wall of Fortune 2 x
