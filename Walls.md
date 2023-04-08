@@ -75,7 +75,6 @@ Ones without Wall in the name
 - [X] Prize Wall
 - [X] Quicksilver Wall
 - [X] Secret Door
-- [ ] Shield Wall 4 x (3 art variations)
 - [X] Steel Wall 2 versions 1 i got 
 - [X] Sunscape Familiar
 - [X] Suspicious Bookcase (2 variants got both)
