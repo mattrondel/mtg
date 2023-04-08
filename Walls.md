@@ -60,7 +60,7 @@ Ones without Wall in the name
 - [X] Flowstone Wall
 - [X] Glacial Wall 5x 4 styles (have all 4(
 - [X] Jeskai Barricade
-- [ ] Jungle Barrier
+- [X] Jungle Barrier
 - [X] Living Wall 8X (alpha runs about $180)
 - [X] Jungle Barrier 4x 2 frame styles
 - [X] Mirror wall
@@ -68,13 +68,13 @@ Ones without Wall in the name
 - [X] Mnemonic Wall 5 x (2 variations) 2 gotten
 - [X] Moaning Wall
 - [X] Overgrown Arch
-- [ ] Overgrown Battlement
+- [X] Overgrown Battlement
 - [X] Pitchstone Wall
 - [X] Portcullis Vine
 - [x] Pramikon, Sky Rampart
 - [X] Prize Wall
 - [X] Quicksilver Wall
-- [ ] Secret Door
+- [X] Secret Door
 - [ ] Shield Wall 4 x (3 art variations)
 - [X] Steel Wall 2 versions 1 i got 
 - [X] Sunscape Familiar
