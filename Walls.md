@@ -97,9 +97,9 @@ wall tokens will go here
 - [ ] Wall of Faith
 - [ ] Wall of fire 11 x (alpha $50+) 4 different styles
 - [ ] Wall of Forgotten Pharaohs 2 x
-- [ ] Wall of Fortune 2 x
-- [ ] Wall of frost 6 x 
-- [ ] Wall of Granite
+- [X] Wall of Fortune 2 x
+- [X] Wall of frost 6 x 
+- [X] Wall of Granite
 - [ ] Wall of Heat 3x
 - [ ] Wall of glare 
 - [ ] Wall of hope
@@ -109,9 +109,9 @@ wall tokens will go here
 - [ ] Wall of lost thoughts 2 x
 - [ ] Wall of mist 2 x
 - [ ] Wall of Mourning 2 x 
-- [ ] Wall of Mulch 2x both are different frame styles
-- [ ] Wall of Omens 10 x (3 styles)
-- [ ] Wall of One Thousand Cuts 3X including 1x Art Card
+- [X] Wall of Mulch 2x both are different frame styles
+- [ lx] Wall of Omens 10 x (3 styles)
+- [X] Wall of One Thousand Cuts 3X including 1x Art Card
 - [ ] Wall of Opposition 2x
 - [ ] Wall of Resurgence
 - [ ] Wall of Reverence 3 versions
