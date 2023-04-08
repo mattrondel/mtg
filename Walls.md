@@ -120,17 +120,18 @@ X means copies of that card like regualr and foil
 - [ ] Wall of Resurgence 2x (1 variant)
 - [ ] Wall of Reverence 5x (1 variant)
 - [ ] Wall of Roots 10 (2 variants one has a golden frame)
-- [ ] Wall of Runes 4x
+- [ ] Wall of Runes 4x (1 variant)
 - [X] Wall of Shadows 2x (I think I have these need to check)
 - [ ] Wall of Shards 3x (1 variant)
 - [ ] Wall of Stolen Identity 1x (1 variant)
 - [ ] Wall of tanglecord 2x (1 variant)
 
 Additional ones found though cardkingdom
-- [ ] Wall of vipers
-- [ ] Wall of Vines
-- [ ] wall of torches
-- [ ] wall of wonder (addional printings)
+- [ ] Wall of vipers 2x (1 variant)
+- [ ] Wall of Vines 5x (1 variant)
+- [ ] wall of torches 2x (1 variant)
+- [ ] wall of wonder (+1 additional printiing I dont have)
 - [ ] wall of omens FNM variant (do i have this one?)
-- [ ] Excavated Wall
-- [ ] Fortified Rampart 
+- [ ] Excavated Wall 2x (1 variant)
+- [ ] Fortified Rampart 2x (1 variant)
+- [ ] Warded Battlements 2x (1 variant)
