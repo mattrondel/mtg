@@ -30,3 +30,6 @@ manacrafter for commander decks
 http://manabasecrafter.com/
 
 https://managathering.com/duallands/golgari.html
+
+Desktop client for MPC AutoFill
+https://github.com/chilli-axe/mpc-autofill/releases/tag/v4.0
