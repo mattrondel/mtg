@@ -1,3 +1,8 @@
+Read later:
+
+https://www.thegamer.com/magic-the-gathering-top-commander-deck-building-tools/
+
+https://blog.cardkingdom.com/the-best-ramp-spells-in-commander/
 
 untap.in 
 
