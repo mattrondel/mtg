@@ -60,8 +60,10 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 - [ ] Warded Battlements 2x (1 variant)
 - [ ] whip vine
 
-Not walls but add to collection anyways
+Not walls but add to collection anyways (if under $10)
 - [ ] Sliver Legion
+- [ ] Sliver Hive
+- [ ] Sliver Overlord
 
 ones found on scryfall need to check to see if i have or not
 
