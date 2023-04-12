@@ -1,3 +1,7 @@
+decks to look up
+TOKEN TRIUMPH
+CABARETTI CACOPHONY
+---
 Read later:
 
 https://m.youtube.com/watch?v=dCu9MCZf-ag
