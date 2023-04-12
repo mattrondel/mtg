@@ -36,6 +36,7 @@ Create type not a wall but deals with them namley makes tokens:
 - [ ] Teyo, the Shieldmage
 - [ ] Tidal Wave
 - [ ] Fortified Rampart
+- [ ] Arcades, the Strategist
 - [ ] Basalt Golem
 - [ ] The Birth of Meletis
 - [ ] Wall of Kelp
