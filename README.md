@@ -1,5 +1,7 @@
 Read later:
 
+https://m.youtube.com/watch?v=dCu9MCZf-ag
+
 https://www.thegamer.com/magic-the-gathering-top-commander-deck-building-tools/
 
 https://blog.cardkingdom.com/the-best-ramp-spells-in-commander/
