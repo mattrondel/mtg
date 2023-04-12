@@ -2,6 +2,8 @@ Read later:
 
 https://m.youtube.com/watch?v=dCu9MCZf-ag
 
+https://decks.tcgplayer.com/magic/commander/the-commander-s-quarters/arcades--the-strategist---the-commander-s-quarters/1336132?utm_source=TheCommandersQuarters&utm_medium=TheCommandersQuarters&utm_term=&utm_content=magic&utm_campaign=affiliate
+---
 copy decklist to github to read later:
 
 https://www.youtube.com/watch?v=IaEvR8Fgd_k
