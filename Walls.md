@@ -32,19 +32,22 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 
 - [ ] Arcades, the Strategist
 - [ ] Wall of Air - DO I HAVE ALL VARIANTS?
-- [ ] Basalt Golem
+- [ ] Basalt Golem (makes wall tokens)
+- [ ] consulate skygate
 - [ ] Excavated Wall 2x (1 variant)
 - [ ] Fortified Rampart 2x (1 variant)
 - [ ] gleaming barrier
+- [ ] hover barrier
 - [ ] Huatli, the Sun's Heart
 - [ ] Jumpstart: Walls Theme Card (found at card kingdom)
 - [ ] Jungle Patrol
+- [ ] Jungle Barrier (DO I HAVE BOTH VARIANTS?)
 - [ ] Roving Keep
 - [ ] Teyo, the Shieldmage
 - [ ] The Birth of Meletis
 - [ ] Testament of Faith
 - [ ] Tidal Wave
-- [ ] tinder wall
+- [ ] tinder wall (I'm short  
 - [ ] Wall of Kelp
 - [ ] Wall of kelp from homelands
 - [ ] wall of omens FNM variant (do i have this one?)
