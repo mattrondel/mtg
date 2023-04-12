@@ -2,6 +2,10 @@ Read later:
 
 https://m.youtube.com/watch?v=dCu9MCZf-ag
 
+copy decklist to github to read later:
+
+https://www.youtube.com/watch?v=IaEvR8Fgd_k
+
 https://www.youtube.com/watch?v=KteKsyid7Ew
 
 https://www.thegamer.com/magic-the-gathering-top-commander-deck-building-tools/
