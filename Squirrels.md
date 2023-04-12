@@ -187,20 +187,25 @@ https://cardgamebase.com/best-mtg-squirrels/
 ------------------------
 - [ ] Nut collector Dominaria remastered # 440 borderless FOIL (playing a harp)
 
+"squirrel in the art"
 - [ ] Oaken Brawler 
 - [ ] Oaken Brawler foil
 
-- [ ] Oaken Power Suit 
+"squirrel in the art"
+- [ ] Oaken Power Suit unstable
 - [ ] Oaken Power Suit 
 
+"squirrel in the art"
 - [ ] Oddly Uneven unstable
 - [ ] Oddly Uneven unstable FOIL
 - [ ] Oddly Uneven Mystery booster/the list
  
+"squirrel in the art"
 - [ ] Psychotic haze 
 ------------------------
 - [ ] Psychotic haze foil
 
+"squirrel in the art"
 - [ ] Quirion Beastcaller dominaria united
 - [ ] Quirion Beastcaller promo pack
 - [ ] Quirion Beastcaller dominaria united variants
@@ -209,52 +214,60 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Quirion Beastcaller promo pack FOIL
 - [ ] Quirion Beastcaller dominaria united variants FOIL
  
-- [ ] Ravenous squirrel Modern horizons 2
+ "squirrel creature"
+- [ ] Ravenous squirrel Modern horizons 2 #211
 ------------------------
 - [ ] Ravenous squirrel Modern horizons 2 variants #375
-- [ ] Ravenous squirrel Modern horizons 2 FOIL
+- [ ] Ravenous squirrel Modern horizons 2  #211 FOIL
 - [ ] Ravenous squirrel Modern horizons 2 variants #375 FOIL
 
+"squirrel in the art"
 - [ ] Savvy Hunter 
 - [ ] Savvy Hunter 
 
-- [ ] Scurred colony 
-- [ ] Scurred colony foil
+ "squirrel creature"
+- [ ] Scurrid colony  
+- [ ] Scurrid colony  foil
 
+"squirrel art and tokens"
 - [ ] Scurry oak 
 - [ ] Scurry oak FOIL
 ------------------------
 - [ ] Scurry oak art card
 - [ ] Scurry oak art card signed
 
+"squirrel creature"
 - [ ] Snickering squirrel unstantioned 
 - [ ] Snickering squirrel unstable
 - [ ] Snickering squirrel unstable FOIL
 
-- [ ] So shinny 
-- [ ] So shinny foil
+"squirrel in the art"
+- [ ] So Shiny 
+- [ ] So Shiny foil
 
+"squirrel art and tokens"
 - [ ] Specimen collector 
- 
 - [ ] Specimen collector FOIL
 ------------------------
+"squirrel art and tokens"
 - [ ] Squirrel dealer 
 - [ ] Squirrel dealer FOIL
 
+"squirrel art and tokens"
 - [ ] Squirrel farm unglued
 - [ ] Squirrel farm Unsanctioned
 
+"squirrel creature"
 - [ ] Squirrel mob odyssey
-
 - [ ] Squirrel mob modern horizons 2
 - [ ] Squirrel mob modern horizons 2 foil etched #286
 - [ ] Squirrel mob mystery booster/the list
- 
 - [ ] Squirrel mob odyssey foil (around $23)
 ------------------------
 - [ ] Squirrel mob modern horizons 2 FOIL (not the same as etched, collector numbers are the same) Grainy texture = Etched Smooth texture = Foil
 - [ ] Squirrel mob secret lair
 
+"squirrel art and tokens"
 - [ ] Squirrel nest dominaria remastered #177
 - [ ] Squirrel nest odyssey
 - [ ] Squirrel nest world championship gold border
@@ -268,15 +281,18 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel nest dominaria FOIL
 - [ ] Squirrel nest odyssey FOIL
 
+"squirrel in the art"
 - [ ] Squirrel-powered scheme
 - [ ] Squirrel-powered scheme FOIL
 
+"squirrel art and tokens"
 - [ ] Squirrel sanctuary
 - [ ] Squirrel sanctuary FOIL
 - [ ] Squirrel sanctuary art card
 ------------------------
 - [ ] Squirrel sanctuary art card signed
 
+"squirrel creature"
 - [ ] Squirrel sovereign modern horizons 2
 - [ ] Squirrel sovereign modern horizons 2 variants foil etched
 - [ ] Squirrel sovereign modern horizons 2 variants retro frame
@@ -285,11 +301,13 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Squirrel sovereign art card
 - [ ] Squirrel sovereign art card signed
  
+ "squirrel creature"
 - [ ] squirrel squatters
 ------------------------
 - [ ] squirrel squatters FOIL #156
 - [ ] squirrel squatters Galaxy Foil (around $8) #442
 
+"squirrel art and tokens"
 - [ ] squirrel stack 2-3-6
 - [ ] squirrel stack 2-4-6
 - [ ] squirrel stack 2-5-6
@@ -297,10 +315,10 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] squirrel stack 3-5-6
 - [ ] squirrel stack 4-5-6
 
+"squirrel art and tokens"
 - [ ] Squirrel wrangler Prophecy
 ------------------------
 - [ ] Squirrel wrangler Prophecy FOIL (around $20)
- 
 - [ ] Squirrel wrangler mystery booster/the list
 - [ ] Squirrel wrangler secret lair
 
@@ -314,10 +332,13 @@ https://cardgamebase.com/best-mtg-squirrels/
 ------------------------
 - [ ] Swarmyard secret lair foil
  
+ "squireel in the art"
 - [ ] Sylvan Tutor(only 1 and $50+!)
 
+"squireel in the art"
 - [ ] Team spirit (unglued)
 
+"squirrel creature"
 - [ ] Toski, Bearer of Secrets Kaldheim Variants 
 - [ ] Toski, Bearer of Secrets Kaldheim Variants FOIL 
 - [ ] Toski, Bearer of Secrets Prerelease
@@ -329,13 +350,16 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Toski, Bearer of Secrets art card 
 - [ ] Toski, Bearer of Secrets art card signed
 
+"squirrel art and tokens"
 - [ ] Underworld hermit Modern horizons 2
 - [ ] Underworld hermit Modern horizons 2 variants (art not colored in)
 - [ ] Underworld hermit Modern horizons 2 FOIL
 - [ ] Underworld hermit Modern horizons 2 variants FOIL (art not colored in)
 
+"squireel in the art"
 - [ ] Urzras dark cannonball
 
+"squirrel tokens"
 - [ ] Verdant command Modern horizons 2 (full color art)
 ------------------------
 - [ ] Verdant command Modern horizons 2 variants (art not colored in)
@@ -343,6 +367,7 @@ https://cardgamebase.com/best-mtg-squirrels/
 - [ ] Verdant command Modern horizons 2 FOIL (full color art)
 - [ ] Verdant command Modern horizons 2 variants FOIL (art not colored in)
 
+"squirrel creature"
 - [X] Xenosquirrels
 - [ ] Xenosquirrels Foil #096
 - [ ] Xenosquirrels galaxy Foil #382
