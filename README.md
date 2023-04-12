@@ -24,6 +24,10 @@ https://themagictavern.org/2020/12/31/squirrels-to-nuts-toski-casual-edh/
 
 https://mtg-archive.fandom.com/wiki/EDH
 
+nice deck boxes
+
+https://www.cardkingdom.com/mtg-supplies/deck-box-ultra-pro-mana-7-alcove-flip
+
 squirrel commander video to watch
 https://www.youtube.com/watch?v=MC1XsNzEBmM
 
