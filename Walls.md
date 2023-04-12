@@ -35,6 +35,7 @@ Create type not a wall but deals with them namley makes tokens:
 - [ ] Testament of Faith
 - [ ] Teyo, the Shieldmage
 - [ ] Tidal Wave
+- [ ] Huatli, the Sun's Heart
 - [ ] Fortified Rampart
 - [ ] Arcades, the Strategist
 - [ ] Basalt Golem
