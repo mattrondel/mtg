@@ -64,6 +64,7 @@ Not walls but add to collection anyways (if under $10)
 - [ ] Sliver Legion
 - [ ] Sliver Hive
 - [ ] Sliver Overlord
+- [ ] Sliver Hivelord 
 
 ones found on scryfall need to check to see if i have or not
 
