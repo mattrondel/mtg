@@ -12,7 +12,6 @@
 - [ ] Tinder wall
 - [X] Wall of blossoms - 14 possible printings all the same highest being $40+ (i have 2 of these one foil for fun)
 - [X] Wall of essence stronghold 2x 2 frame differences same art
-- [ ] Wall of kelp homelands around $4 this is the one that escaped me for years
 - [X] Wall of razors stronghold
 ------------------------------------------------------------------------------------
 Legends in Italian? Like wall of light and putrid flesh, tombstones
@@ -24,26 +23,37 @@ What about foils? nah too many at the moment to track down
 What about creatures with defender that don’t say create type wall?
 
 -need to get with next purchase (next text break too) do this only after the next batch of orders come in
-- [ ] Wall tokens 4x 3 different types
-- [ ] tinder wall
-- [ ] Roving Keep
-- [ ] Wall of kelp from homelands
+
 - [ ] Get cards below too
 
 ------------------------------------------------------------------------------------
 Create type not a wall but deals with them namley makes tokens:
-- [ ] Testament of Faith
-- [ ] Teyo, the Shieldmage
-- [ ] Tidal Wave
-- [ ] Huatli, the Sun's Heart
-- [ ] Fortified Rampart
-- [ ] Arcades, the Strategist
-- [ ] Basalt Golem
-- [ ] The Birth of Meletis
-- [ ] Wall of Kelp
-- [ ] Jungle Patrol
-- [ ] Jumpstart: Walls Theme Card (found at card kingdom)
+Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 
+- [ ] Arcades, the Strategist
+- [ ] Wall of Air - DO I HAVE ALL VARIANTS?
+- [ ] Basalt Golem
+- [ ] Excavated Wall 2x (1 variant)
+- [ ] Fortified Rampart 2x (1 variant)
+- [ ] gleaming barrier
+- [ ] Huatli, the Sun's Heart
+- [ ] Jumpstart: Walls Theme Card (found at card kingdom)
+- [ ] Jungle Patrol
+- [ ] Roving Keep
+- [ ] Teyo, the Shieldmage
+- [ ] The Birth of Meletis
+- [ ] Testament of Faith
+- [ ] Tidal Wave
+- [ ] tinder wall
+- [ ] Wall of Kelp
+- [ ] Wall of kelp from homelands
+- [ ] wall of omens FNM variant (do i have this one?)
+- [ ] wall of torches 2x (1 variant)
+- [ ] Wall of Vines 5x (1 variant)
+- [ ] Wall of vipers 2x (1 variant)
+- [ ] wall of wonder (+1 additional printiing I dont have)
+- [ ] Wall tokens 4x 3 different types
+- [ ] Warded Battlements 2x (1 variant)
 ------------------------------------------------------------------------------------
 Ones without Wall in the name 
 - [X] Academy Wall
@@ -128,13 +138,3 @@ X means copies of that card like regualr and foil
 - [ ] Wall of Shards 3x (1 variant)
 - [ ] Wall of Stolen Identity 1x (1 variant)
 - [ ] Wall of tanglecord 2x (1 variant)
-
-Additional ones found though cardkingdom
-- [ ] Wall of vipers 2x (1 variant)
-- [ ] Wall of Vines 5x (1 variant)
-- [ ] wall of torches 2x (1 variant)
-- [ ] wall of wonder (+1 additional printiing I dont have)
-- [ ] wall of omens FNM variant (do i have this one?)
-- [ ] Excavated Wall 2x (1 variant)
-- [ ] Fortified Rampart 2x (1 variant)
-- [ ] Warded Battlements 2x (1 variant)
