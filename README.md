@@ -5,7 +5,10 @@ https://m.youtube.com/watch?v=dCu9MCZf-ag
 copy decklist to github to read later:
 
 https://www.youtube.com/watch?v=IaEvR8Fgd_k
+
 https://decks.tcgplayer.com/magic/freeform/the-commander-s-quarters/sliver-queen---the-commander-s-quarters/1363280?utm_source=TheCommandersQuarters&utm_medium=DeckTech&utm_term=&utm_content=magic&utm_campaign=affiliate
+
+
 
 
 https://www.youtube.com/watch?v=KteKsyid7Ew
