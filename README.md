@@ -28,6 +28,9 @@ nice deck boxes
 
 https://www.cardkingdom.com/mtg-supplies/deck-box-ultra-pro-mana-7-alcove-flip
 
+One for Brenna?
+https://ultrapro.com/products/mana-7-swamp-alcove-flip-deck-box-for-magic-the-gathering?variant=39474074976334
+
 squirrel commander video to watch
 https://www.youtube.com/watch?v=MC1XsNzEBmM
 
