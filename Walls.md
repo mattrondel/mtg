@@ -35,6 +35,7 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 - [ ] Basalt Golem (makes wall tokens)
 - [ ] consulate skygate
 - [ ] Excavated Wall 2x (1 variant)
+- [ ] Floriferous Vinewall
 - [ ] Fortified Rampart 2x (1 variant)
 - [ ] gleaming barrier
 - [ ] hover barrier
@@ -57,12 +58,12 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 - [ ] wall of wonder (+1 additional printiing I dont have)
 - [ ] Wall tokens 4x 3 different types
 - [ ] Warded Battlements 2x (1 variant)
+- [ ] whip vine
+
+Not walls but add to collection anyways
+- [ ] Sliver Legion
 
 ones found on scryfall need to check to see if i have or not
-whip vine
-wall of vines
-wall of tourches
-Floriferous Vinewall
 
 ------------------------------------------------------------------------------------
 Ones without Wall in the name 
