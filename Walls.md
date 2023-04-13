@@ -32,7 +32,9 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 
 - [ ] Arcades, the Strategist
 - [ ] Wall of Air - DO I HAVE ALL VARIANTS?
-- [ ] Basalt Golem (makes wall tokens)
+# Makes wall tokens
+- [ ] Basalt Golem
+
 - [ ] consulate skygate
 - [ ] Excavated Wall 2x (1 variant)
 - [ ] Floriferous Vinewall
