@@ -50,7 +50,7 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 - [ ] The Birth of Meletis
 - [ ] Testament of Faith
 - [ ] Tidal Wave
-- [ ] tinder wall (I'm short  
+- [ ] tinder wall 
 - [ ] Wall of Kelp
 - [ ] Wall of kelp from homelands
 - [ ] wall of omens FNM variant (do i have this one?)
@@ -60,7 +60,7 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 - [ ] wall of wonder (+1 additional printiing I dont have)
 - [ ] Wall tokens 4x 3 different types
 - [ ] Warded Battlements 2x (1 variant)
-- [ ] whip vine
+- [ ] whip vine (no bird)
 
 Not walls but add to collection anyways (if under $10)
 - [ ] Sliver Legion
