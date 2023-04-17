@@ -1,3 +1,6 @@
+Squirrel deck to copy links to here:
+https://www.youtube.com/watch?v=pjULGC6Rqy4
+
 decks to look up
 
 TOKEN TRIUMPH
