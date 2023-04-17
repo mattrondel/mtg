@@ -1,3 +1,8 @@
+
+acron catapult + Hornet Nest
+
+add Chitterspitter 
+
 Squirrel deck to copy links to here:
 https://www.youtube.com/watch?v=pjULGC6Rqy4
 commanders one here:
@@ -8,7 +13,9 @@ decks to look up
 TOKEN TRIUMPH
 
 CABARETTI CACOPHONY
----
+
+
+
 Read later:
 
 https://m.youtube.com/watch?v=dCu9MCZf-ag
