@@ -1,5 +1,7 @@
 Squirrel deck to copy links to here:
 https://www.youtube.com/watch?v=pjULGC6Rqy4
+commanders one here:
+https://www.youtube.com/watch?v=gw6xb9fv6G8
 
 decks to look up
 
