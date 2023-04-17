@@ -1,4 +1,12 @@
 
+as soon as you can check these ttwo out
+
+Decklist: https://bit.ly/tcq_chatterfang
+PlayEDH - Battlecruiser
+
+Upgraded deck: https://bit.ly/tcq_chatterfang_upgraded
+PlayEDH - Battlecruiser
+
 acron catapult + Hornet Nest
 
 add Chitterspitter 
