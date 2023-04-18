@@ -375,8 +375,8 @@ https://cardgamebase.com/best-mtg-squirrels/
 
 -------------------------------------------------------------------
 add this squirrel in the art card 
-- [ ] Esika's Chariot
-- [ ] Esika's Chariot Foil
+- [ ] Esika's Chariot (3 editions non foil)
+- [ ] Esika's Chariot Foil (2 editions foil)
 -------------------------------------------------------------------
 #### Tokens 
 
