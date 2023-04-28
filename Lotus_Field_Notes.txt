@@ -53,7 +53,7 @@ lands
 1 Blast Zone
 2 Boseiju, Who Endures
 1 island?
-1 ?? not sure
+1 breeding pool
 2 temple of mystery
 2 Yavimaya Coast
 4 botanical sanctum
