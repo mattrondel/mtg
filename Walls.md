@@ -52,7 +52,6 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 - [ ] Tidal Wave
 - [ ] tinder wall 
 - [ ] Wall of Kelp
-- [ ] Wall of kelp from homelands
 - [ ] wall of omens FNM variant (do i have this one?)
 - [ ] wall of torches 2x (1 variant)
 - [ ] Wall of Vines 5x (1 variant)
