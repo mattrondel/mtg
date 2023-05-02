@@ -35,13 +35,13 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 # Makes wall tokens
 - [ ] Basalt Golem
 
-- [ ] consulate skygate
+- [X] consulate skygate
 - [ ] Excavated Wall 2x (1 variant)
 - [ ] Floriferous Vinewall
 - [ ] Fortified Rampart 2x (1 variant)
-- [ ] gleaming barrier
+- [X] gleaming barrier
 - [ ] hover barrier
-- [ ] Huatli, the Sun's Heart
+- [X] Huatli, the Sun's Heart
 - [ ] Jumpstart: Walls Theme Card (found at card kingdom)
 - [ ] Jungle Patrol
 - [ ] Jungle Barrier (DO I HAVE BOTH VARIANTS?)
