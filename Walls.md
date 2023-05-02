@@ -1,6 +1,5 @@
 #### For sake of sanity maybe just get the different art works but not necessarily all printed copies (though it would be cool)
 -Collection will be at least one of each card allowing for different art styles
-#### Stick with the different versions i have so i can avoid getting alpha cards 
 #### At least make place holders for these cards
 #### Fun article https://mtg.fandom.com/wiki/Wall
 #### Cross check bottom lists against https://www.tcgplayer.com/ and https://www.cardkingdom.com/
@@ -14,23 +13,11 @@
 - [X] Wall of essence stronghold 2x 2 frame differences same art
 - [X] Wall of razors stronghold
 ------------------------------------------------------------------------------------
-Legends in Italian? Like wall of light and putrid flesh, tombstones
 
-Walls in renaissance? Too many to track down, skip
-
-What about foils? nah too many at the moment to track down
-
-What about creatures with defender that don’t say create type wall?
-
--need to get with next purchase (next text break too) do this only after the next batch of orders come in
-
-- [ ] Get cards below too
-
-------------------------------------------------------------------------------------
 Create type not a wall but deals with them namley makes tokens:
 Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 
-- [ ] Arcades, the Strategist
+- [x] Arcades, the Strategist
 - [ ] Wall of Air - DO I HAVE ALL VARIANTS?
 # Makes wall tokens
 - [ ] Basalt Golem
@@ -44,11 +31,11 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 - [X] Huatli, the Sun's Heart
 - [ ] Jumpstart: Walls Theme Card (found at card kingdom)
 - [ ] Jungle Patrol
-- [ ] Jungle Barrier (DO I HAVE BOTH VARIANTS?)
+- [x] Jungle Barrier (DO I HAVE BOTH VARIANTS?)
 - [ ] Roving Keep
-- [ ] Teyo, the Shieldmage
-- [ ] The Birth of Meletis
-- [ ] Testament of Faith
+- [x] Teyo, the Shieldmage
+- [ ] The Birth of Meletis enchantment that makes a wall token creature
+- [ ] Testament of Faith enchantment that becomes a wall
 - [ ] Tidal Wave
 - [ ] tinder wall 
 - [ ] Wall of Kelp
@@ -59,15 +46,7 @@ Next shopping list through cardkingdom (VERIFY THE "WALL OF LIST FIRST)
 - [ ] wall of wonder (+1 additional printiing I dont have)
 - [ ] Wall tokens 4x 3 different types
 - [ ] Warded Battlements 2x (1 variant)
-- [ ] whip vine (no bird)
-
-Not walls but add to collection anyways (if under $10)
-- [ ] Sliver Legion
-- [ ] Sliver Hive
-- [ ] Sliver Overlord
-- [ ] Sliver Hivelord 
-
-ones found on scryfall need to check to see if i have or not
+- [ ] whip vine (no bird art variant)
 
 ------------------------------------------------------------------------------------
 Ones without Wall in the name 
@@ -110,6 +89,7 @@ Ones without Wall in the name
 - [X] Tuktuk Rubblefort (this is the correct spelling)
 - [X] Vine Trellis
 - [X] Weathered Sentinels
+- 
 wall tokens will go here
 ------------------------------------------------------------------------------------
 
