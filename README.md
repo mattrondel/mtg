@@ -1,3 +1,7 @@
+
+monkey deck
+https://www.mtggoldfish.com/archetype/commander-kibo-uktabi-prince#paper
+
 Check this out
 www.mtgassist.com
 
