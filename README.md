@@ -2,6 +2,8 @@
 monkey deck (apes too)
 https://www.mtggoldfish.com/archetype/commander-kibo-uktabi-prince#paper
 
+https://draftsim.com/mtg-ape/
+
 Check this out
 www.mtgassist.com
 
