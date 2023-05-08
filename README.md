@@ -1,5 +1,5 @@
 
-monkey deck
+monkey deck (apes too)
 https://www.mtggoldfish.com/archetype/commander-kibo-uktabi-prince#paper
 
 Check this out
