@@ -2,6 +2,9 @@
 monkey deck (apes too)
 https://www.mtggoldfish.com/archetype/commander-kibo-uktabi-prince#paper
 
+loose your friends for $20 lol
+https://www.youtube.com/watch?v=7oly2-SLdrI
+
 https://draftsim.com/mtg-ape/
 
 Check this out
