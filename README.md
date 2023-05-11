@@ -1,4 +1,7 @@
 
+more monkey deck:
+https://www.moxfield.com/decks/YTOhZYYIcUWFKsjSJbdXeA
+
 monkey deck (apes too)
 https://www.mtggoldfish.com/archetype/commander-kibo-uktabi-prince#paper
 
