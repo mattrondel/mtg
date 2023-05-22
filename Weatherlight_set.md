@@ -1,6 +1,5 @@
 https://scryfall.com/sets/wth?order=set&as=checklist
 
-Checklist,Number,NAME,Price
 [X],1,Abeyance,12.11
 [ ],2,Alabaster Dragon,1.09
 [ ],3,Alms,0.13
