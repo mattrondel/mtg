@@ -9,7 +9,9 @@ Expense tracker (lets not go overboard like I did for Lotus field)
 
 Cardkingdom, TCG and Amazon onlything missing is The Meathook Massacre, currely a proxy when the card goes less than $30 then lets snatch it up
 Paste in CSV:
+
 ----------------------------------------------------
+
 
 QTY,Dimir Pioneer chal deck 2022,QTY,TCG Found one,tcg,265,crd king,391,,QTY,bobthedog,tcg,298,crd king,435
 ,,Needed,,,,,,,Needed,,,,,
