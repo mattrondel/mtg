@@ -1,7 +1,14 @@
 Other wall to add to collection if not missing
+
 Cathedral Membrane
 
+psychic membrane (mirrordie release)
+
+floriferous vinewall
+
 cool stuff to look into for wall deck
+https://aetherhub.com/Metagame/Commander/Arcades,%20the%20Strategist
+
 
 #### For sake of sanity maybe just get the different art works but not necessarily all printed copies (though it would be cool)
 -Collection will be at least one of each card allowing for different art styles
