@@ -1,3 +1,8 @@
+Other wall to add to collection if not missing
+Cathedral Membrane
+
+cool stuff to look into for wall deck
+
 #### For sake of sanity maybe just get the different art works but not necessarily all printed copies (though it would be cool)
 -Collection will be at least one of each card allowing for different art styles
 #### At least make place holders for these cards
