@@ -1,8 +1,8 @@
-** COMMANDER STAPLES
+* COMMANDER STAPLES *
 
 Sol Ring
 
-**Signets
+** Signets **
 
 Arcane signet
 
@@ -26,7 +26,7 @@ Boros Signet
 
 Simic Signet 
 
-** Pain talismans
+** Pain talismans **
 
 Talisman of Progress
 
@@ -49,14 +49,14 @@ Talisman of Creativity
 Talisman of Conviction 
 
 
-**Lands
+** Lands **
 
 Lands from my "afforable dual-lands"
 
 https://www.moxfield.com/decks/wQ_LWXMW60-lI6tV9K0Z8Q
 
 
-** Other Ideas
+** Other Ideas **
 
 Kamigawa lands
 
