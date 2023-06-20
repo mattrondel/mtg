@@ -1,3 +1,6 @@
+boseju playmat
+https://pilferedplaymats.com/product/boseiju-stitched-edges/
+
 https://www.reddit.com/r/bootlegmtg/
 
 
