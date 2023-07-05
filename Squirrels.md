@@ -15,12 +15,13 @@ https://draftsim.com/mtg-squirrel/
 https://cardgamebase.com/best-mtg-squirrels/
 
 
-add to this
-Generous Ent
-Generous Ent foil
-Generous Ent art card
-Generous Ent art card signed
+add to this:
+- [X] Generous Ent
+- [] Generous Ent foil
+- [] Generous Ent art card
+- [] Generous Ent art card signed
 
+- [] In Search of Greatness
 
 -------------------------------------------------------------------
 
