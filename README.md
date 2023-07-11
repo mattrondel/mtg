@@ -1,6 +1,8 @@
 EDHREC
+
 (https://edhrec.com/combos/sliver-gravemother)
 
+training grounds and sliver gravemother
 
 boseju playmat
 https://pilferedplaymats.com/product/boseiju-stitched-edges/
