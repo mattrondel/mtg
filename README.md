@@ -1,5 +1,15 @@
 EDHREC
 
+
+Magic rules
+when buying packs preview the set first qty in set , whats good to look for and over all value
+opening packs for the joy of it bet lowest soct per pack possible
+
+singles:
+anything over $10 dont buy - proxy , trade online for high dollar ones
+
+no buying in august make all overs prior to the month like proxies
+
 (https://edhrec.com/combos/sliver-gravemother)
 
 training grounds and sliver gravemother
