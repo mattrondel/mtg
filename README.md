@@ -1,3 +1,7 @@
+Proxy print site
+
+https://mtgprint.net/
+
 EDHREC
 
 
