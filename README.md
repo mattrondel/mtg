@@ -1,3 +1,5 @@
+https://old.reddit.com/r/PauperEDH
+
 Proxy print site
 
 https://mtgprint.net/
