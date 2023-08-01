@@ -11,12 +11,12 @@ EDHREC
 
 Magic rules
 when buying packs preview the set first qty in set , whats good to look for and over all value
-opening packs for the joy of it bet lowest soct per pack possible
+opening packs for the joy of it but lowest cost per pack possible
 
 singles:
 anything over $10 dont buy - proxy , trade online for high dollar ones
 
-no buying in august make all overs prior to the month like proxies
+no buying in august make all overs prior to August. If you want to run something make a laser print color copy first and run that deck a few times before buying it (since no one cares about proxies)
 
 (https://edhrec.com/combos/sliver-gravemother)
 
