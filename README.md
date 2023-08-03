@@ -8,6 +8,10 @@ commader spellbook
 
 EDHREC
 
+ManabaseCrafter: Build Your Commander Deck Mana Base
+ManabaseCrafter
+http://manabasecrafter.com
+
 
 Magic rules
 when buying packs preview the set first qty in set , whats good to look for and over all value
