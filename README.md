@@ -9,7 +9,9 @@ commader spellbook
 EDHREC
 
 ManabaseCrafter: Build Your Commander Deck Mana Base
+
 ManabaseCrafter
+
 http://manabasecrafter.com
 
 
