@@ -1,3 +1,5 @@
+https://old.reddit.com/r/sealedmtgdeals/comments/158zm68/wilds_of_eldraine_available_for_preorder_on_forge/
+
 https://ultrapro.com/products/sliver-gamer-pouch-for-magic-the-gathering
 
 https://old.reddit.com/r/PauperEDH
