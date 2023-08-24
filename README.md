@@ -1,3 +1,11 @@
+Next MPC order:
+light paws highest $ deck for rebecca , but dont add:
+          Commander
+          Flickering ward 
+          All that glitters
+          Spectra Ward
+
+
 https://www.mtgtop8.com/
 
 https://old.reddit.com/r/sealedmtgdeals/comments/158zm68/wilds_of_eldraine_available_for_preorder_on_forge/
