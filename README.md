@@ -1,8 +1,14 @@
 Next MPC order:
-light paws highest $ deck for rebecca , but dont add:
+
+Light paws highest $ deck for rebecca , but dont add:
+          
+          
           Commander
+          
           Flickering ward 
+          
           All that glitters
+          
           Spectra Ward
 
 
