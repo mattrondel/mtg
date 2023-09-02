@@ -20,7 +20,7 @@ add to this:
 - [] Generous Ent foil
 - [] Generous Ent art card
 - [] Generous Ent art card signed
-
+- [] Radagast the Brown
 - [] In Search of Greatness
 
 -------------------------------------------------------------------
