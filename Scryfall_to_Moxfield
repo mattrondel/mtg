@@ -1,0 +1,20 @@
+Steps on how to import a set from scryfall to moxfield
+go to scryfall and type in the sets code like so:
+set:woe or set:tmp
+change the drop down to checklist
+highlight  from top left where it says says: SET ▲ all the way down to the last line of that wet
+open excel and paste in cell A1
+right click the text you paste > remove Hyperlinks
+highlight and delete columns from NAME all the way to the right
+double click on the NAME column to auto expand 
+delete row 1 (containg the column titles)
+find and replace (Ctrl H) on the set code and set match case check box example find:WOE replace with (WOE), replace all
+highlight column A and B and CUT then paste in column D (this should be the column proceeding the name column), then paste
+in Column B put a 1 in cell B! then double click the bottom right of that cell to repeat all cells below it
+highlight columns B through E, then copy
+paste in Notepad ++ 
+highlight the blank space found between the quality and name > copy > Find and replace (Ctrl+H) > paste in the pasted space in the Find then in the replace field type one space character, then Replace All
+copy all contents from notepad++ and go to Moxfield
+Moxfield> Your Decks> New Deck> name it _____ set , Format: none, no folder, unlisted, existing deck list: none, then click create
+clicck > bulk edit
+paste in main deck field, save
