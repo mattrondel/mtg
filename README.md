@@ -1,3 +1,7 @@
+Find this somewhere cheaper than $40
+
+https://www.originalmagicart.store/products/dominaria-map-playmat
+
 https://duelmasters.fandom.com/wiki/Sliver_Queen
 
 https://www.originalmagicart.store/collections/official-magic-playmats/products/cauldron-familiar-playmat
