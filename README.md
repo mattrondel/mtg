@@ -1,3 +1,7 @@
+check this out at home: 
+
+https://www.slightlymagic.net/
+
 Find this somewhere cheaper than $40
 
 https://www.originalmagicart.store/products/dominaria-map-playmat
