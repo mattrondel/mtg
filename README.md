@@ -10,8 +10,7 @@ https://duelmasters.fandom.com/wiki/Sliver_Queen
 
 https://www.originalmagicart.store/collections/official-magic-playmats/products/cauldron-familiar-playmat
 
-https://mtgprint.net/
-all options off @ 101%
+
 
           Sites:
           Top 8:
@@ -20,6 +19,11 @@ all options off @ 101%
           Stocks: 
           
                     https://www.mtgstocks.com/news
+         
+          Printing Proxies (all options off @ 101%)
+          
+                    https://mtgprint.net/
+
 
 
 https://old.reddit.com/r/sealedmtgdeals/comments/158zm68/wilds_of_eldraine_available_for_preorder_on_forge/
