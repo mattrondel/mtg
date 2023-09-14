@@ -13,14 +13,13 @@ https://www.originalmagicart.store/collections/official-magic-playmats/products/
 https://mtgprint.net/
 all options off @ 101%
 
-Sites:
+          Sites:
           Top 8:
-          
-          https://www.mtgtop8.com/
+                    https://www.mtgtop8.com/
 
           Stocks: 
           
-          https://www.mtgstocks.com/news
+                    https://www.mtgstocks.com/news
 
 
 https://old.reddit.com/r/sealedmtgdeals/comments/158zm68/wilds_of_eldraine_available_for_preorder_on_forge/
