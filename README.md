@@ -13,29 +13,15 @@ https://www.originalmagicart.store/collections/official-magic-playmats/products/
 https://mtgprint.net/
 all options off @ 101%
 
-Stocks: 
-
-https://www.mtgstocks.com/news
-
-Top 8:
-
-https://www.mtgtop8.com/
-
-Next MPC order:
-
-Light paws highest $ deck for rebecca , but dont add:
+Sites:
+          Top 8:
           
-          
-          Commander
-          
-          Flickering ward 
-          
-          All that glitters
-          
-          Spectra Ward
+          https://www.mtgtop8.com/
 
+          Stocks: 
+          
+          https://www.mtgstocks.com/news
 
-https://www.mtgtop8.com/
 
 https://old.reddit.com/r/sealedmtgdeals/comments/158zm68/wilds_of_eldraine_available_for_preorder_on_forge/
 
