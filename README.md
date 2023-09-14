@@ -19,8 +19,10 @@ https://www.originalmagicart.store/collections/official-magic-playmats/products/
           Stocks: 
           
                     https://www.mtgstocks.com/news
+                    
          
           Printing Proxies (all options off @ 101%)
+          
           
                     https://mtgprint.net/
 
