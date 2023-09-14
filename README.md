@@ -13,7 +13,13 @@ https://www.originalmagicart.store/collections/official-magic-playmats/products/
 https://mtgprint.net/
 all options off @ 101%
 
-Stocks: https://www.mtgstocks.com/news
+Stocks: 
+
+https://www.mtgstocks.com/news
+
+Top 8:
+
+https://www.mtgtop8.com/
 
 Next MPC order:
 
