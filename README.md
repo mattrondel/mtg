@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=v-y-wZoLOp8
 
 check this out at home: 
 
+https://www.reddit.com/r/magicTCG/comments/166n38d/i_made_a_tool_to_help_you_create_better_manabases/
+
 https://www.slightlymagic.net/
 
 Find this somewhere cheaper than $40
