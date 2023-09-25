@@ -4,7 +4,7 @@
           
           forge and fire 
           collector 189
-          decks 164 ($41 each)
+          decks 164 (41 each)
           
           stomping grounds
           collector 195
