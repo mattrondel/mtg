@@ -1,3 +1,8 @@
+tokens
+
+https://www.etsy.com/ca/listing/553873956/5-squirrel-tokens-for-magic-the?click_key=29f4f3e88024d078d9bc0004d9952f2915c887e8%3A553873956&click_sum=424fe262&ga_search_query=squirrel&ref=shop_items_search_1&crt=1
+
+
 Keep an eye on this
 
 https://www.tcgplayer.com/product/517556/magic-unique-and-miscellaneous-promos-tardis-magiccon-las-vegas-2023?xid=pife434df5-ff3f-4d32-a05e-550c91c4c901&page=1&Language=English
