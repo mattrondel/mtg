@@ -1,4 +1,9 @@
+read at home:
+
+https://strategy.channelfireball.com/all-strategy/mtg/channelmagic-articles/how-many-lands-do-you-need-to-consistently-hit-your-land-drops/
+
 funny playmat
+
 https://www.etsy.com/listing/1565688948/magic-goose-hydra-playmat?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=Magic+Goose+hydra+playmat&ref=sr_gallery-1-1&referrer_page_guid=f6e3ee4cd66.c0b287adfca3ca6c37db.00&organic_search_click=1
 
 
