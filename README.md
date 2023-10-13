@@ -1,3 +1,5 @@
+as of 10/13 scalding tarn is 15.50 free shipping
+
 read at home:
 
 https://strategy.channelfireball.com/all-strategy/mtg/channelmagic-articles/how-many-lands-do-you-need-to-consistently-hit-your-land-drops/
