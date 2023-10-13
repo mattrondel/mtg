@@ -1,3 +1,5 @@
+fetch lands
+
 as of 10/13 scalding tarn is 15.50 free shipping
 Marsh Flats is 10.10 with shipping
 
