@@ -1,12 +1,12 @@
 fetch lands
-Scalding tarn
-as of 10/13 scalding tarn is 15.50 free shipping
-https://www.tcgplayer.com/product/238610/magic-modern-horizons-2-scalding-tarn?xid=pi13cd2508-b7bc-4ddc-900d-92599fb8cf2e&Language=English&page=1
-
-
-Marsh Flats
-as of 10/13 is 10.10 with shipping
-https://www.tcgplayer.com/product/238608/magic-modern-horizons-2-marsh-flats?xid=pif1ff9b84-66a1-4bb3-9e28-1093b04dab4f&page=1&Language=English
+          Scalding tarn
+          as of 10/13 scalding tarn is 15.50 free shipping
+          https://www.tcgplayer.com/product/238610/magic-modern-horizons-2-scalding-tarn?xid=pi13cd2508-b7bc-4ddc-900d-92599fb8cf2e&Language=English&page=1
+          
+          
+          Marsh Flats
+          as of 10/13 is 10.10 with shipping
+          https://www.tcgplayer.com/product/238608/magic-modern-horizons-2-marsh-flats?xid=pif1ff9b84-66a1-4bb3-9e28-1093b04dab4f&page=1&Language=English
 
 
 Nice deck box
