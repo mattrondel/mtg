@@ -6,9 +6,11 @@ fetch lands
           Bloodstained Mire (Black red)
           Wooded Foothills (Red Green)
           Windswept Heath (green white)
+
+          Enemy
           Marsh Flats (white black)
           Scalding Tarn (blue red)
-          Verdant Catacombs (green black)
+          X Verdant Catacombs (green black)
           Arid Mesa (red white)
           Misty Rainforest (blue green)
 
