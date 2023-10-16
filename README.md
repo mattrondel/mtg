@@ -1,16 +1,16 @@
 fetch lands
 
           #Fetch lands
-          Flooded Strand 
-          Polluted Delta 
-          Bloodstained Mire 
-          Wooded Foothills
-          Windswept Heath 
-          Marsh Flats 
-          Scalding Tarn 
-          Verdant Catacombs 
-          Arid Mesa 
-          Misty Rainforest
+          Flooded Strand (white blue)
+          Polluted Delta (Blue Black)
+          Bloodstained Mire (Black red)
+          Wooded Foothills (Red Green)
+          Windswept Heath (green white)
+          Marsh Flats (white black)
+          Scalding Tarn (blue red)
+          Verdant Catacombs (green black)
+          Arid Mesa (red white)
+          Misty Rainforest (blue green)
 
 
           Scalding tarn
