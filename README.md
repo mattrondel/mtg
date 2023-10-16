@@ -1,4 +1,18 @@
 fetch lands
+
+          #Fetch lands
+          Flooded Strand 
+          Polluted Delta 
+          Bloodstained Mire 
+          Wooded Foothills
+          Windswept Heath 
+          Marsh Flats 
+          Scalding Tarn 
+          Verdant Catacombs 
+          Arid Mesa 
+          Misty Rainforest
+
+
           Scalding tarn
           as of 10/13 scalding tarn is 15.50 free shipping
           https://www.tcgplayer.com/product/238610/magic-modern-horizons-2-scalding-tarn?xid=pi13cd2508-b7bc-4ddc-900d-92599fb8cf2e&Language=English&page=1
