@@ -5,8 +5,12 @@ https://old.reddit.com/r/magicTCG/comments/17a1klu/lorwynshadowmoor_in_dd_5e_pla
 217.76 doctor who decks
 
 sara wants this 
+
 https://www.etsy.com/listing/861488009/
 
+similar?
+
+https://www.amazon.com/Hobby-Lobby-Masters-Sketch-Supply/dp/B0921K5NC9/ref=sr_1_2?keywords=wooden+briefcase&qid=1697573846&sr=8-2
 
 fetch lands
 
