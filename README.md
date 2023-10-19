@@ -1,3 +1,7 @@
+Fall out cards
+
+https://www.amazon.com/MTG-EN-Fallout-Commander-Assortment/dp/B0CKDCMGM3?ots=1&slotNum=15&imprToken=6ac5a51d-5d5d-b2f6-fdc&ascsubtag=___pl__p_23687795__t_w__r_google.com__d_D&ref_=ast_sto_dp&tag=polygon05-20
+
 interesting D&D book
 
 https://old.reddit.com/r/magicTCG/comments/17a1klu/lorwynshadowmoor_in_dd_5e_planeshifted_guide/
