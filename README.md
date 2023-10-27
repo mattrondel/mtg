@@ -1,3 +1,5 @@
+https://old.reddit.com/r/EDH/comments/ro8dnm/what_is_the_optimal_3_colour_land_base/
+
 https://old.reddit.com/r/mtgfinance/comments/17hrelw/woe_collector_booster_box_really/
 
 https://www.mtggoldfish.com/deck/3583570#paper
