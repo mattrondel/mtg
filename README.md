@@ -10,8 +10,6 @@ interesting D&D book
 
 https://old.reddit.com/r/magicTCG/comments/17a1klu/lorwynshadowmoor_in_dd_5e_planeshifted_guide/
 
-217.76 doctor who decks
-
 sara wants this 
 
 https://www.etsy.com/listing/861488009/
