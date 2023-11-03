@@ -1,9 +1,13 @@
 pirates to get
-Spectral Sailor - Jumpstart 2022 (J22)
-Dockside Extortionist
-Kite Sail Freebooter
+Spectral Sailor (J22)
+KiteSail Freebooter
 Dire Fleet Poisoner
 Dowsing Dagger
+Corsairs of Umbar
+Storm Fleet Sprinter 
+Falkenrath Noble 
+Dockside Extortionist
+
 
 https://www.commandersalt.com/
 
