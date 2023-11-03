@@ -1,11 +1,19 @@
 pirates to get
+
 Spectral Sailor (J22)
+
 KiteSail Freebooter
+
 Dire Fleet Poisoner
+
 Dowsing Dagger
+
 Corsairs of Umbar
+
 Storm Fleet Sprinter 
+
 Falkenrath Noble 
+
 Dockside Extortionist
 
 
