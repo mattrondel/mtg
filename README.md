@@ -3,8 +3,12 @@ pirates to get
 Spectral Sailor (J22)
 
 KiteSail Freebooter
+ 
+Chart a Course
 
 Dire Fleet Poisoner
+
+Captain Storm, Cosmium Raider 
 
 Dowsing Dagger
 
