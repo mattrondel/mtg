@@ -29,10 +29,8 @@ fetch lands
           Wooded Foothills (Red Green)
           Windswept Heath (green white)
 
-          Enemy
-          Marsh Flats (white black)
+          Enemy        
           Scalding Tarn (blue red)
-          X Verdant Catacombs (green black)
           Arid Mesa (red white)
           Misty Rainforest (blue green)
 
