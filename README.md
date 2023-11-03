@@ -1,3 +1,10 @@
+pirates to get
+Spectral Sailor - Jumpstart 2022 (J22)
+Dockside Extortionist
+Kite Sail Freebooter
+Dire Fleet Poisoner
+Dowsing Dagger
+
 https://www.commandersalt.com/
 
 https://old.reddit.com/r/EDH/comments/ro8dnm/what_is_the_optimal_3_colour_land_base/
