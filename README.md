@@ -1,3 +1,5 @@
+https://edhchamber.com/blog/izzet-jank-pirate-tribal-malcolm-breeches&hl=en&gl=us
+
 pirates to get
 
 Spectral Sailor (J22)
