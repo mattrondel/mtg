@@ -1,3 +1,7 @@
+cube
+
+https://archidekt.com/decks/5798515/vintage_power_cube
+
 https://edhchamber.com/blog/izzet-jank-pirate-tribal-malcolm-breeches&hl=en&gl=us
 
 pirates to get
