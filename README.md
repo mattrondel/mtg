@@ -1,5 +1,7 @@
 cube
 
+https://www.tcgplayer.com/product/236083?page=1&irclickid=TcO1mqwyHxyPWibXiMXazT9GUkFVzA1PrymQzA0&sharedid=moxfield&irpid=4949650&irgwc=1&utm_source=impact&utm_medium=affiliate&utm_campaign=Moxfield&Language=English
+
 https://archidekt.com/decks/5798515/vintage_power_cube
 
 https://edhchamber.com/blog/izzet-jank-pirate-tribal-malcolm-breeches&hl=en&gl=us
