@@ -4,7 +4,7 @@ https://www.tcgplayer.com/product/236083?page=1&irclickid=TcO1mqwyHxyPWibXiMXazT
 
 https://archidekt.com/decks/5798515/vintage_power_cube
 
-https://edhchamber.com/blog/izzet-jank-pirate-tribal-malcolm-breeches&hl=en&gl=us
+[https://edhchamber.com/blog/izzet-jank-pirate-tribal-malcolm-breeches&hl=en&gl=us](https://edhchamber.com/blog/izzet-jank-pirate-tribal-malcolm-breeches)
 
 pirates to get
 
