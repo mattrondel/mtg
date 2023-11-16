@@ -1,3 +1,5 @@
+Dockside dollar https://www.reddit.com/r/magicTCG/comments/11h37rm/oc_treasure_tokens_goldsabertooths_dockside/
+
 save the orginal size https://twitter.com/forrestimel/status/1686460361015513088
 
 https://old.reddit.com/r/AskReddit/comments/17vtb36/what_immediately_tells_you_someone_is_a_trashy/
