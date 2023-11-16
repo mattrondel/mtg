@@ -1,3 +1,5 @@
+save the orginal size https://twitter.com/forrestimel/status/1686460361015513088
+
 https://old.reddit.com/r/AskReddit/comments/17vtb36/what_immediately_tells_you_someone_is_a_trashy/
 
 https://discord.com/invite/mtg-marketplace-690408090851606529
