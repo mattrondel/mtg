@@ -1,3 +1,5 @@
+https://discord.com/invite/mtg-marketplace-690408090851606529
+
 www.ebay.com/itm/225798497092
 
 
