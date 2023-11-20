@@ -1,3 +1,11 @@
+r/edh
+dinosaursmtg
+mtgcube
+magicdeckbuilding
+jeep 92 xj
+sudden loss of power
+
+
 Dockside dollar https://www.reddit.com/r/magicTCG/comments/11h37rm/oc_treasure_tokens_goldsabertooths_dockside/
 
 save the orginal size https://twitter.com/forrestimel/status/1686460361015513088
