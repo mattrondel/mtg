@@ -1,3 +1,5 @@
+print 2 copies if watery grave
+
 r/edh
 dinosaursmtg
 mtgcube
