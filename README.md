@@ -1,3 +1,11 @@
+
+https://www.pokemoncenter.com/product/701-95854/hisuian-zoroark-poke-plush-14-in
+
+https://www.pokemoncenter.com/product/701-98901/ceruledge-poke-plush-15-in
+
+https://www.buildabear.com/flareon-plush-bundle/28163_28150_28194_28036.html?cgid=characters-brands-and-characters-pokemon
+
+
 print 2 copies if watery grave
 
 r/edh
