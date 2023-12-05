@@ -9,6 +9,24 @@ Draftmancer - Multiplayer MTG Draft Simulator
 There may not be more than one pack between players.
 if by chance a pack builds up then "tap" the pile this is to prevent a train of piles
 
+
+Zone draft - There is a "zone" between each player and in each player's hands. No more than one pack can be in a zone at once. So if the player to your left hasn't picked up the pack you passed them, you're not allowed to pass them another pack
+
+don't pass until somebody is ready
+
+Essentially you've got three zones.
+
+Pass zone: You collect from one pass zone to your hand, and then when you're done drafting from that pack, put it into the next pass zone (passing left for the first pack, right for the second, and left for the third).
+
+Hand zone: View the cards, and take one that you want to put in your draft zone, then pass the rest of the pack.
+
+Drafted zone: Your pile of cards that you've drafted.
+
+Only one pack of cards can be in a pass zone or a hand zone. If there's a pile up. If your outgoing pass zone is still occupied you hold onto the pack in your hand until that outgoing pack moves along; and there doesn't end up a pileup on one player
+
+
+
+
 In limited aka draft the goal is of 8 players 3 packs each play takes one or 2 cards (to be determined) but can be done at any number just an event number is recommended 
 
 No hate drafting – this means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
