@@ -34,7 +34,7 @@ Don’t take a card simply because it’s big, flashy and/or a mythic rare take 
 There is a "zone" between each player and in each player's hands. No more than one pack can be in a zone at once. So if the player to your left hasn't picked up the pack you passed them, you're not allowed to pass them another pack. Again, don't pass 
 until somebody is ready.
 
- ### Draft tips:  ###
+ ## Draft tips:  ##
 
 B.R.E.A.D. or Priory of what to pick.
 
