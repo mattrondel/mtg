@@ -54,17 +54,27 @@ Does this card provide game-breaking effects, such as that of planeswalkers
 
 
 
-Removal: Counterspells, destroy, or exile effects. Removal removes the threat. Bounce spells like return target creature to owners’ hand are removal.
+### Removal:  ###
+Counterspells, destroy, or exile effects. Removal removes the threat. Bounce spells like return target creature to owners’ hand are removal.
 
 Combat spells and tricks can be used as removal as well. Pumping your creature so that it can now block and kill an attacker is a form of removal as is flashing in a creature strategically for surprise blocking. 
 
-Evasion: Attackers that can prevent opponents from blocking. Flying, menace, horsemanship trample, etc. being able to attack without the possibility of your opponent’s blocking is partially strong. 
+### Evasion:  ###
+Attackers that can prevent opponents from blocking. Flying, menace, horsemanship trample, etc. being able to attack without the possibility of your opponent’s blocking is partially strong. 
 
-Aggro: creatures that are neither bombs, nor have evasion, but apply pressure and can fill holes in your mana curve. Sometimes these are cards that have weaker abilities that don’t win you the game, but help you win the game. Aggro is sometimes called ability cards. 
+### Aggro: ###
+Creatures that are neither bombs, nor have evasion, but apply pressure and can fill holes in your mana curve. Sometimes these are cards that have weaker abilities that don’t win you the game, but help you win the game. 
+
+Aggro is sometimes called ability cards. 
+
 Aggro should be taken with mana curve in mind. Aggro could also be called anything else
 
-Dirt -Your worst cards. Your duds. The cards you would never, ever play. Typically, dirt tends to be all that is left in the remaining 5 or so cards but this varies. Dirt can sometimes have a role in your sideboard. Your sideboard is all the cards you drafted but did 
-not use in your deck.  Sometimes dirt can be situational cards that you might sideboard in between games. 
+ ### Dirt - ###
+Your worst cards. Your duds. The cards you would never, ever play. Typically, dirt tends to be all that is left in the remaining 5 or so cards but this varies. 
+
+Dirt can sometimes have a role in your sideboard. Your sideboard is all the cards you drafted but did not use in your deck. 
+
+Sometimes dirt can be situational cards that you might sideboard in between games. 
 
 
 
