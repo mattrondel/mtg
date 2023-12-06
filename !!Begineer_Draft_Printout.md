@@ -21,16 +21,16 @@
 ### No Hate Drafting ### 
 This means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
 
- ### No Shiny card Syndrome ###
+### No Shiny card Syndrome ###
 Don’t take a card simply because it’s big, flashy and/or a mythic rare take it because it will work well in your deck. 
 
- ###No Copy Limit  ###
+###No Copy Limit  ###
  There is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
 
- ### Keep Quiet ###
+### Keep Quiet ###
  Don’t talk about the contents of your pack that you’re looking at this is giving up a lot of information what’s in the packs.
 
- ### Zone Draft ###
+### Zone Draft ###
 There is a "zone" between each player and in each player's hands. No more than one pack can be in a zone at once. So if the player to your left hasn't picked up the pack you passed them, you're not allowed to pass them another pack. Again, don't pass 
 until somebody is ready.
 
@@ -68,7 +68,7 @@ not use in your deck.  Sometimes dirt can be situational cards that you might si
 
 
 
-Deck Building tips:
+## Deck Building tips: ##
 
 A 40 card deck is your goal and a recommended deck (cards permitting)
 
