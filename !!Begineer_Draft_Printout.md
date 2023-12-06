@@ -69,7 +69,7 @@ Aggro is sometimes called ability cards.
 
 Aggro should be taken with mana curve in mind. Aggro could also be called anything else
 
- ### Dirt - ###
+ ### Dirt ###
 Your worst cards. Your duds. The cards you would never, ever play. Typically, dirt tends to be all that is left in the remaining 5 or so cards but this varies. 
 
 Dirt can sometimes have a role in your sideboard. Your sideboard is all the cards you drafted but did not use in your deck. 
