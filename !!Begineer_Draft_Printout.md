@@ -18,7 +18,7 @@
 
 ****Points of Courtesy / Rules ****
 
-•	## No Hate Drafting – this means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
+## No Hate Drafting – this means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
 
 •	No Shiny card Syndrome – Don’t take a card simply because it’s big, flashy and/or a mythic rare take it because it will work well in your deck. 
 
