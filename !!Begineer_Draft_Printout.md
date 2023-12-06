@@ -95,7 +95,7 @@ About 16-18 lands per 40 card deck
 
 You want to cast a creature every turn if possible or you want to have creatures with varying mana costs. 
 
-Mana curve template:
+Suggested mana curve template:
 
 1-2 mana = 5-7 cards
 
