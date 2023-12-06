@@ -34,7 +34,7 @@ There is no limit on how many copy of a card can be in a deck – if you draft 1
 There is a "zone" between each player and in each player's hands. No more than one pack can be in a zone at once. So if the player to your left hasn't picked up the pack you passed them, you're not allowed to pass them another pack. Again, don't pass 
 until somebody is ready.
 
- ## Draft tips: ##
+## Draft tips: ##
 
 B.R.E.A.D. or Priory of what to pick.
 
@@ -51,8 +51,6 @@ Card advantage is defined as a player having access to more cards than another p
 their battlefield. 
 
 Does this card provide game-breaking effects, such as that of planeswalkers
-
-
 
 ### Removal:  ###
 Counterspells, destroy, or exile effects. Removal removes the threat. Bounce spells like return target creature to owners’ hand are removal.
@@ -75,6 +73,7 @@ Your worst cards. Your duds. The cards you would never, ever play. Typically, di
 Dirt can sometimes have a role in your sideboard. Your sideboard is all the cards you drafted but did not use in your deck. 
 
 Sometimes dirt can be situational cards that you might sideboard in between games. 
+
 
 
 
