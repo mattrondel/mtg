@@ -24,8 +24,8 @@ This means drafting a card out of a pack that you zero intention of playing or p
 ### No Shiny card Syndrome ###
 Don’t take a card simply because it’s big, flashy and/or a mythic rare take it because it will work well in your deck. 
 
-###No Copy Limit  ###
- There is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
+### No Copy Limit  ###
+There is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
 
 ### Keep Quiet ###
  Don’t talk about the contents of your pack that you’re looking at this is giving up a lot of information what’s in the packs.
