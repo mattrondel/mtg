@@ -16,7 +16,7 @@
 
 •	You play EVERYONE, once. If you have a lot of time, you play everyone, twice. For 7 I suggest everyone once (6 games per player), if you're with 5, go round twice (8 games per player).
 
-****Points of Courtesy / Rules ****
+## ****Points of Courtesy / Rules **** ##
 
 ### No Hate Drafting ### 
 this means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
