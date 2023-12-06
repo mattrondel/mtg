@@ -1,4 +1,4 @@
-**** Draft Setup ****
+ ### **** Draft Setup **** ###
 
 •	Everyone starts with 3 packs
 
