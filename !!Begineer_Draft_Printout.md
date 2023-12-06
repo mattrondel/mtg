@@ -1,4 +1,5 @@
 **** Draft Setup ****
+
 •	Everyone starts with 3 packs
 
 •	Starting with left pick 2 cards (or 1)
