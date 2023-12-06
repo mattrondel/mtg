@@ -19,22 +19,27 @@
 ## ****Points of Courtesy / Rules **** ##
 
 ### No Hate Drafting ### 
-this means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
+This means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
 
-•	No Shiny card Syndrome – Don’t take a card simply because it’s big, flashy and/or a mythic rare take it because it will work well in your deck. 
+ ### No Shiny card Syndrome ###
+Don’t take a card simply because it’s big, flashy and/or a mythic rare take it because it will work well in your deck. 
 
-•	No Copy Limit – there is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
+ ###No Copy Limit  ###
+ There is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
 
-•	Keep Quiet - Don’t talk about the contents of your pack that you’re looking at this is giving up a lot of information what’s in the packs.
+ ### Keep Quiet ###
+ Don’t talk about the contents of your pack that you’re looking at this is giving up a lot of information what’s in the packs.
 
-•	Zone Draft - There is a "zone" between each player and in each player's hands. No more than one pack can be in a zone at once. So if the player to your left hasn't picked up the pack you passed them, you're not allowed to pass them another pack. Again, don't pass 
+ ### Zone Draft ###
+There is a "zone" between each player and in each player's hands. No more than one pack can be in a zone at once. So if the player to your left hasn't picked up the pack you passed them, you're not allowed to pass them another pack. Again, don't pass 
 until somebody is ready.
 
-Draft tips:
+ ### Draft tips:  ###
 
 B.R.E.A.D. or Priory of what to pick.
 
-Bombs: - your opponent’s biggest threats. If your opponents cannot get rid of them, they will "go off" and win you the game
+### Bombs: ###
+Your opponent’s biggest threats. If your opponents cannot get rid of them, they will "go off" and win you the game
 
 How do you know if it’s a bomb? Is this a big creature, preferably one that is hard to block (added evasion), basically things that have a strong impact on the board?
 
