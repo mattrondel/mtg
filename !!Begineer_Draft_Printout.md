@@ -2,7 +2,7 @@
 
 •	Everyone starts with 3 packs
 
-•	Starting with left pick 2 cards (or 1)
+•	Starting with left pick 1 card
 
 •	Goal is to build a 40 card deck including lands (not a hard limit just a goal, more is ok)
 
