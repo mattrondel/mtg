@@ -74,8 +74,7 @@ Dirt can sometimes have a role in your sideboard. Your sideboard is all the card
 
 Sometimes dirt can be situational cards that you might sideboard in between games. 
 
-
-
+ ### Synergy ### How cards in the set work together
 
 ## Deck Building tips: ##
 
