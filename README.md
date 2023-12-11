@@ -1,3 +1,9 @@
+ones to check out:
+
+https://www.moxfield.com/decks/uWn_5LRH1EmzpP-BMS9msQ
+
+https://www.moxfield.com/decks/-je6HM94MkSSjpnjx1CpGA
+
 dinosaursmtg
 
 https://www.pokemoncenter.com/product/701-95854/hisuian-zoroark-poke-plush-14-in
