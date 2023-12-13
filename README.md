@@ -1,5 +1,14 @@
 ones to check out:
 
+
+Don decks to see
+
+https://deckstats.net/decks/190754/3299767-don-andres-prince-of-theft
+
+https://draftsim.com/don-andres-edh-deck/
+
+----
+
 https://www.moxfield.com/decks/uWn_5LRH1EmzpP-BMS9msQ
 
 https://www.moxfield.com/decks/-je6HM94MkSSjpnjx1CpGA
