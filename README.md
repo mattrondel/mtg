@@ -7,6 +7,8 @@ https://deckstats.net/decks/190754/3299767-don-andres-prince-of-theft
 
 https://draftsim.com/don-andres-edh-deck/
 
+https://www.youtube.com/watch?v=uwj-Pd3HFYI
+
 ----
 
 https://www.moxfield.com/decks/uWn_5LRH1EmzpP-BMS9msQ
