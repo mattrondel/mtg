@@ -1,3 +1,7 @@
+qs card
+https://www.delverlab.com
+
+
 ones to check out:
 
 Memnarch mtg
