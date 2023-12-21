@@ -1,3 +1,6 @@
+find out
+Quintorius Kand
+
 qs card
 https://www.delverlab.com
 
