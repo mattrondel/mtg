@@ -1,3 +1,14 @@
+Secret Lair Drop: Every Dog Has Its Day - Foil - Secret Lair Drop Series (SLD)
+
+either Ancient Grudge 8.60
+foil Dig Through Time 5.60
+Lightning Greaves either 34
+Rest in Peace 16.70 normal 19.50 foil
+ 
+foil 67.70
+not foil 65
+
+
 find out
 Quintorius Kand
 
