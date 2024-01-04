@@ -1,3 +1,5 @@
+https://draftsim.com/chatterfang-edh-deck/
+
 compy swarm
 
 Roaming Throne
