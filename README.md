@@ -1,4 +1,6 @@
+Nadier's Nightblade
 
+burgeoning
 
 Secret Lair Drop: Every Dog Has Its Day - Foil - Secret Lair Drop Series (SLD)
 
