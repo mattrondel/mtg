@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=dHLo73pnTsE&list=RDCMUC7-hR5EfgpM6oHfiGDkxfMA&start_radio=1
+
+
 blocked?
 https://www.commandersalt.com
 
