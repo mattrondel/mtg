@@ -1,3 +1,7 @@
+Chatterfang
+
+https://www.mtgtop8.com/event?e=49939&d=569526&f=cEDH
+
 https://www.youtube.com/watch?v=dHLo73pnTsE&list=RDCMUC7-hR5EfgpM6oHfiGDkxfMA&start_radio=1
 
 
