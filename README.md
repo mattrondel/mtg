@@ -16,11 +16,6 @@ https://htxt.co.za/2019/03/07/3d-print-turns-senseis-divining-top-into-an-mtg-li
 
 https://draftsim.com/chatterfang-edh-deck/
 
-compy swarm
-
-Roaming Throne
-
-Nadier's Nightblade
 
 burgeoning
 
@@ -33,10 +28,6 @@ Rest in Peace 16.70 normal 19.50 foil
  
 foil 67.70
 not foil 65
-
-
-find out
-Quintorius Kand
 
 qs card
 https://www.delverlab.com
