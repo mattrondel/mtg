@@ -1,3 +1,7 @@
+https://www.mtgtop8.com/event?e=51034&d=578319&f=cEDH
+
+https://commandersherald.com/an-introduction-to-kinnan-in-cedh/
+
 
 https://commandersherald.com/the-top-5-cedh-decks-for-beginners/
 
