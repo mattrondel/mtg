@@ -1,3 +1,6 @@
+
+https://commandersherald.com/the-top-5-cedh-decks-for-beginners/
+
 bootlegmage:
 
 Minamo, School at Water's Edg
