@@ -1,3 +1,9 @@
+the boil winneer
+
+https://www.mtgtop8.com/event?e=51763&d=584127&f=cEDH
+
+$100 one:
+
 https://www.mtgtop8.com/event?e=51034&d=578319&f=cEDH
 
 https://commandersherald.com/an-introduction-to-kinnan-in-cedh/
