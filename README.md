@@ -1,3 +1,7 @@
+Cube to lookup 
+
+https://cubecobra.com/cube/list/lorwyn
+
 the boil winneer
 
 https://www.mtgtop8.com/event?e=51763&d=584127&f=cEDH
