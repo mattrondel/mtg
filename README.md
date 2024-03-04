@@ -15,6 +15,8 @@ if co-workers/friends ask tell then your focusing on homework this last 28 days 
 --------------------------------------------------------
 add things to look up on magic here when python is done:
 
+trade/buy missing cards for squirrel and dwarve decks
+
 https://edhtop16.com
 
 Bricktown brewery
