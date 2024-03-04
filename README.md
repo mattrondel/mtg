@@ -1,3 +1,20 @@
+new magic rules for the next month:
+
+no card buying, no card look up at work
+
+homework only, yes really.
+
+no going to shop unless family wants to go
+
+if downtime in house then homework review, same with work
+
+if co-workers/friends ask tell then your focusing on homework this last 28 days as you dont want to spend 2500 again .
+
+
+
+--------------------------------------------------------
+add things to look up on magic here when python is done:
+
 https://edhtop16.com
 
 Bricktown brewery
