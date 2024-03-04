@@ -1,5 +1,7 @@
 new magic rules for the next month:
 
+THINK OF IT AS MAGIC DOES NOT EXIST TO YOU
+
 no card buying, no card look up at work
 
 homework only, yes really.
