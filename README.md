@@ -1,3 +1,12 @@
+Purple/black deck box 7.97
+https://www.temu.com/card-deck-box-card-storage-box-fits-100-double-sleeved-cards-strong-magnet-card-deck-case-for-tcg-cards-g-601099529840931.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F3f82c6f6-fccd-477e-9cda-240f130beada.jpg&spec_gallery_id=2042737025&refer_page_sn=10017&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=Nzk3&_oak_gallery_order=1322374486%2C127277047%2C1921734857%2C317505327%2C1300633619&search_key=deck%20card%20box&refer_page_el_sn=200049&refer_page_name=bgn_verification&refer_page_id=10017_1709830903858_r0c0219moc&_x_sessn_id=po7hgr8ldf
+
+red deck
+https://www.temu.com/card-deck-box-for-mtg-cards-100-deck-case-fits-tcg-ccg-pu-leather-denim-print-card-storage-box-compatible-with-collectible-trading-cards-g-601099532312797.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2F1cc430c25728108037a016760cd1c8e6.jpg&sku_id=17592283936651&refer_page_sn=10009&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=Nzk3&_oak_gallery_order=331492128%2C1192760148%2C1032664061%2C91027327%2C788754487&search_key=deck%20card%20box&refer_page_el_sn=200049&refer_page_name=search_result&refer_page_id=10009_1709830871026_saje7b1l9x&_x_sessn_id=po7hgr8ldf
+
+https://www.temu.com/card-deck-box-for-cards-100-deck-case-fits-pu-leather-card-storage-box-g-601099541807121.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2Fad61ebdb-7e9e-4aff-ab00-f3cfbb3c2de7.jpg&sku_id=17592323325770&refer_page_sn=10009&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=NjQ3&_oak_gallery_order=1968547441%2C1299887434%2C1871796597%2C1968397228%2C809466387&search_key=deck%20card%20box&refer_page_el_sn=200049&refer_page_name=search_result&refer_page_id=10009_1709830871026_saje7b1l9x&_x_sessn_id=po7hgr8ldf
+
+yeah this didnt really work, mtg fills in the small gaps of life where you can't get too concentraited in any one thing
 new magic rules for the next month:
 
 THINK OF IT AS MAGIC DOES NOT EXIST TO YOU
