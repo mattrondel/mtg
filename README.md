@@ -1,5 +1,7 @@
 https://jankmats.com/
 
+https://www.reddit.com/r/magicTCG/comments/1b9sfym/where_my_nivmizzet_players_at/
+
 Purple/black deck box 7.97
 https://www.temu.com/card-deck-box-card-storage-box-fits-100-double-sleeved-cards-strong-magnet-card-deck-case-for-tcg-cards-g-601099529840931.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F3f82c6f6-fccd-477e-9cda-240f130beada.jpg&spec_gallery_id=2042737025&refer_page_sn=10017&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=Nzk3&_oak_gallery_order=1322374486%2C127277047%2C1921734857%2C317505327%2C1300633619&search_key=deck%20card%20box&refer_page_el_sn=200049&refer_page_name=bgn_verification&refer_page_id=10017_1709830903858_r0c0219moc&_x_sessn_id=po7hgr8ldf
 
