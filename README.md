@@ -4,6 +4,8 @@ flamekin village
 
 Hanweir Battlements 
 
+https://cedh-decklist-database.com/
+
 footfall crater
 
 https://commandersherald.com/magda-brazen-outlaw-in-cedh-the-best-deck-no-ones-talking-about/
