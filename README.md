@@ -1,3 +1,5 @@
+https://commandersherald.com/magda-brazen-outlaw-in-cedh-the-best-deck-no-ones-talking-about/
+
 https://www.etsy.com/shop/DiamondDragonGames
 
 https://jankmats.com/
