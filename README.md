@@ -1,3 +1,5 @@
+do I have all arts of Tuktuk Rubblefort?
+
 haste lands
 
 flamekin village
