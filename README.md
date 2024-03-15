@@ -1,3 +1,10 @@
+Trading notes
+
+use tcg market price rounded to closest dollar
+
+-Favor github over mtg8-
+usablilty + collection + cedh staple + proxy pointer in a deck
+
 do I have all arts of Tuktuk Rubblefort?
 
 haste lands
