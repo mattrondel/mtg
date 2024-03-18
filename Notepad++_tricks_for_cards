@@ -1,0 +1,33 @@
+*******************
+MTG 8 Deck lists
+*******************
+
+in notepad++ remove [] and contents inside it 
+
+before 
+1 [FUT] Delay
+1 [FUT] Pact of Negation
+1 [AL] Force of Will
+
+after / desired
+1 Delay
+1 Pact of Negation
+1 Force of Will
+
+Open Notepad++.
+Press Ctrl + H to open the Replace dialog.
+In the "Find what" field, enter: \[[^\]]*\]\s*
+Leave the "Replace with" field empty.
+Make sure the "Search Mode" is set to "Regular expression".
+Click on "Replace All".
+
+Explanation of the regular expression:
+
+    \[ matches the opening square bracket.
+    [^\]]* matches any character that is not a closing square bracket ] zero or more times.
+    \] matches the closing square bracket.
+    \s* matches any whitespace characters (if any) after the closing square bracket.
+
+This regular expression will match any text enclosed within square brackets and the square brackets themselves, and replace them with an empty string effectively removing them.
+
+After performing the replacements, your text should look like the desired output you provided.
