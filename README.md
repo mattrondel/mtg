@@ -1,30 +1,3 @@
-combine items in excel like:
-
-1	 Deflecting Swat
-1	 Deflecting Swat
-1	 Deflecting Swat
-1	 Delayed Blast Fireball
-1	 Dockside Extortionist
-1	 Dockside Extortionist
-1	 Dockside Extortionist
-1	 Drakuseth
-1	 Dualcaster Mage
-1	 Dwarven Armorer
-1	 Dwarven Armorer
-1	 Dwarven Armorer
-
-
-to
-3	 Deflecting Swat
-1	 Delayed Blast Fireball
-3	 Dockside Extortionist
-	
-	
-1	 Drakuseth
-1	 Dualcaster Mage
-3	 Dwarven Armorer
-
-
 Trading notes
 
 use tcg market price rounded to closest dollar
