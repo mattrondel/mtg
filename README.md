@@ -1,3 +1,7 @@
+changes to make to cmdr nights
+
+bonus points for not searching library or not playing fast mana rocks eg mana positives like crypt, vault sol ring etc
+
 Trading notes
 
 use tcg market price rounded to closest dollar
