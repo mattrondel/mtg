@@ -1,5 +1,7 @@
 changes to make to cmdr nights
 
+bonus points for buying and playing same night a precon from the shop
+
 bonus points for not searching library or not playing fast mana rocks eg mana positives like crypt, vault sol ring etc
 
 Trading notes
