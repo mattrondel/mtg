@@ -1,5 +1,8 @@
 changes to make to cmdr nights
 
+differnt leagues differnt weeks beginning would be like a precon no fast rocks no infinites 
+
+
 bonus points for buying and playing same night a precon from the shop
 
 bonus points for not searching library or not playing fast mana rocks eg mana positives like crypt, vault sol ring etc
