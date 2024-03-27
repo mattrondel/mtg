@@ -2,6 +2,9 @@ changes to make to cmdr nights
 
 differnt leagues differnt weeks beginning would be like a precon no fast rocks no infinites 
 
+cedh nights proxy friendly league fee
+
+prices for leagues the same
 
 bonus points for buying and playing same night a precon from the shop
 
