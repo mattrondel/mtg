@@ -19,7 +19,7 @@ usablilty + collection + cedh staple + proxy pointer in a deck
 
 do I have all arts of Tuktuk Rubblefort?
 
-haste lands
+https://www.mtgtop8.com/
 
 https://edhtop16.com
 
