@@ -21,10 +21,6 @@ do I have all arts of Tuktuk Rubblefort?
 
 haste lands
 
-flamekin village
-
-Hanweir Battlements 
-
 https://edhtop16.com
 
 https://cedh-decklist-database.com/
