@@ -17,6 +17,10 @@ use tcg market price rounded to closest dollar
 -Favor github over mtg8-
 usablilty + collection + cedh staple + proxy pointer in a deck
 
+Deck site that groups cards
+
+https://archidekt.com/
+
 https://www.mtgtop8.com/
 
 https://edhtop16.com
