@@ -17,15 +17,12 @@ use tcg market price rounded to closest dollar
 -Favor github over mtg8-
 usablilty + collection + cedh staple + proxy pointer in a deck
 
-do I have all arts of Tuktuk Rubblefort?
-
 https://www.mtgtop8.com/
 
 https://edhtop16.com
 
 https://cedh-decklist-database.com/
 
-footfall crater
 
 https://commandersherald.com/magda-brazen-outlaw-in-cedh-the-best-deck-no-ones-talking-about/
 
