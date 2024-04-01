@@ -1,3 +1,24 @@
+
+Bogardan Hellkite
+Holdout Settlement
+Mizzium Mortars
+Spine of Ish Sah
+Squirrel Nest
+Warping Wail
+Rending Volley
+Goblin Engineer
+Elixir of Immortality
+Goblin Welder
+Basalt Monolith
+Reshape
+Platinum Angel
+Sokenzan, Crucible of Defiance
+Emergence Zone
+Uba Mask
+Food (0013) // Squirrel Double-Sided Token
+Food (0013)
+
+
 changes to make to cmdr nights
 
 differnt leagues differnt weeks beginning would be like a precon no fast rocks no infinites 
