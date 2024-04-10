@@ -1,22 +1,4 @@
-
-Bogardan Hellkite
-Holdout Settlement
-Mizzium Mortars
-Spine of Ish Sah
-Squirrel Nest
-Warping Wail
-Rending Volley
-Goblin Engineer
-Elixir of Immortality
-Goblin Welder
-Basalt Monolith
-Reshape
-Platinum Angel
-Sokenzan, Crucible of Defiance
-Emergence Zone
-Uba Mask
-Food (0013) // Squirrel Double-Sided Token
-Food (0013)
+https://www.tcgplayer.com/product/544435/magic-outlaws-of-thunder-junction-terror-of-the-peaks-extended-art
 
 
 changes to make to cmdr nights
