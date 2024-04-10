@@ -1,3 +1,5 @@
+19.90
+
 https://www.tcgplayer.com/product/544435/magic-outlaws-of-thunder-junction-terror-of-the-peaks-extended-art
 
 
