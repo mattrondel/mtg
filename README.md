@@ -1,6 +1,11 @@
+
+https://www.etsy.com/listing/1676188854/5-junk-artifact-tokens-for-magic-the?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=magda+brazen+outlaw&ref=sr_gallery-1-10&bes=1&content_source=11ef99d5b52f3026bacbfe3f5140f880715e560f%253A1676188854&search_preloaded_img=1&organic_search_click=1
+
 19.90
 
 https://www.tcgplayer.com/product/544435/magic-outlaws-of-thunder-junction-terror-of-the-peaks-extended-art
+
+https://www.etsy.com/listing/1646564395/magda-brazen-outlaw-2-sticker-inspired
 
 
 changes to make to cmdr nights
