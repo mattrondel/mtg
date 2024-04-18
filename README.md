@@ -1,3 +1,6 @@
+27/28 lands 
+
+
 
 https://www.etsy.com/listing/1676188854/5-junk-artifact-tokens-for-magic-the?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=magda+brazen+outlaw&ref=sr_gallery-1-10&bes=1&content_source=11ef99d5b52f3026bacbfe3f5140f880715e560f%253A1676188854&search_preloaded_img=1&organic_search_click=1
 
