@@ -1,3 +1,8 @@
+
+how magda combos work
+
+https://m.youtube.com/watch?v=H8OdeXgFR4w
+
 27/28 lands 
 
 
