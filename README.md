@@ -1,3 +1,7 @@
+how to muligan
+
+https://m.youtube.com/watch?v=P8VKj6637Zw&t=323s
+
 apple combo
 
 https://m.youtube.com/watch?v=gHe1XIFEoKU&t=80s
