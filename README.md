@@ -1,3 +1,6 @@
+apple combo
+
+https://m.youtube.com/watch?v=gHe1XIFEoKU&t=80s
 
 how magda combos work
 
