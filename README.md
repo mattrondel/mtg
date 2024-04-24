@@ -1,3 +1,7 @@
+Check for full art for hash
+
+https://scryfall.com/card/woe/305/restless-fortress
+
 how to muligan
 
 https://m.youtube.com/watch?v=P8VKj6637Zw&t=323s
