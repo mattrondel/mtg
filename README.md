@@ -1,5 +1,7 @@
 strike it rich
 
+Sticky Fingers
+
 Check this one out:
 
 https://www.moxfield.com/decks/7O1sCuIti0igU6Us_Jhadg
