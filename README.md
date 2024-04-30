@@ -2,9 +2,7 @@ strike it rich
 
 Sticky Fingers
 
-Check this one out:
-
-https://www.moxfield.com/decks/7O1sCuIti0igU6Us_Jhadg
+https://www.etsy.com/listing/1663255707/kinnan-bonder-prodigy-2-sticker-inspired
 
 
 Check for full art for hash
