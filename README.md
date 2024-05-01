@@ -1,5 +1,7 @@
 strike it rich
 
+https://scryfall.com/card/mh2/143/strike-it-rich
+
 Sticky Fingers
 
 https://www.etsy.com/listing/1663255707/kinnan-bonder-prodigy-2-sticker-inspired
