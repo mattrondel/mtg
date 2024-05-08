@@ -1,3 +1,5 @@
+https://tappedout.net/mtg-card/arcades-the-strategist/
+
 
 https://mtg.fandom.com/wiki/Invasion
 
