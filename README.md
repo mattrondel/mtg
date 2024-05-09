@@ -1,5 +1,20 @@
-https://tappedout.net/mtg-card/arcades-the-strategist/
+lotus petal
+mana crypt
+mox diamond
+Paradise Mantle
+Memnite
+ornithopter
+phyrexian walker
+shield sphere
+ad nauseam
+sickening dreams
+glacial chasm
+dark sphere
+dark rital
 
+
+
+https://tappedout.net/mtg-card/arcades-the-strategist/
 
 https://mtg.fandom.com/wiki/Invasion
 
