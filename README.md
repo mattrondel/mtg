@@ -1,16 +1,29 @@
 lotus petal
+
 mana crypt
+
 mox diamond
+
 Paradise Mantle
+
 Memnite
+
 ornithopter
+
 phyrexian walker
+
 shield sphere
+
 ad nauseam
+
 sickening dreams
+
 glacial chasm
+
 dark sphere
+
 dark rital
+
 
 
 
