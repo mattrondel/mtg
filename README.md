@@ -10,31 +10,33 @@ try this link:
 
 https://www.topatoco.com/merchant.mvc?Screen=CTGY&Store_Code=TO&Category_Code=GEN
 
-lotus petal
+1 Lotus Petal (TMP) 294
 
-mana crypt
+1 Mana Crypt (PHPR) 5
 
-mox diamond
+1 Mox Diamond (STH) 138
 
-Paradise Mantle
+1 Paradise Mantle (MMA) 211
 
-Memnite
+1 Memnite (TD2) 2
 
-ornithopter
+1 Ornithopter (ATQ) 60
 
-phyrexian walker
+1 Phyrexian Walker (VIS) 152
 
-shield sphere
+1 Shield Sphere (ALL) 129
 
-ad nauseam
+1 Ad Nauseam (2XM) 76
 
-sickening dreams
+1 Sickening Dreams (TOR) 83
 
-glacial chasm
+1 Glacial Chasm (ICE) 353
 
-dark sphere
+1 Dark Sphere (DRK) 100
 
-dark rital
+1 Maralen of the Mornsong (MOR) 65
+
+1 Dark Ritual (ICE) 120
 
 
 
