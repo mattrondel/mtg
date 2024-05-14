@@ -18,6 +18,10 @@ https://www.topatoco.com/merchant.mvc?Screen=CTGY&Store_Code=TO&Category_Code=GE
 
 1 Paradise Mantle (MMA) 211
 
+1 Leyline of the Void (WOT) 30
+
+1 Helm of Obedience (ALL) 121
+
 1 Memnite (TD2) 2
 
 1 Ornithopter (ATQ) 60
