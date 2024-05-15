@@ -6,45 +6,6 @@ https://www.moxfield.com/decks/CXa0pRj86UWSm1nuVrXiOA/primer
 
 I like this mat: https://www.melissabenson.com/magic-the-gathering-accessories/standard_products/shivan-dragon-alpha-playmat?product_gallery=126281&product_id=1580427
 
-try this link:
-
-https://www.topatoco.com/merchant.mvc?Screen=CTGY&Store_Code=TO&Category_Code=GEN
-
-1 Lotus Petal (TMP) 294
-
-1 Mana Crypt (PHPR) 5
-
-1 Mox Diamond (STH) 138
-
-1 Paradise Mantle (MMA) 211
-
-1 Leyline of the Void (WOT) 30
-
-1 Helm of Obedience (ALL) 121
-
-1 Memnite (TD2) 2
-
-1 Ornithopter (ATQ) 60
-
-1 Phyrexian Walker (VIS) 152
-
-1 Shield Sphere (ALL) 129
-
-1 Ad Nauseam (2XM) 76
-
-1 Sickening Dreams (TOR) 83
-
-1 Glacial Chasm (ICE) 353
-
-1 Dark Sphere (DRK) 100
-
-1 Maralen of the Mornsong (MOR) 65
-
-1 Dark Ritual (ICE) 120
-
-
-
-
 https://tappedout.net/mtg-card/arcades-the-strategist/
 
 https://mtg.fandom.com/wiki/Invasion
