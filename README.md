@@ -2,7 +2,7 @@ read this primer or copy paste it
 
 https://www.moxfield.com/decks/CXa0pRj86UWSm1nuVrXiOA/primer
 
-
+https://www.moxfield.com/decks/CXa0pRj86UWSm1nuVrXiOA/primer
 
 I like this mat: https://www.melissabenson.com/magic-the-gathering-accessories/standard_products/shivan-dragon-alpha-playmat?product_gallery=126281&product_id=1580427
 
