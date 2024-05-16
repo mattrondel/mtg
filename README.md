@@ -1,3 +1,5 @@
+https://thebrokentoken.com/products/fantasy-coins-dwarven-gold
+
 read this primer or copy paste it 
 
 https://www.moxfield.com/decks/CXa0pRj86UWSm1nuVrXiOA/primer
