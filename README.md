@@ -1,3 +1,5 @@
+https://ajmanzanedo.artstation.com/projects/yJ3eRK
+
 https://thebrokentoken.com/products/fantasy-coins-dwarven-gold
 
 read this primer or copy paste it 
