@@ -1,3 +1,8 @@
+For Andrew
+
+Gisa, the Hellraiser 
+
+
 "puzzle-like commander games"
 
 https://www.cedh.guide/philosophy
