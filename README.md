@@ -1,5 +1,11 @@
-https://m.youtube.com/watch?v=k7RUJKo7q1Y&feature=youtu.be
+https://www.reddit.com/r/CompetitiveEDH/comments/15pu7kx/im_running_magda_against_kinnan/
 
+Check out the magda discord for more tailored deck help : 
+
+https://discord.gg/jZJ8H7yBMA
+
+
+https://m.youtube.com/watch?v=k7RUJKo7q1Y&feature=youtu.be
 
 cedh links
 
