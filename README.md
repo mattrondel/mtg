@@ -1,3 +1,5 @@
+https://m.youtube.com/watch?v=vVbwper81lY
+
 https://www.reddit.com/r/CompetitiveEDH/comments/15pu7kx/im_running_magda_against_kinnan/
 
 Check out the magda discord for more tailored deck help : 
