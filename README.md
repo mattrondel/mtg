@@ -1,3 +1,7 @@
+Do we have
+
+https://www.tcgplayer.com/product/5226/magic-mirage-shallow-grave?Language=English
+
 do we have Heiko Yamazaki, the General 
 
 https://m.youtube.com/watch?v=vVbwper81lY
