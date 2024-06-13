@@ -1,5 +1,14 @@
 Online play group:
+
 https://www.facebook.com/groups/PremodernOnlinePlay
+
+About Premodern:
+
+https://premodernmagic.com/
+
+Facebook group: 
+
+https://www.facebook.com/groups/Premodern
 
 Do we have
 
