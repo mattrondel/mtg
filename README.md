@@ -1,3 +1,6 @@
+Online play group:
+https://www.facebook.com/groups/PremodernOnlinePlay
+
 Do we have
 
 https://www.tcgplayer.com/product/509564/Magic-Wilds%20of%20Eldraine%20Enchanting%20Tales-Aggravated%20Assault%20Anime%20Borderless?xid=a975f8727-2d7f-4be6-90fd-8b5e3199d4e1&Language=English
