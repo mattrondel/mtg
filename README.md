@@ -1,3 +1,6 @@
+https://old.reddit.com/r/magicTCG/comments/1dixk35/sld_secret_lair_x_assassins_creed_davincis/
+
+
 Edmond Unplugged
 
 Online play group:
