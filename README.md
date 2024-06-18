@@ -1,5 +1,6 @@
 https://old.reddit.com/r/magicTCG/comments/1dixk35/sld_secret_lair_x_assassins_creed_davincis/
 
+https://old.reddit.com/r/magicTCG/comments/1dix865/acr_rome_vista_scene_horizon_lands_weeklymtg/
 
 Edmond Unplugged
 
