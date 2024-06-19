@@ -1,3 +1,7 @@
+Varragoth, Bloodsky Sire
+
+https://www.mtgtop8.com/event?e=49719&d=566980&f=cEDH
+
 https://www.moxfield.com/decks/U8M2fbnEvUeCKwUFsC6VOQ
 
 https://edhtop16.com/commander/Varragoth,%20Bloodsky%20Sire?tourney_filter__size__%24gte=64&tourney_filter__dateCreated__%24gte=1687191059
