@@ -1,3 +1,7 @@
+https://www.moxfield.com/decks/U8M2fbnEvUeCKwUFsC6VOQ
+
+https://edhtop16.com/commander/Varragoth,%20Bloodsky%20Sire?tourney_filter__size__%24gte=64&tourney_filter__dateCreated__%24gte=1687191059
+
 https://old.reddit.com/r/magicTCG/comments/1dixk35/sld_secret_lair_x_assassins_creed_davincis/
 
 https://old.reddit.com/r/magicTCG/comments/1dix865/acr_rome_vista_scene_horizon_lands_weeklymtg/
