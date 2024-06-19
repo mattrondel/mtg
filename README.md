@@ -1,3 +1,5 @@
+https://scryfall.com/card/c21/78/tempting-contract
+
 Varragoth, Bloodsky Sire
 
 https://www.mtgtop8.com/event?e=49719&d=566980&f=cEDH
