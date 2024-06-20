@@ -78,7 +78,7 @@ Clock of Omens is an artifact that allows us to use any "Artifact Dwarf" as a me
 
 This requires a board state of Magda, Brazen Outlaw + Clock of Omens + any Artifact Dwarf (AD)
 
-    Tap Clock of Omens + Artifact Dwarf such as Adaptive Automaton targeting the automaton with Clock's ability to untap it. This will trigger Magda, Brazen Outlaw when the AD is tapped as part of the cost to use Clock's Ability which will generate an untapped Treasure
+1. Tap Clock of Omens + Artifact Dwarf such as Adaptive Automaton targeting the automaton with Clock's ability to untap it. This will trigger Magda, Brazen Outlaw when the AD is tapped as part of the cost to use Clock's Ability which will generate an untapped Treasure
     You will then tap the AD and the newly made Treasure targeting your AD which will trigger Magda, Brazen Outlaw again in order to untap your AD generate another untapped treasure Treasure. This leaves you with one untapped treasure, an untapped Artifact Dwarf and a tapped Treasure
     From here you continue this loop of tapping the new untapped Treasure and the Artifact Dwarf to use Clock of Omens ability targeting the Artifact Dwarf in order to generate infinite tapped Treasure and leave you with one untapped Treasure
     Win the game from here with infinite Magda, Brazen Outlaw activations that lead to varying Combo Enders
@@ -99,7 +99,7 @@ You need Magda, Brazen Outlaw + Maskwood Nexus + Battered Golem in play along wi
 
 Once they are on field do as follows:
 
-    Tap Battered Golem to crew your vehicle or activate Dwarven Bloodboiler's ability. This will then trigger Magda, Brazen Outlaw to generate a Treasure as Battered Golem is now considered a dwarf as Maskwood Nexus makes all creature every creature type. The Treasure entering the battle field will cause Battered Golem to untap and be able to be tapped once more.
+1. Tap Battered Golem to crew your vehicle or activate Dwarven Bloodboiler's ability. This will then trigger Magda, Brazen Outlaw to generate a Treasure as Battered Golem is now considered a dwarf as Maskwood Nexus makes all creature every creature type. The Treasure entering the battle field will cause Battered Golem to untap and be able to be tapped once more.
 
 This is the simplest way to make infinite Treasure because they will all be untapped unless there is something forcing them to come into play tapped like Dauntless Dismantler.
 
@@ -132,17 +132,17 @@ So in order to deal with artifacts ETBing tapped you need to have Magda, Brazen 
 
 If you have to tutor for Battered Golem it will enter untapped (just like Grinding Station). So it can immediately be tapped to trigger Magda, Brazen Outlaw to generate a Treasure to untap them again and continue the chain regardless of if the Treasure enters tapped or not. If Battered Golem is on field it should be untapped but if for some reason it is not you can tap any dwarf in any manner to generate a Treasure and allow you to tap Battered Golem to begin a loop.
 
-    Tap Battered Golem to crew Vehicle or activate Dwarven Bloodboiler and to generate a Treasure via Magda, Brazen Outlaw's trigger which will enter tapped due to the STAX effect untapping Battered Golem allowing you to tap them again to generate another treasure...untapping them.
-    Make infinite tapped Treasure by continuing the loop in step 1. Tutor for Spine of Ish Sah to destroy the STAX forcing artifacts to enter tapped or continue to step 3 and onwards to make infinite tapped treasures without removing the piece stopping you.
-    Tutor out Clock of Omens along with one of the following Cursed Mirror// Mirror of the Forebears//Sculpting Steel. Have Cursed Mirror or Sculpting Steel enter as a copy of Battered Golem or activate Mirror of the Forebears to have it become a copy of Battered Golem untapping the original Battered Golem and the new copy.
-    Use Clock of Omen's Ability tapping both Battered Golem targeting a tapped Treasure triggering Magda, Brazen Outlaw twice making two more tapped Treasure and untapping both Battered Golem.
-    Repeat step 5 until you have infinite untapped treasure and win the game.
+1. Tap Battered Golem to crew Vehicle or activate Dwarven Bloodboiler and to generate a Treasure via Magda, Brazen Outlaw's trigger which will enter tapped due to the STAX effect untapping Battered Golem allowing you to tap them again to generate another treasure...untapping them.
+2. Make infinite tapped Treasure by continuing the loop in step 1. Tutor for Spine of Ish Sah to destroy the STAX forcing artifacts to enter tapped or continue to step 3 and onwards to make infinite tapped treasures without removing the piece stopping you.
+3. Tutor out Clock of Omens along with one of the following Cursed Mirror// Mirror of the Forebears//Sculpting Steel. Have Cursed Mirror or Sculpting Steel enter as a copy of Battered Golem or activate Mirror of the Forebears to have it become a copy of Battered Golem untapping the original Battered Golem and the new copy.
+4. Use Clock of Omen's Ability tapping both Battered Golem targeting a tapped Treasure triggering Magda, Brazen Outlaw twice making two more tapped Treasure and untapping both Battered Golem.
+5.Repeat step 5 until you have infinite untapped treasure and win the game.
 
 If an opponent is attempting to use Dauntless Dismantler and you already have infinite treasures you can simply tutor out any artifact to reset the normal loop used with Battered Golem in response to the ability and then win over the top as long as you hold priority any time their ability is reached on the stack.
 
 If you want to tech specifically for this situation you can also run Amulet of Vigor in your deck, however its up to personal preference and my opinion is that it's not necessary.
 
-Artifacts Cannot Be Activated (Karn, Ouphe, Null Rod effects)
+**Artifacts Cannot Be Activated (Karn, Ouphe, Null Rod effects)**
 
 Effects like Collector Ouphe and Null Rod are a lot harder to navigate due to our deck primarily getting it's ability to tap creatures through vehicles. Unfortunately CREW is an activated ability of an artifact and so is the ability on Clock of Omens
 
