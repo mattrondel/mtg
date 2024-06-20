@@ -111,10 +111,10 @@ Grafdigger's Cage is an annoying card when it comes to potentially winning the g
 
 We can easily generate infinite treasure through this particular stax piece using some tech that was alluded to in the Clock of Omens section above; Liquimetal Torque or Mirror of the Forebears
 
-    We first need to get either Liquimetal Torque or Mirror of the Forebears. So in most situations this will require using Magda, Brazen Outlaw's activated ability.
-    Next you tutor out Clock of Omens if it is not already on the battlefield.
-    Then you use Liquimetal Torque to turn any of your dwarves into an artifact (including Magda) or alternatively activate Mirror of the Forebears to become a copy of any dwarf on the battlefield under your control (including Magda).
-    Once you have an artifact dwarf on field along with your Clock of Omens you can combo off like you normally would with your Clock of Omens Loop.
+1. We first need to get either Liquimetal Torque or Mirror of the Forebears. So in most situations this will require using Magda, Brazen Outlaw's activated ability.
+2. Next you tutor out Clock of Omens if it is not already on the battlefield.
+3. Then you use Liquimetal Torque to turn any of your dwarves into an artifact (including Magda) or alternatively activate Mirror of the Forebears to become a copy of any dwarf on the battlefield under your control (including Magda).
+4. Once you have an artifact dwarf on field along with your Clock of Omens you can combo off like you normally would with your Clock of Omens Loop.
 
 From here you will have infinite tapped treasures. You will then either remove the Grafdigger's Cage with something like tutoring Spine of Ish Sah or using a "Draw Loop" to get something like Abrade to hand if you have the mana to cast it (or tutor extra artifacts that generate mana//to be used with Clock of Omens to untap treasures) in order to destroy the Cage which will open up your ability to make infinite untapped treasure (Don't forget to tutor out all your things to make it harder to interact with your casting the destruction spell like God-Pharaoh's Statue and other taxing effects/stax pieces.
 
