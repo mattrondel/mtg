@@ -60,14 +60,14 @@ This primer will eventually go over A LOT more than just combos, but as combos a
 
 Glossary
 
-    AD (Artifact Dwarf) = Any "Shapeshifter"/"Changeling" or artifact creature that can be named as a dwarf on ETB. Roaming Throne, Universal Automaton, Metallic Mimic are some examples. You can also make any dwarf into an artifact through varying means such as Liquimetal Torque
-    Stax = Anything that limits play in some fashion such as Null Rod , Doorkeeper Thrull, Rest In Peace Grafdigger's Cage, Blind Obedience, Drannith Magistrate, Yasharn, Implacable Earth, Blood Moon, Collector Ouphe, Archon of Emeria ,Rule of Law ,Torpor Orb, God-Pharaoh's Statue, Static Orb ,Winter Orb
-    RT = Roaming Throne
-    Clock Combo = Clock Of Omens Loop that generates infinite treasures.
-    Tap Outlet = Any vehicle such as Clown Car that can be crewed or Dwarven Bloodboiler that has an activated ability requiring tapping another dwarf.
-    Shatter = Anything that can remove an artifact Mogg Salvage, Zoyowa's Justice, Abrade etc.
-    DCM = Dualcaster Mage
-    Crime Queen = Magda, The Hoardmaster
+- AD (Artifact Dwarf) = Any "Shapeshifter"/"Changeling" or artifact creature that can be named as a dwarf on ETB. Roaming Throne, Universal Automaton, Metallic Mimic are some examples. You can also make any dwarf into an artifact through varying means such as Liquimetal Torque
+- Stax = Anything that limits play in some fashion such as Null Rod , Doorkeeper Thrull, Rest In Peace Grafdigger's Cage, Blind Obedience, Drannith Magistrate, Yasharn, Implacable Earth, Blood Moon, Collector Ouphe, Archon of Emeria ,Rule of Law ,Torpor Orb, God-Pharaoh's Statue, Static Orb ,Winter Orb
+- RT = Roaming Throne
+- Clock Combo = Clock Of Omens Loop that generates infinite treasures.
+- Tap Outlet = Any vehicle such as Clown Car that can be crewed or Dwarven Bloodboiler that has an activated ability requiring tapping another dwarf.
+- Shatter = Anything that can remove an artifact Mogg Salvage, Zoyowa's Justice, Abrade etc.
+- DCM = Dualcaster Mage
+- Crime Queen = Magda, The Hoardmaster
 
 Combo "Starters" - Infinite Treasures
 Basic means of Generating Infinite Treasures (Staxless)
