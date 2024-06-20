@@ -1,12 +1,80 @@
 https://www.moxfield.com/decks/CXa0pRj86UWSm1nuVrXiOA/primer
 
 
-Primer
+Table of Contents
 Introduction
+Combo "Starters" - Infinite Treasures
+Important Combo Adjacent Info
+Combo "Enders" - Winning The Game
+Staple Cards & Pseudo Staples
+Card//Combo Packages; How They Interact & Reasoning To Potentially Play Them (WIP)
+Beginner/Budget Deck Lists
+Frequently Asked Questions
+
+
+Primer
+
+Introduction
+
+Introduction
+
+One of the most enticing parts of playing Magda is that you have the ability to tutor for a game winning combo in the command zone.
+
+Unfortunately there are many things that can get in the way when trying to use your Magda activations to find that winning line, at least depending on your board state and how many times you get to use your commander's ability to tutor.
+
+That being said the goal is always to get to "infinite treasure" or even pseudo infinite through a variety of lines. From this position you should be able to close out the game on the spot or generate a board state that is going to be extremely difficult/next to impossible to fight through for your opponents.
+
+There is a lot of nuance and knowledge required to win through many "stax" pieces, some of which many Magda pilots run themselves.
+
+This primer is going to broken down into the following sections because of this fact;
+
+Combo "Starters" - Making Infinite Treasures
+
+- Basic means of Generating Infinite Treasures (Staxless)
+- Generating Infinite Treasures Through Varying Stax
+- Alternative Means Of Generating Infinite Treasures
+
+Important Combo Adjacent Information - Things You Need To Know When Trying To Win The Game
+
+- Professional Face-Breaker Impulse Draw
+- The One Ring Draw Loops
+- Pyrite Spellbomb//Soul-Guide Lantern//Stone Of Erech Draw Loop
+- Removing Enchantments & Non-Artifact Problem Permanents
+- Protecting Your Win
+
+Combo "Enders" - Outlets & Winning The Game
+
+- Basic Outlets
+- ETB Loops/Outlets
+- Elixir of Immortality Outlets
+- Elixir of Immortality Draw Loop & Burn
+- Tel-Jilad Stylus Outlets
+- Maskwood Nexus Specific Outlets
+- Engineer & Welder Loops (Damage & Destruction)
+- Dualcaster Mage
+- Other
+
+Each section/combo will also be accompanied by a video for visual representation. This is for those players that learn better from video format over a text guide.
+
+The reasoning behind combos being broken up in this manner is because getting to infinite treasures should lead to a win under almost all circumstances, its just about choosing HOW you want to win after that point depending on what win conditions your specific deck variant chooses to run.
+
+This primer will eventually go over A LOT more than just combos, but as combos are one of the most important aspects of the deck to understand this is where we are starting.
+
+Glossary
+
+    AD (Artifact Dwarf) = Any "Shapeshifter"/"Changeling" or artifact creature that can be named as a dwarf on ETB. Roaming Throne, Universal Automaton, Metallic Mimic are some examples. You can also make any dwarf into an artifact through varying means such as Liquimetal Torque
+    Stax = Anything that limits play in some fashion such as Null Rod , Doorkeeper Thrull, Rest In Peace Grafdigger's Cage, Blind Obedience, Drannith Magistrate, Yasharn, Implacable Earth, Blood Moon, Collector Ouphe, Archon of Emeria ,Rule of Law ,Torpor Orb, God-Pharaoh's Statue, Static Orb ,Winter Orb
+    RT = Roaming Throne
+    Clock Combo = Clock Of Omens Loop that generates infinite treasures.
+    Tap Outlet = Any vehicle such as Clown Car that can be crewed or Dwarven Bloodboiler that has an activated ability requiring tapping another dwarf.
+    Shatter = Anything that can remove an artifact Mogg Salvage, Zoyowa's Justice, Abrade etc.
+    DCM = Dualcaster Mage
+    Crime Queen = Magda, The Hoardmaster
+
 Combo "Starters" - Infinite Treasures
 Basic means of Generating Infinite Treasures (Staxless)
 
-** Clock Of Omens Loop **
+**Clock Of Omens Loop**
 
 Clock of Omens is an artifact that allows us to use any "Artifact Dwarf" as a means to generate infinite tapped treasures which can convert to infinite untapped treasures through a few means.
 
@@ -23,7 +91,7 @@ Its important to note that things like Liquimetal Torque and Mirror of the Foreb
 
 https://www.youtube.com/watch?v=vgSdWBPDLOU
 
-** Maskwood Nexus + Battered Golem **
+**Maskwood Nexus + Battered Golem**
 
 Maskwood Nexus provides our deck a way to turn our non-dwarf artifact creatures into dwarves while also giving us a way to use our vehicles as artifact dwarves after they have been crewed.
 
@@ -37,11 +105,9 @@ Once they are on field do as follows:
 
 This is the simplest way to make infinite Treasure because they will all be untapped unless there is something forcing them to come into play tapped like Dauntless Dismantler.
 
-https://www.youtube.com/watch?v=c41ZTxEb49w
-
 Generating Infinite Treasure Through Varying Stax
 
-** Grafdigger's Cage **
+Grafdigger's Cage
 
 Grafdigger's Cage is an annoying card when it comes to potentially winning the game for many decks. For us it stops our ability to take creatures out of our deck which in turn means that it can be hard to navigate winning. Creatures are especially important to generating infinite untapped treasures in most scenarios such as Battered Golem, Roaming Throne, Xorn and the rest of our Artifact Dwarf suite under normal circumstances but are not actually required to be tutored out of our deck to allow us to actually make infinite treasure.
 
@@ -49,16 +115,14 @@ We can easily generate infinite treasure through this particular stax piece usin
 
     We first need to get either Liquimetal Torque or Mirror of the Forebears. So in most situations this will require using Magda, Brazen Outlaw's activated ability.
     Next you tutor out Clock of Omens if it is not already on the battlefield.
-    Then you use Liquimetal Torque to turn any of your dwarves into an artifact (including Magda) or alternatively activate Mirror of the Forebears to become a copy of any dwarf on the battlefield under your control (including magda).
+    Then you use Liquimetal Torque to turn any of your dwarves into an artifact (including Magda) or alternatively activate Mirror of the Forebears to become a copy of any dwarf on the battlefield under your control (including Magda).
     Once you have an artifact dwarf on field along with your Clock of Omens you can combo off like you normally would with your Clock of Omens Loop.
 
 From here you will have infinite tapped treasures. You will then either remove the Grafdigger's Cage with something like tutoring Spine of Ish Sah or using a "Draw Loop" to get something like Abrade to hand if you have the mana to cast it (or tutor extra artifacts that generate mana//to be used with Clock of Omens to untap treasures) in order to destroy the Cage which will open up your ability to make infinite untapped treasure (Don't forget to tutor out all your things to make it harder to interact with your casting the destruction spell like God-Pharaoh's Statue and other taxing effects/stax pieces.
 
 Alternatively you can go for some of the more intricate non-creature lines known as "Rube Goldberg" lines and in some cases "Sacrifice Loops" if your deck is running Elixir of Immortality. These lines will be covered later in this guide.
 
-https://www.youtube.com/watch?v=YVNpFHwbQuQ
-
-** Artifacts Enter Tapped - Blind Obedience, Root Maze, Dauntless Dismantler (And Other Variants of this Effect)  **
+Artifacts Enter Tapped - Blind Obedience, Root Maze, Dauntless Dismantler (And Other Variants of this Effect)
 
 Dauntless Dismantler is being seen in many meta decks just like Blind Obedience has seen a rise in popularity. This type of effect is important to many decks because they want ways to control their opponent's ability to use and abuse treasures. They effectively pseudo shut down many Dockside Extortionist loop variants among other varying combos requiring things to come into play untapped like Underworld Breach lines that include Grinding Station + Mana Vault.
 
@@ -80,9 +144,7 @@ If an opponent is attempting to use Dauntless Dismantler and you already have in
 
 If you want to tech specifically for this situation you can also run Amulet of Vigor in your deck, however its up to personal preference and my opinion is that it's not necessary.
 
-https://www.youtube.com/watch?v=QGOs5ou4xXU
-
-** Artifacts Cannot Be Activated (Karn, Ouphe, Null Rod effects) **
+Artifacts Cannot Be Activated (Karn, Ouphe, Null Rod effects)
 
 Effects like Collector Ouphe and Null Rod are a lot harder to navigate due to our deck primarily getting it's ability to tap creatures through vehicles. Unfortunately CREW is an activated ability of an artifact and so is the ability on Clock of Omens
 
@@ -97,10 +159,7 @@ So in order to make infinite treasures through Null Rod like effects you do as f
     To remove the STAX piece stopping you by tutoring Spine of Ish Sah with Magda, Brazen Outlaw's activated ability or alternatively get Professional Face-Breaker and use it's activated ability to turn your infinite Treasure into impulse drawing your deck to then cast something like Abrade or Lightning Bolt depending on the card type of the STAX piece stopping you to enable your win from there. Alternatively you can get Plundering Barbarian out instead by first getting Maskwood Nexus if your list includes him.
     Have a combo that works though these effect types. EX: Terror Of The Peaks combos.
 
-https://www.youtube.com/watch?v=-swtRNzHUYk
-
-** Alternative Means Of Generating Infinite Untapped Treasures **
-
+Alternative Means Of Generating Infinite Untapped Treasures
 Elixir Based Lines - Sacrifice & Rube Goldberg
 
 Sacrifice lines are extremely complicated however they are a way that you can generate infinite untapped treasures through Grafdigger's Cage as many of them do not require additional creatures to do so.
@@ -150,9 +209,7 @@ Reshuffle 2 complete returning Lotus petal, Cursed Mirror and Elixir of Immortal
 
 Reshuffle 3 complete returning Lotus petal, Mirror of the Forebears and Elixir of Immortality to deck; 3 untapped treasure netting 1 treasure, repeat from reshuffle 1 to generate infinite untapped treasure.
 
-https://www.youtube.com/watch?v=VltNLEXuWM4
-
-** Mox Amber//Mox Opal + Sculpting Steel + Lotus Petal + Spine of Ish Sah **
+Mox Amber//Mox Opal + Sculpting Steel + Lotus Petal + Spine of Ish Sah
 
 The Mox Amber or Mox Opal can be any legendary artifact that Sculpting Steel can force legend rule on. This includes things like The One Ring. God-Pharaoh's Statue and Eriette's Tempting Apple though apple has it's own line that is slightly more efficient.
 
@@ -179,9 +236,7 @@ Loop
     Tutor & Activate Elixir of Immortality using the floating and a treasure.
     Repeat this loop netting 1 treasure each loop for infinite untapped treasure.
 
-https://www.youtube.com/watch?v=WB9v2fznEbk
-
-** Eriette's Tempting Apple + Sculpting Steel + Vehicle (ex: Clown Car)//Dwarven Bloodboiler + Lotus Petal **
+Eriette's Tempting Apple + Sculpting Steel + Vehicle (ex: Clown Car)//Dwarven Bloodboiler + Lotus Petal
 
 Setup
 
@@ -218,7 +273,7 @@ Loop
     Sculpting Steel, Lotus Petal and Elixir of Immortality get shuffled into library.
     Repeat this loop netting 1 treasure each loop for infinite untapped treasure.
 
-** Spine of Ish Sah//Lotus Petal + Unlicensed Hearse +Dwarven Scorcher & Maskwood Nexus **
+Spine of Ish Sah//Lotus Petal + Unlicensed Hearse +Dwarven Scorcher & Maskwood Nexus
 
 Setup
 
@@ -243,8 +298,6 @@ Loop
     Tutor & Activate Elixir of Immortality using two of the three generated treasures.
     Repeat this loop netting 1 treasure each loop for infinite untapped treasure.
 
-https://www.youtube.com/watch?v=Fs7t4haz-8w
-
 This line can replace Spine of Ish Sah with Lotus Petal and generate 2 treasures each rotation (clock from hearse + crew from scorcher) and one from using petal each repetition still netting you one extra treasure each loop since one treasure must be used in conjunction with the mana from petal to use Elixir of Immortality
 
 Setup
@@ -266,9 +319,7 @@ Loop
     Tutor & Activate Elixir of Immortality using one of the two generated treasures and the from petal.
     Repeat this loop netting 1 treasure each loop for infinite untapped treasure.
 
-https://www.youtube.com/watch?v=FSodvCgYu1c
-
-** Magda, the Hoardmaster + Maskwood Nexus + Vehicle//Dwarven Bloodboiler **
+Magda, the Hoardmaster + Maskwood Nexus + Vehicle//Dwarven Bloodboiler
 
 The downside to this line is that it requires you do to it during your own turn since it can only be done at sorcery speed. This variant is specifically to generate infinite treasures to allow you to win at instant speed without going to combat, though this is a win-con itself due to the creatures generated by Magda, the Hoardmaster having haste and can attack that turn.
 
@@ -285,9 +336,7 @@ Loop
     Tap Scorpion Dragon to crew any vehicle or use Dwarven Bloodboiler's ability (this can be done because the dragon is also a dwarf).
     Resolve Magda, Brazen Outlaw trigger creating a Treasure.
 
-https://www.youtube.com/watch?v=NYYp3oYc_TE
-
-** Eriette's Tempting Apple + Sculpting Steel + Goblin Welder - Your Head Judge Might Hate You **
+Eriette's Tempting Apple + Sculpting Steel + Goblin Welder - Your Head Judge Might Hate You
 
 This section is primarily written by Iraruel as well and includes the relevant rules text.
 
@@ -313,11 +362,9 @@ Notes:
 
 There are some awfully scuffed rulings around this loop as Goblin Welder works in mysterious ways, so if you're running this loop it would be worth keeping note of the relevant rulings found in the Rules and combo tips section, so the inevitable judge call goes a bit more smoothly. The video below discusses the above variant of the combo and another variant that works regardless of how a judge might rule in regards to Sculpting Steel being able to enter as Eriette's Tempting Apple if both are being chosen for Goblin Welder ability with Sculpting Steel being in the graveyard.
 
-https://www.youtube.com/watch?v=NtiKrAqEZas
-
 Original Combo Credit: Rust ITG
 
-** Judge Friendly Variant **
+Judge Friendly Variant
 
 The starting state for this loop has Goblin Welder, Maskwood Nexus, Magda, Brazen Outlaw on field and one of Eriette's Tempting Apple and Sculpting Steel on field and other in graveyard or hand. Casting it from hand we can copy Eriette's Tempting Apple and legend rule one of them to the graveyard to start the loop from that state.
 
@@ -355,7 +402,7 @@ There is a big difference between events and SBA checks. Because SBAs won’t be
 
 614.12. Some replacement effects modify how a permanent enters the battlefield. (See rules 614.1c–d.) Such effects may come from the permanent itself if they affect only that permanent (as opposed to a general subset of permanents that includes it). They may also come from other sources. To determine which replacement effects apply and how they apply, check the characteristics of the permanent as it would exist on the battlefield, taking into account replacement effects that have already modified how it enters the battlefield (see rule 616.1), continuous effects from the permanent’s own static abilities that would apply to it once it’s on the battlefield, and continuous effects that already exist and would apply to the permanent.
 
-** Cloudstone Curio Loops **
+Cloudstone Curio Loops
 
 Cloudstone Curio loops are simple. Dockside Extortionist is your main line, so as long as dockside makes at least 1 more treasure than the cost of itself and another creature then you can make infinite treasures.
 
@@ -428,7 +475,7 @@ Loop
 
 This loop makes an extra treasure every other loop.
 
-** Rings Of Brighthearth + Basalt Monolith + Treasure Vault **
+Rings Of Brighthearth + Basalt Monolith + Treasure Vault
 
 Rings of Brighthearth lets you copy any ability for 2 mana. So when you use it in conjunction with the untap ability on basalt monolith you end up getting two untaps allowing you to net +1 mana every repetition. From there you simply tutor out Treasure Vault and use the mana to generate pseudo infinite untapped treasures.
 
@@ -451,9 +498,7 @@ Loop
 
 Once you have done sufficient loops tutor out Treasure Vault and use your pseudo infinite mana to generate as many treasure as you have in your pool. Proceed to win-con of your choice.
 
-https://www.youtube.com/watch?v=_cnxXX4X_go
-
-** Grinding Station + Clock Of Omens + Artifact Dwarf & Grinding Station + Sculpting Steel + Clock Of Omens + Artifact Dwarf - Wincon In A Box **
+Grinding Station + Clock Of Omens + Artifact Dwarf & Grinding Station + Sculpting Steel + Clock Of Omens + Artifact Dwarf - Wincon In A Box
 
 Grinding Station untaps itself whenever an artifact comes into play. So this means whenever Magda, Brazen Outlaw triggers the treasure coming into play will untap Grinding Station. Because of this Grinding Station can be used as a transition into untapped treasures or milling your opponents out. If you are under one of the more annoying stax effects where your artifacts ETB tapped (such as Blind Obedience) you can use Sculpting Steel to circumvent the stax effect and get to untapped treasures if you want to win at instant speed or if you want to still use Grinding Station as its own win condition.
 
@@ -542,11 +587,7 @@ Loop
     Resolve Clock of Omens activation untapping your Universal Automaton
 
 All Lines Covered
-
-https://www.youtube.com/watch?v=TkMIltczx64
-
-** Attack Of The Clones - Xorn // Roaming Throne // Academy Manufactor Lines **
-
+Attack Of The Clones - Xorn // Roaming Throne // Academy Manufactor Lines
 Roaming Throne and Clones
 
 This particular section is written by Irarule and covers the lines with Roaming Throne, Xorn and Academy Manufactor along with the ways to copy them such as Mirror of the Forebears Sculpting Steel Cursed Mirror and The Mycosynth Gardens
@@ -623,8 +664,6 @@ Repeat loop until you have enough extra treasures to either remove multiple stax
 
 If you have 20 creatures in library this generates 180 treasures and gets you all of your creatures which should be more than enough to dig your way out of any board state.
 
-https://www.youtube.com/watch?v=IN8P5-JbQew
-
 This video is an overview of how the copy functionality works and the moving pieces in regards to the differences in some board states, copying RT vs Xorn and the impact that may have on your lines.
 
 The video example is better suited to explain non-elixir lines.
@@ -685,21 +724,19 @@ Loop begins here:
 
 Visual Reference:
 
-https://www.youtube.com/watch?v=rOaTHDdJuJA
-
-** Important Combo Adjacent Info **
+My Favorite GIF
+Important Combo Adjacent Info
 
 There are some things that are important to understand when trying to win the game. There are going to be stax pieces such as Grafdigger's Cage and Null Rod that can prevent some win attempts from varying Magda, Brazen Outlaw lists. Most lists tend to run their own copy of Grafdigger's Cage as this card is effective against many strategies such as shutting down Underworld Breach lines. The lists running Grafdigger's Cage either need ways to win through it or ways to remove it. The same goes for Null Rod specifically where some Magda lists are on this since mana rocks are such an integral part of EDH and many artifact activated abilities can help propel our opponents ahead even if its only by gaining mana through Treasure.
 
 The most important thing to understand are the pieces we have that can remove things that are stopping us and the conditions by which you might look to go for specific lines. Most of these lines consist of ways to draw your deck until you find the proper interaction to remove whatever is stopping you such as Abrade which can not only remove artifacts but can also remove some creatures that may get in the way of your win attempts such as Manglehorn and Collector Ouphe
 
-Many decks will run the monored Reclamation Sage in our handy Plundering Barbarian as a means of not only allowing us to remove artifacts when played from hand but also potentially tutorable in conjunction with Maskwood Nexus to let us remove our own Null Rod should we find outself in that position.
+Many decks will run the monored Reclamation Sage in our handy Plundering Barbarian as a means of not only allowing us to remove artifacts when played from hand but also potentially tutorable in conjunction with Maskwood Nexus to let us remove our own Null Rod should we find ourself in that position.
 
 Some decks also run Spine of Ish Sah as a catch-all tutorable means of removing any problematic permanent. The only way this is turned off is if someone artifact ETBs are not able to trigger due to things such as Elesh Norn, Mother Of Machines or Doorkeeper Thrull are on the field. Some lists opt to not run this however as they question it's card quality which is also a valid opinion.
 
 Otherwise we can use the following means of digging for answers
-
-** Professional Face-Breaker - "Card Draw" through null rod **
+Professional Face-Breaker - "Card Draw" through null rod
 
 As this is a creature we cannot tutor this through Grafdigger's Cage
 
@@ -709,9 +746,7 @@ Normally this consists of first tutoring any artifacts and or dragons we can to 
 
 Then you can proceed to impulse draw until you hit the interaction you need to remove the problematic piece. Sometimes this can require multiple steps like fist removing Null Rod to enable artifact abilities which allows something like Liquimetal Torque to make anything an opponent has into an artifact, this then allows another of your shatters to remove something potentially forcing your artifact to enter tapped such as Blind Obedience or simply remove something that is still somehow stopping you from making infinite untapped treasures which can then be used for mana based or clock based win conditions.
 
-https://www.youtube.com/watch?v=8Q8ZhLSTOws
-
-** Draw Loops With The One Ring - Clock Of Omens, Goblin Welder and Elixir Of Immortality Variants **
+Draw Loops With The One Ring - Clock Of Omens, Goblin Welder and Elixir Of Immortality Variants
 
 The One Ring is an incredibly powerful card that acts as a way for you to draw through your deck if you have a way to either untap it (Clock Of Omens) or replace it with a copy of itself (Sculpting Steel) which lets you proceed find anything needed to remove a problematic piece.
 
@@ -736,9 +771,7 @@ Loop
 
 Repeat until you find your out(s) and cast them. After doing this you may use Sculpting Steel having it enter as a copy of The One Ring to reset your burden counters when you sacrifice the original The One Ring to the legend rule.
 
-https://www.youtube.com/watch?v=-UiFJ0-OBVo
-
-** Welder & Clock Of Omens Variant **
+Welder & Clock Of Omens Variant
 
 Does not work through Grafdigger's Cage unless you initially have welder on field. It also pre-supposes you have made infinite untapped treasures via something like Battered Golem + Maskwood Nexus
 
@@ -749,8 +782,7 @@ Setup
     Obtain infinite untapped treasures.
     Tutor Goblin Welder, The One Ring & Clock of Omens
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Use Liquimetal Torque or activate Mirror of the Forebears to become Goblin Welder
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder
+    Activate Mirror of the Forebears to become Goblin Welder or Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Tap The One ring to draw one card.
     Tutor Sculpting Steel entering as a copy of The One Ring. Legend rule sacrificing the original copy to the graveyard.
 
@@ -766,9 +798,7 @@ Loop
 
 Repeat loop until you've found your out(s).
 
-https://www.youtube.com/watch?v=mBLJnmYd25c
-
-** Elixir Of Immortality **
+Elixir Of Immortality
 
 Setup
 
@@ -790,11 +820,13 @@ Loop
 
 Repeat loop until you've found your out(s).
 
-** Pyrite Spellbomb//Soul-Guide Lantern//Stone Of Erech Draw Loop **
+Vexing Bauble//Pyrite Spellbomb//Soul-Guide Lantern//Stone Of Erech Draw Loop
 
 While these loops are normally not used unless it is a budget variant of the deck there are some pilots that still use Pyrite Spellbomb as a win condition.
 
-For every example below I will be using Pyrite Spellbomb however Pyrite Spellbomb Soul-Guide Lantern & Stone of Erech all function the same way in that if you can get them from graveyard to the battlefield repeatedly then you can use infinite mana to draw your deck.
+For every example below I will be using Pyrite Spellbomb however Pyrite Spellbomb Soul-Guide Lantern Stone of Erech and Vexing Bauble all function the same way in that if you can get them from graveyard to the battlefield repeatedly then you can use infinite mana to draw your deck.
+
+Vexing Bauble is now seen in A LOT of lists, so this is very important to know if you're not on elixir and need a specific amount of card draw.
 
 Elixir Of Immortality Loop
 
@@ -810,17 +842,14 @@ Loop
 
 Repeat loop until you've found your out(s).
 
-https://www.youtube.com/watch?v=FRymMFdjYFI
-
-** Goblin Welder Loop **
+Goblin Welder Loop
 
 Setup
 
     Obtain infinite untapped treasures.
     Tutor Goblin Welder, Clock of Omens & Pyrite Spellbomb
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Use Liquimetal Torque or activate Mirror of the Forebears to become Goblin Welder
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder
+    Activate Mirror of the Forebears to become Goblin Welder or Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Activate Pyrite Spellbomb to draw a card
 
 Loop
@@ -832,17 +861,14 @@ Loop
 
 Repeat loop until you've found your out(s).
 
-https://www.youtube.com/watch?v=zZ1HBC7Cajg
-
-** Goblin Engineer Loop **
+Goblin Engineer Loop
 
 Setup
 
     Obtain infinite untapped treasures.
     Tutor Goblin Engineer putting Pyrite Spellbomb in graveyard and Clock of Omens
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Use Liquimetal Torque or activate Mirror of the Forebears to become Goblin Engineer
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Engineer
+    Activate Mirror of the Forebears to become Goblin Engineer or Tutor Cursed Mirror, enter as a copy of artifact Goblin Engineer and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
 
 Loop
 
@@ -853,9 +879,7 @@ Loop
 
 Repeat loop until you've found your out(s).
 
-https://www.youtube.com/watch?v=E_U_GWS48f0
-
-** Removing Enchantments & Non-Artifact Problem Permanents **
+Removing Enchantments & Non-Artifact Problem Permanents
 
 When you have access to your draw loops you can use this to your advantage to allow for another important interaction.
 
@@ -868,8 +892,7 @@ The basic premise is simple, use Liquimetal Torque targeting the thing that is s
 This turns our shatter spells into catch all removal just like Spine of Ish Sah.
 
 If you are under Blind Obedience like effects you'll have to use your infinite untapped treasures in conjunction with the ability of Clock of Omens to untap your Liquimetal Torque to enable this line of play.
-
-** Welding Away Your Own Null Rod - Goblin Welder & Goblin Engineer **
+Welding Away Your Own Null Rod - Goblin Welder & Goblin Engineer
 
 This requires Goblin Welder or Goblin Engineer that has haste either from Cursed Mirror or Eriette's Tempting Apple. Normally this also requires tutoring Maskwood Nexus to enable the tutor for the Goblin Welder or Goblin Engineer
 
@@ -877,9 +900,7 @@ Once you have a goblin in play that can use it's ability make sure you have an a
 
 If you need an artifact in yard for the welder variant then simply tutor any legendary artifact such as The One Ring and then tutor Sculpting Steel entering as a copy of the legendary artifact. Legend rule either to the graveyard.
 
-https://www.youtube.com/watch?v=MMEzZGWiXDo
-
-** Protecting Your Win **
+Protecting Your Win
 
 There are times your opponents may try to interact with you and normally the best time to do that is with magda's trigger on the stack when trying to combo off.
 
@@ -893,9 +914,7 @@ When an opponent interacts at the point where the Magda treasure trigger is on t
 
 Some pilots are opting to use Battered Golem lines more often since as long as you have a non-zero board state there should be ways to force extra interaction. For every untapped dwarf you have when you start the line you have a second win attempt forcing another interaction attempt from your opponents which is a lot less of a requirement in many cases than the three artifacts you need for each interaction attempt when trying to combo off with Clock of Omens
 
-https://www.youtube.com/watch?v=QJ7JQRmhSDw
-
-** Angel's Grace & The One Ring Protection **
+Angel's Grace & The One Ring Protection
 
 Angel's Grace is a card that lets an opponent attempt to save themselves from losing the game by preventing them from going below 1 life from taking damage.
 
@@ -911,6 +930,7 @@ Another way through Angel's Grace requires running equipment. If you are on some
 
 Thanks to Rust_ITG for getting all of this stuff straightened out and confirmed rules wise.
 
+
 *** Combo "Enders" - Winning The Game ***
 
 There are A LOT of ways you can go about winning the game with Magda, Brazen Outlaw
@@ -924,109 +944,97 @@ Most of the deck variants only use a few card packages to secure wins while tryi
 One important thing to remember is that just because a line is easier to explain to your opponents does not make it any better or worth having over other potentially more complex lines that use pieces that are already in the deck for other reasons. This is especially true if a piece being added to your deck is only being added to further that goal of making your win easier to explain.
 
 All combo lines will assume that Magda, Brazen Outlaw is on field and you're able to generate infinite treasures in some way.
-    
-    ** Basic Outlets **
-    
-    These types of outlets tend to be avoided in many of the current iterations of Magda. The reason for this is that these types of outlets serve no real purpose outside of being a way to end the game and the only thing that these types of win conditions provide is simplicity and in a way help shortcut/shorten your line.
-    
-    Some of the cards discussed can certainly have some secondary value but it's heavily dependent on the archetype you're looking to pilot.
-        
-        ** Realm-Scorcher Hellkite & Skarrgan Hellkite
-        
-        Realm-Scorcher Hellkite was essentially a strictly better version of Skarrgan Hellkite so its why Skarrgan is not seen much as they are actually essentially the same price. Sometimes Skarrgan gets played because it costs 1 less mana to play however it's ability costs more per activation.
-        
-        Realm-Scorcher Hellkite and Skarrgan Hellkite both serve the exact same purpose in lists that run it. They acts as a way to end the game by dumping infinite mana into infinite activations of their abilities.
-        After you have generated infinite untapped treasures for infinite mana you will do as follows;
-        
-            Tutor Realm-Scorcher Hellkite or Skarrgan Hellkite (Choose counter for RIOT so Skaargan can be activated)
-            Activate Realm-Scorcher Hellkite or Skarrgan Hellkite to targeting an opponent with the ability.
-            Hold priority and continue to put an infinite amount of activations on the stack while holding priority after each activation.
-            Let all activations resolve and kill your opponents.
-        
-        The reason you hold priority is that your your opponents cannot use anything to interact or prevent the win. This includes things with split second like Trickbind and V.A.T.S.
-        
-        The downside to these lines however is that you cannot win by tutoring out creatures with a Grafdigger's Cage in play. You are required to find a way to remove it if you wish to use this type of wincon.
-        
-        https://www.youtube.com/watch?v=rQgmWawS5nA
+Basic Outlets
 
-        ** Grinding Station **
-        
-        This win-con is normally paired with Memory Jar which is a reason that a majority of the lists you might see do not run this as a win condition. If you don't have a way to make your opponents draw and end the game at instant speed while they have no library then you're forced to make your opponents draw in order to win which against some decks can be a risk. While decks like The Gitrog Monster are not common there are decks run multiple ways to shuffle their graveyard into their deck such as how Gitrog uses the "Shuffle Titans" as part of their own combo line protection.
-        
-        This particular line is very simple;
-        
-        Setup
-        
-            Generate infinite treasures.
-            Tutor Grinding Station
-        
-        Loop
-        
-            Tap Grinding Station to mill an opponent for 3.
-            Restart any combo used to generate treasures causing a Magda, Brazen Outlaw trigger.
-            Magda, Brazen Outlaw trigger resolves and untaps Grinding Station allowing you to tap it again.
-        
-        Finish Variant 1
-        
-            Repeat loop until all opponents have 0 cards in library.
-            Pass to opponents and let them lose one by one at their draw step.
-        
-        Finish Variant 2 -Repeat loop until all opponents have 0 cards in library.
-        
-            Tutor Memory Jar
-            Activate Memory Jar forcing opponents to draw.
-            Opponents will lose the game when attempting to draw with no cards in their library.
-        
-        https://www.youtube.com/watch?v=J-8zCoMKaiw
+These types of outlets tend to be avoided in many of the current iterations of Magda. The reason for this is that these types of outlets serve no real purpose outside of being a way to end the game and the only thing that these types of win conditions provide is simplicity and in a way help shortcut/shorten your line.
 
-    ** ETB Loops/Outlets **
-    
-    The ETB loops listed here are specific to the creatures that use OTHER creatures entering to do damage. This means that other means of dealing damage through ETB effects such as Knight Paladin, Twinshot Sniper, Legion Extruder and Bogardan Hellkite are not discussed here.
-    
-    Terror Of The Peaks & Scourge of Valkas are the two main outlets that will be discussed. Both of these creatures are similar because they rely on Maskwood Nexus in order to allow access to all creatures in your deck since most decks are not on many dragons.
+Some of the cards discussed can certainly have some secondary value but it's heavily dependent on the archetype you're looking to pilot.
+Realm-Scorcher Hellkite & Skarrgan Hellkite
 
-    ** Terror Of The Peaks **
-    
-    Terror of The Peaks is an interesting creature since it allows you to get the trigger from any creature ETBing. An important part of this is that it relies on the power of the creatures entering meaning that if anything modifies their power before the trigger resolves it will end up dealing more damage than the base power listed on the creature.
-    
-    Because this combo requires Maskwood Nexus creatures that increase the power of your dwarves such as Magda, Brazen Ourlaw, Adaptive Automaton, Metallic Mimic are incredibly potent in regards to helping you end the game with the least amount of tutors without reliance on being able to recur creatures that can sacrifice themselves like Dwarven Scorcher.
-    
-    This also means that Dwarven Bloodboiler allows you to ETB creatures and tap themselves to it's ability in order to increase their power by 2.
-    
-    Because the ETB effect is so important the ability to copy triggers or the Terror of the Peaks itself is very important. The introduction of Roaming Throne makes these lines a lot cleaner since even if you have it enter and choose dwarf earlier in the game to combo off to make your treasures when it is combined with Maskwood Nexus it allows you to multiply the triggers by the amount of Roaming Throne on field. So while we can turn Terror of The Peaks into an artifact and make a copy of it with things such as Sculpting Steel that same Sculpting Steel can be used on Roaming Throne to get the same effect of multiple triggers. This also lets the Roaming Throne + Xorn copy lines become a more potent way to transition into winning with Terror of The Peaks since you normally end up with three Roaming Throne in most cases which lets Terror of The Peaks trigger four times and lowers the amount of creatures that need to be tutored by a large margin.
-    
-    One of the most important aspects of this combo line is that if you find yourself able to make infinite treasures through effects such as Null Rod or Stony Silence you can turn that into a win without needing to remove the piece that prevents artifacts from being activated.
-    
-    With infinite treasures Magda, the Hoardmaster wins alone in conjunction with Terror of The Peaks
-    
-    Because there are a few variants of this combo we're going to explain the different variants
-    
-    We will assume you need to deal 120 damage to kill the table.
+Realm-Scorcher Hellkite was essentially a strictly better version of Skarrgan Hellkite so its why Skarrgan is not seen much as they are actually essentially the same price. Sometimes Skarrgan gets played because it costs 1 less mana to play however it's ability costs more per activation.
 
-    https://www.youtube.com/watch?v=9dpdAfgQWqI
+Realm-Scorcher Hellkite and Skarrgan Hellkite both serve the exact same purpose in lists that run it. They acts as a way to end the game by dumping infinite mana into infinite activations of their abilities. After you have generated infinite untapped treasures for infinite mana you will do as follows;
 
-    ** Variant 1: Dwarven Bloodboiler **
+    Tutor Realm-Scorcher Hellkite or Skarrgan Hellkite (Choose counter for RIOT so Skaargan can be activated)
+    Activate Realm-Scorcher Hellkite or Skarrgan Hellkite to targeting an opponent with the ability.
+    Hold priority and continue to put an infinite amount of activations on the stack while holding priority after each activation.
+    Let all activations resolve and kill your opponents.
 
-    Setup
+The reason you hold priority is that your your opponents cannot use anything to interact or prevent the win. This includes things with split second like Trickbind and V.A.T.S.
 
-        Generate infinite treasures (tapped or untapped does not matter)
-        Tutor Maskwood Nexus, Roaming Throne (if not on field already) & Terror of The Peaks
-        Tutor Adaptive Automaton choosing Dwarf and Dwarven Bloodboiler to field. Hold Priority with Terror of The Peaks trigger on the stack.
-        Hold Priority on the Terror of The Peaks ETB Triggers.
-        Tap Dwarven Bloodboiler to it's own ability giving it +2/0. Hold Priority.
-        Tap Terror Of The Peaks to Dwarven Bloodboiler ability to give Dwarven Bloodboiler +2/0. Hold Priority.
-        Tap Adaptive Automaton to Dwarven Bloodboiler ability to give Dwarven Bloodboiler +2/0,
-        Resolve Terror Of The Peaks ETB triggers dealing 10 damage to any target twice. (+1/0 from Magda, +1/1 from Adaptive Automaton and +6/0 from two Bloodboiler activations) for Dwarven Bloodboiler ETB and 2 damage to any target from Adaptive Automaton ETB twice. Total 4 damage.
+The downside to these lines however is that you cannot win by tutoring out creatures with a Grafdigger's Cage in play. You are required to find a way to remove it if you wish to use this type of wincon.
 
-    Finish
+Grinding Station
 
-        Tutor your remaining creatures to field tapping them all to activate Dwarven Bloodboiler and give themselves +2/0.
+This win-con is normally paired with Memory Jar which is a reason that a majority of the lists you might see do not run this as a win condition. If you don't have a way to make your opponents draw and end the game at instant speed while they have no library then you're forced to make your opponents draw in order to win which against some decks can be a risk. While decks like The Gitrog Monster are not common there are decks run multiple ways to shuffle their graveyard into their deck such as how Gitrog uses the "Shuffle Titans" as part of their own combo line protection.
 
-    This means every 1/1 turns into a 5/1 so each creature allows you to deal a minimum of 10 damage due to having a minimum of two Terror of The Peaks triggers per creature that enters. This requires 10 more creatures to ETB and go through the same process to win the game.
+This particular line is very simple;
 
-    https://www.youtube.com/watch?v=_6Ih7BJfAgc
+Setup
 
-** Variant 2: Three or More Triggers Per ETB**
+    Generate infinite treasures.
+    Tutor Grinding Station
+
+Loop
+
+    Tap Grinding Station to mill an opponent for 3.
+    Restart any combo used to generate treasures causing a Magda, Brazen Outlaw trigger.
+    Magda, Brazen Outlaw trigger resolves and untaps Grinding Station allowing you to tap it again.
+
+Finish Variant 1
+
+    Repeat loop until all opponents have 0 cards in library.
+    Pass to opponents and let them lose one by one at their draw step.
+
+Finish Variant 2 -Repeat loop until all opponents have 0 cards in library.
+
+    Tutor Memory Jar
+    Activate Memory Jar forcing opponents to draw.
+    Opponents will lose the game when attempting to draw with no cards in their library.
+
+ETB Loops/Outlets
+
+The ETB loops listed here are specific to the creatures that use OTHER creatures entering to do damage. This means that other means of dealing damage through ETB effects such as Knight Paladin, Twinshot Sniper, Legion Extruder and Bogardan Hellkite are not discussed here.
+
+Terror Of The Peaks & Scourge of Valkas are the two main outlets that will be discussed. Both of these creatures are similar because they rely on Maskwood Nexus in order to allow access to all creatures in your deck since most decks are not on many dragons.
+Terror Of The Peaks
+
+Terror of The Peaks is an interesting creature since it allows you to get the trigger from any creature ETBing. An important part of this is that it relies on the power of the creatures entering meaning that if anything modifies their power before the trigger resolves it will end up dealing more damage than the base power listed on the creature.
+
+Because this combo requires Maskwood Nexus creatures that increase the power of your dwarves such as Magda, Brazen Outlaw, Adaptive Automaton, Metallic Mimic are incredibly potent in regards to helping you end the game with the least amount of tutors without reliance on being able to recur creatures that can sacrifice themselves like Dwarven Scorcher.
+
+This also means that Dwarven Bloodboiler allows you to ETB creatures and tap themselves to it's ability in order to increase their power by 2.
+
+Because the ETB effect is so important the ability to copy triggers or the Terror of the Peaks itself is very important. The introduction of Roaming Throne makes these lines a lot cleaner since even if you have it enter and choose dwarf earlier in the game to combo off to make your treasures when it is combined with Maskwood Nexus it allows you to multiply the triggers by the amount of Roaming Throne on field. So while we can turn Terror of The Peaks into an artifact and make a copy of it with things such as Sculpting Steel that same Sculpting Steel can be used on Roaming Throne to get the same effect of multiple triggers. This also lets the Roaming Throne + Xorn copy lines become a more potent way to transition into winning with Terror of The Peaks since you normally end up with three Roaming Throne in most cases which lets Terror of The Peaks trigger four times and lowers the amount of creatures that need to be tutored by a large margin.
+
+One of the most important aspects of this combo line is that if you find yourself able to make infinite treasures through effects such as Null Rod or Stony Silence you can turn that into a win without needing to remove the piece that prevents artifacts from being activated.
+
+With infinite treasures Magda, the Hoardmaster wins alone in conjunction with Terror of The Peaks
+
+Because there are a few variants of this combo we're going to explain the different variants
+
+We will assume you need to deal 120 damage to kill the table.
+
+Variant 1: Dwarven Bloodboiler
+
+Setup
+
+    Generate infinite treasures (tapped or untapped does not matter)
+    Tutor Maskwood Nexus, Roaming Throne (if not on field already) & Terror of The Peaks
+    Tutor Adaptive Automaton choosing Dwarf and Dwarven Bloodboiler to field. Hold Priority with Terror of The Peaks trigger on the stack.
+    Hold Priority on the Terror of The Peaks ETB Triggers.
+    Tap Dwarven Bloodboiler to it's own ability giving it +2/0. Hold Priority.
+    Tap Terror Of The Peaks to Dwarven Bloodboiler ability to give Dwarven Bloodboiler +2/0. Hold Priority.
+    Tap Adaptive Automaton to Dwarven Bloodboiler ability to give Dwarven Bloodboiler +2/0,
+    Resolve Terror Of The Peaks ETB triggers dealing 10 damage to any target twice. (+1/0 from Magda, +1/1 from Adaptive Automaton and +6/0 from two Bloodboiler activations) for Dwarven Bloodboiler ETB and 2 damage to any target from Adaptive Automaton ETB twice. Total 4 damage.
+
+Finish
+
+    Tutor your remaining creatures to field tapping them all to activate Dwarven Bloodboiler and give themselves +2/0.
+
+This means every 1/1 turns into a 5/1 so each creature allows you to deal a minimum of 10 damage due to having a minimum of two Terror of The Peaks triggers per creature that enters. This requires 10 more creatures to ETB and go through the same process to win the game.
+
+Variant 2: Three or More Triggers Per ETB
 
 Setup
 
@@ -1040,8 +1048,6 @@ Finish
     Tutor creature to field putting 5x Terror of The Peaks ETB triggers on the stack dealing a minimum of 10 total damage per creature that enters.
 
 Magda buffs all creatures by +1/0 so 1/1s would deal 10 damage, 2/2s would deal 15 damage etc, This means a minimum of 7 creatures need to be tutored to win.
-
-https://www.youtube.com/watch?v=_6Ih7BJfAgc
 
 Variant 3: Combining Variant 1 and 2 - Most Damage Per ETB
 
@@ -1059,7 +1065,7 @@ Variant 3: Combining Variant 1 and 2 - Most Damage Per ETB
 
 All opponents should be dead since you've dealt 145 damage. If for some reason an opponent is alive then tutor another creature to field and use Dwarven Bloodboiler to buff it and deal another 25 damage minimum per creature.
 
-** Variant 4: Maskwood Nexus & Clock Of Omens Only **
+Variant 4: Maskwood Nexus & Clock Of Omens Only
 
 The downside to this particular variant is that it cannot win through either Grafdigger's Cage or Null Rod type effects.
 
@@ -1069,17 +1075,15 @@ Setup
     Tutor Maskwood Nexus, Terror of The Peaks & Clock of Omens (if it is not on field).
     Use 3x Treasure to activate Maskwood Nexus generating a 2/2 Shapeshifter.
     Resolve Terror of the Peaks dealing 3 damage to any target.
-    Activate Clock of Omens targeting Maskwood Nexus by using 2x Tresure to untap Maskwood Nexus untapping it.
+    Activate Clock of Omens targeting Maskwood Nexus by using 2x Treasure to untap Maskwood Nexus untapping it.
 
 Loop
 
     Use 3x Treasure to activate Maskwood Nexus generating a 2/2 Shapeshifter.
     Resolve Terror of the Peaks dealing 3 damage to any target.
-    Activate Clock of Omens targeting Maskwood Nexus by using 2x Tresure to untap Maskwood Nexus untapping it.
+    Activate Clock of Omens targeting Maskwood Nexus by using 2x Treasure to untap Maskwood Nexus untapping it.
 
-https://www.youtube.com/watch?v=H4jfG9OGf-U
-
-** Scourge of Valkas **
+Scourge of Valkas
 
 Scourge Of Valkas is a similar win condition to Terror of The Peaks as they both rely on Maskwood Nexus in order to tutor every creature in your deck.
 
@@ -1102,9 +1106,7 @@ Finish
 
     Tutor every creature in your deck to field. You must tutor at least 15 creatures to field to kill your opponents if you only need to deal 120 damage.
 
-https://www.youtube.com/watch?v=vz8LY3I4coE
-
-** Variant 2: Extra Triggers **
+Variant 2: Extra Triggers
 
 Setup
 
@@ -1121,9 +1123,7 @@ Finish
 
 With this setup it should take 3 or less tutors if your opponents' life in total is equal to 120.
 
-https://www.youtube.com/watch?v=7CuorFX2W8Y
-
-** Variant 3: Maskwood Nexus + Clock Of Omens Only **
+Variant 3: Maskwood Nexus + Clock Of Omens Only
 
 The downside to this particular variant is that it cannot win through either Grafdigger's Cage or Null Rod type effects.
 
@@ -1133,46 +1133,42 @@ Setup
     Tutor Maskwood Nexus, Scourge Of Valkas & Clock of Omens (if it is not on field).
     Use 3x Treasure to activate Maskwood Nexus generating a 2/2 Shapeshifter.
     Resolve Scourge Of Valkas dealing 3 damage to any target.
-    Activate Clock of Omens targeting Maskwood Nexus by using 2x Tresure to untap Maskwood Nexus untapping it.
+    Activate Clock of Omens targeting Maskwood Nexus by using 2x Treasure to untap Maskwood Nexus untapping it.
 
 Loop
 
     Use 3x Treasure to activate Maskwood Nexus generating a 2/2 Shapeshifter.
     Resolve Scourge Of Valkas dealing X damage to any target where X is equal to the amount of creatures on the battlefield.
-    Activate Clock of Omens targeting Maskwood Nexus by using 2x Tresure to untap Maskwood Nexus untapping it.
+    Activate Clock of Omens targeting Maskwood Nexus by using 2x Treasure to untap Maskwood Nexus untapping it.
 
-https://www.youtube.com/watch?v=awS8ire_DpA
-
-** Elixir Of Immortality Outlets **
+Elixir Of Immortality Outlets
 
 Elixir of Immortality is a potent engine for ending the game at instant speed since not only it's ability is able to be done at any time you have priority but so is the ability to tutor with Magda, Brazen Outlaw. This allows cards that go to the graveyard to be put back into your deck and be tutored by Magda, Brazen Outlaw again enabling some interesting loops.
 Eriette's Tempting Apple & Pyrite Spellbomb
 
 These outlets are artifacts and because of this win lines that use Elixir of Immortality as a catalyst to generating infinite treasures through Grafdigger's Cage can then be transitioned into wins as neither Eriette's Tempting Apple or Pyrite Spellbomb are creatures and when interacting with the graveyard you are shuffling them back into your library and not casting them.
 
-    ** Eriette's Tempting Apple is an artifact that has an ability where you can pay and and sacrifice it in order to cause an opponent to lose 3 life. **
-    
-    Pyrite Spellbomb is an artifact that has an ability where you can pay and sacrifice it to deal 2 damage to any target.
-    
-    Because both of these artifacts end up in the graveyard after using their abilities Elixir of Immortality can then be used to place itself and either Eriette's Tempting Apple or Pyrite Spellbomb back into your library to be tutored once more with our commander.
-    
-    Setup
-    
-        Make Infinite Untapped Treasures which can be used for infinite mana of any color.
-        Tutor Eriette's Tempting Apple or Pyrite Spellbomb & Elixir of Immortality
-    
-    Loop
-    
-        Pay Either or to activate either Eriette's Tempting Apple or Pyrite Spellbomb causing it to be sacrificed and go to the graveyard.
-        Resolve the ability to cause an opponent to lose 3 life or take 2 damage depending on artifact used.
-        Activate Elixir of Immortality shuffling your graveyard and itself into your library.
-        Retutor Eriette's Tempting Apple or Pyrite Spellbomb & Elixir of Immortality
-    
-    Repeat this loop until all opponents have been eliminated.
+Eriette's Tempting Apple is an artifact that has an ability where you can pay and and sacrifice it in order to cause an opponent to lose 3 life.
 
-    https://www.youtube.com/watch?v=enRPViFvYtY
+Pyrite Spellbomb is an artifact that has an ability where you can pay and sacrifice it to deal 2 damage to any target.
 
-** Maskwood Nexus + Elixir - Terror Of The Peaks & Scourge of Valkas **
+Because both of these artifacts end up in the graveyard after using their abilities Elixir of Immortality can then be used to place itself and either Eriette's Tempting Apple or Pyrite Spellbomb back into your library to be tutored once more with our commander.
+
+Setup
+
+    Make Infinite Untapped Treasures which can be used for infinite mana of any color.
+    Tutor Eriette's Tempting Apple or Pyrite Spellbomb & Elixir of Immortality
+
+Loop
+
+    Pay Either or to activate either Eriette's Tempting Apple or Pyrite Spellbomb causing it to be sacrificed and go to the graveyard.
+    Resolve the ability to cause an opponent to lose 3 life or take 2 damage depending on artifact used.
+    Activate Elixir of Immortality shuffling your graveyard and itself into your library.
+    Retutor Eriette's Tempting Apple or Pyrite Spellbomb & Elixir of Immortality
+
+Repeat this loop until all opponents have been eliminated.
+
+Maskwood Nexus + Elixir - Terror Of The Peaks & Scourge of Valkas
 
 Because this is a creature based combo that uses activations of artifacts it cannot win through either Grafdigger's Cage or Null Rod effects.
 
@@ -1196,8 +1192,7 @@ Loop
     ETB triggers Terror of The Peaks or Scourge of Valkas
 
 Repeat loop until all opponents are eliminated.
-
-** Elixir Of Immortality Draw > Damage Loops **
+Elixir Of Immortality Draw > Damage Loops
 
 We have many ways to deal damage that are loopable when combined with any means of infinitely drawing and Elixir of Immortality to be able to force them back into your library to be re-drawn and replayed.
 
@@ -1226,9 +1221,7 @@ Loop
 
 Repeat until all opponents are eliminated.
 
-https://www.youtube.com/watch?v=PYo5NG0vq9o
-
-** Pyrite Spellbomb//Stone of Erech//Soul-Guide Lantern **
+Pyrite Spellbomb//Stone of Erech//Soul-Guide Lantern
 
 For this variant we will be using Pyrite Spellbomb even though both Stone of Erech and Soul-Guide Lantern function identically.
 
@@ -1250,9 +1243,7 @@ Loop
 
 Repeat until all opponents are eliminated.
 
-https://www.youtube.com/watch?v=n2HjTt_6Cgw
-
-** Tel-Jilad Stylus Outlets **
+Tel-Jilad Stylus Outlets
 
 All stylus outlets are contingent on using Clock of Omens as a way to continually untap your Tel-Jilad Stylus to put whatever it is you are comboing off with back into your deck.
 
@@ -1298,9 +1289,7 @@ Loop
 
 Repeat loop until all opponents are eliminated.
 
-https://www.youtube.com/watch?v=RCKh_vSA48w
-
-** Spine of Ish Sah//Legion Extruder//Knight Paladin - Artifact Based Lines **
+Spine of Ish Sah//Legion Extruder//Knight Paladin - Artifact Based Lines
 
 Legion Extruder//Knight Paladin
 
@@ -1330,7 +1319,7 @@ This line works through both Null Rod type effects and Grafdigger's Cage due to 
 
 That being said if you wish to play through those Null Rod style effects you have to generate infinite untapped treasures in a way without Clock of Omens.
 
-This line is not normally used unless you specifically do not have an instant speed win available to you at the time, though if your opponents don't concede with no permanents they are masocists.
+This line is not normally used unless you specifically do not have an instant speed win available to you at the time, though if your opponents don't concede with no permanents they are masochists.
 
 Setup
 
@@ -1347,9 +1336,7 @@ Loop
 
 Loop until all permanents of opponents are destroyed. Then proceed to tutor your entire deck and win during the following turn cycle.
 
-https://www.youtube.com/watch?v=eRTGzSe6oVI
-
-** Stylus The One Ring Draw Loop **
+Stylus The One Ring Draw Loop
 
 This line is here for if your deck is not on Spine of Ish Sah as a way to remove Grafdigger's Cage and enable your creature based ETB wins. Though why a Stylus list would not be on Spine boggles my mind.
 
@@ -1372,11 +1359,9 @@ Finish
 
     Find the shatter you need to remove Grafdigger's Cage and then do the Twinshot Sniper loop listed in the above section.
 
-https://www.youtube.com/watch?v=p1px8wNTJhQ
+Maskwood Nexus & Magda, the Hoardmaster - Combat Damage Wins
 
-** Maskwood Nexus & Magda, the Hoardmaster - Combat Damage Wins **
-
-Since Maskwood Nexus is used in many other win conditions its important to understand the difference between using it as a wincon itself and using it to enable another line such as the damge based ETB lines for Terror of the Peaks and Scourge of Valkas
+Since Maskwood Nexus is used in many other win conditions its important to understand the difference between using it as a wincon itself and using it to enable another line such as the damage based ETB lines for Terror of the Peaks and Scourge of Valkas
 
 The main difference between Maskwood Nexus and Magda, The Hoardmaster is that Magda can only generate the creatures you're going to use to win on your own turn. The upside however is that you don't have to jump through any hoops to give those creatures haste like you do for the Maskwood Nexus line.
 
@@ -1409,8 +1394,7 @@ Setup
     Tutor Maskwood Nexus & Clock of Omens (if not on field)
     Tutor Axgard Cavalry
     Tutor Liquimetal Torque or Mirror of the Forebears naming Dwarf
-    Use Liquimetal Torque or activate Mirror of the Forebears to become Axgard Cavalry
-    Tutor Cursed Mirror, enter as a copy of artifact Axgard Cavalry
+    Activate Mirror of the Forebears to become Axgard Cavalry or Tutor Cursed Mirror, enter as a copy of artifact Axgard Cavalry and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
 
 Loop
 
@@ -1421,9 +1405,7 @@ Loop
 
 Continue until you have infinite hastey creatures and attack for the win.
 
-https://www.youtube.com/watch?v=3e_4MkNBPhw
-
-** Engineer & Welder Loops (Damage & Destruction) **
+Engineer & Welder Loops (Damage & Destruction)
 
 Goblin Welder and Goblin Engineer both allow you to win with infinite ETBs. It functions in the same manner as Tel-Jilad Stylus essentially allowing you to win with the same sort of permanents.
 
@@ -1449,9 +1431,7 @@ Loop
     Activate Goblin Welder with Treasure & Eriette's Tempting Apple as targets.
     Eriette's Tempting Apple ETB targeting Goblin Welder to untap it.
 
-https://www.youtube.com/watch?v=l-HtB3J8ibc
-
-** Twinshot Sniper//Legion Extruder **
+Twinshot Sniper//Legion Extruder
 
 Both of these function in the same way.
 
@@ -1467,8 +1447,7 @@ Setup
     Tutor Maskwood Nexus & Clock of Omens (if not on field already).
     Tutor Goblin Welder
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Activate Liquimetal Torque targeting Goblin Welder or activate Mirror of the Forebears to become Goblin Welder
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder
+    Activate Mirror of the Forebears to become Goblin Welder or Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Tutor Twinshot Sniper ETB deal 2 damage to any target.
     Tutor any artifact that can remove itself from play; Spine of Ish Sah, Lotus Petal, Jeweled Lotus or Sculpting Steel
     Activate Lotus Petal//Jeweled Lotus to add mana and put it in the graveyard. Alternatively resolve the fist half of the Spine of Ish Sah ETB targeting itself putting it in the graveyard, hold priority on the trigger to put it to hand.
@@ -1492,9 +1471,7 @@ Loop (Spine of Ish Sah)
     ResolveTwinshot Sniper ETB deal 2 damage to any target. Hold priority on Spine of Ish Sah LTB trigger. Since these happen simultaneously you can layer the stack how you wish.
     Tap 2x Treasure to activate Clock of Omens targeting Cursed Mirror copy of Goblin Welder to untap it.
 
-https://www.youtube.com/watch?v=wexMGL2i6mc
-
-** Goblin Engineer **
+Goblin Engineer
 
 Setup
 
@@ -1502,8 +1479,7 @@ Setup
     Tutor Maskwood Nexus & Clock of Omens (if not on field already).
     Tutor Goblin Engineer ETB put any CMC 3 or less artifact in graveyard. (We'll use Jeweled Lotus in our example here)
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Activate Liquimetal Torque targeting Goblin Welder or activate Mirror of the Forebears to become Goblin Engineer
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Engineer
+    Activate Mirror of the Forebears to become Goblin Engineer or Tutor Cursed Mirror, enter as a copy of artifact Goblin Engineer and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Tutor Twinshot Sniper ETB deal 2 damage to any target.
     Tutor Sculpting Steel as a copy of Twinshot Sniper ETB deal 2 damage to any target.
 
@@ -1515,9 +1491,7 @@ Loop
     Sculpting Steel enters as a copy of Twinshot Sniper ETB 2 damage to any target.
     Tap 2x Treasure to activate Clock of Omens targeting Cursed Mirror copy of Goblin Welder to untap it.
 
-https://www.youtube.com/watch?v=yFsIORDBqcw
-
-** Spine of Ish Sah **
+Spine of Ish Sah
 
 For this version you can use either Goblin Welder or Goblin Engineer, the only difference is that you can skip a tutor step by putting something 3CMC or less into the GY and using that instead of the listed Lotus Petal//Jeweled Lotus when using engineer.
 
@@ -1531,8 +1505,7 @@ Setup
     Tutor Maskwood Nexus & Clock of Omens (if not on field already).
     Tutor Goblin Welder
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Activate Liquimetal Torque targeting Goblin Welder or activate Mirror of the Forebears to become Goblin Welder
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder
+    Activate Mirror of the Forebears to become Goblin Welder or Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Tutor any artifact that can remove itself from play; Such as [Lotus Petal, Jeweled Lotus
     Tutor Spine of Ish Sah ETB targeting an opponent's permanent.
     Tutor Sculpting Steel as a copy of Spine of Ish Sah ETB targeting an opponent's permanent. (This step is unnecessary if using welder, you can just use the original spine to go in and out)
@@ -1553,9 +1526,7 @@ If using Spine of Ish Sah instead of Sculpting Steel for the welder variant just
 
 Video below showcases NOT using Sculpting Steel for the welder variant, just Spine of Ish Sah
 
-https://www.youtube.com/watch?v=dp4d7zFnZYU
-
-** Engineer Variant **
+Engineer Variant
 
 Setup
 
@@ -1563,8 +1534,7 @@ Setup
     Tutor Maskwood Nexus & Clock of Omens (if not on field already).
     Tutor Goblin Engineer ETB put any CMC 3 or less artifact in graveyard. (We'll use Jeweled Lotus in our example here)
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Activate Liquimetal Torque targeting Goblin Engineer or activate Mirror of the Forebears to become Goblin Engineer
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Engineer
+    Activate Mirror of the Forebears to become Goblin Engineer or Tutor Cursed Mirror, enter as a copy of artifact Goblin Engineer and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Tutor Spine Of Ish Sah targeting any permanent your opponent controls.
     Tutor Sculpting Steel as a copy of Spine Of Ish Sah targeting any permanent your opponent controls.
 
@@ -1577,9 +1547,9 @@ Loop
     Sculpting Steel enters as a copy of Spine Of Ish Sah targeting any permanent your opponent controls.
     Tap 2x Treasure to activate Clock of Omens targeting Cursed Mirror copy of Goblin Engineer to untap it.
 
-** Terror Of The Peaks & Scourge of Valkas **
+Terror Of The Peaks & Scourge of Valkas
 
-For this version you can use either Goblin Welder or Goblin Engineer, the only difference is that you can skip a tutor step by putting something 3CMC or less into the Graveyard and using that instead of the listed Lotus Petal//Jeweled Lotus when using engineer. All artifact creatures we run really other than Roaming Throne are 3cmc or less so they can all be chosen by engineer.
+For this version you can use either Goblin Welder or Goblin Engineer, the only difference is that you can skip a tutor step by putting something 3CMC or less into the GY and using that instead of the listed Lotus Petal//Jeweled Lotus when using engineer. All artifact creatures we run really other than Roaming Throne are 3cmc or less so they can all be chosen by engineer.
 
 While this variant does exist its likely unnecessary since the baseline variant is "stronger" but its nice to have options.
 
@@ -1589,8 +1559,7 @@ Setup
     Tutor Maskwood Nexus & Clock of Omens (if not on field already).
     Tutor Goblin Welder
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Activate Liquimetal Torque targeting Goblin Welder or activate Mirror of the Forebears to become Goblin Welder
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder
+    Activate Mirror of the Forebears to become Goblin Welder or Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Tutor any artifact that can remove itself from play; Such as Lotus Petal, Jeweled Lotus
     Activate Lotus Petal//Jeweled Lotus to add mana and put it in the graveyard.
     Tutor Terror of The Peaks or Scourge of Valkas (Both cause ETB damage and all creatures that enter will be dragons since Maskwood Nexus is in play).
@@ -1603,14 +1572,40 @@ Loop
     Activate Cursed Mirror copy of Goblin Welder targeting Universal Automaton (Artifact Creature) and Jeweled Lotus. ETB deal damage to any target.
     Tap 2x Treasure to activate Clock of Omens targeting Cursed Mirror copy of Goblin Welder to untap it.
 
-https://www.youtube.com/watch?v=1NgUdP4KQ8k
+MDFC Variant - Pinnacle Monk//Mystic Peak
 
-** Dualcaster Mage **
+Goblin Engineer and Goblin Welder both work for this line as the thing you are swapping in and out is only 3 cmc, Sculpting Steel
 
-We all know the basic line of using a copy spell like Twinflame//Heat Shimmer//Molten Duplication on one of your creatures, holding priority and casting Dualcaster Mage however magda can make for some really interesting lines with dualcaster especially in conjunction with the new card Return The Favor.
+Setup
 
-Lines curtesy of Rust_ITG
+    Obtain infinite untapped treasures.
+    Tutor Maskwood Nexus & Clock of Omens (if not on field already).
+    Tutor Goblin Welder
+    Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
+    Activate Mirror of the Forebears to become Goblin Welder or Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
+    Tutor any artifact that can remove itself from play; Such as Lotus Petal, Jeweled Lotus
+    Activate Lotus Petal//Jeweled Lotus to add mana and put it in the graveyard.
+    Tutor Pinnacle Monk // Mystic Peak
+    Draw loop of choice until you find a burn spell such as Lightning Bolt
+    Tutor Liquimetal Torque if not on field or Activate Clock of Omens using two Treasure untapping Liquimetal Torque
+    Activate Liquimetal Torque targeting Pinnacle Monk // Mystic Peak
+    Cast and resolve a burn spell such as Lightning Bolt
+    Tutor Sculpting Steel entering as a copy of Pinnacle Monk // Mystic Peak ETB putting Lightning Bolt to hand.
 
+Loop
+
+    Cast and resolve a burn spell such as Lightning Bolt holding priority.
+    Activate Cursed Mirror copy of Goblin Welder targeting Jeweled Lotus and Sculpting Steel
+    Tap 2x Treasure to activate Clock of Omens targeting Cursed Mirror copy of Goblin Welder to untap it.
+    Activate Cursed Mirror copy of Goblin Welder targeting Sculpting Steel and Jeweled Lotus.
+    Sculpting Steel entering as a copy of Pinnacle Monk // Mystic Peak ETB putting Lightning Bolt to hand.
+    Tap 2x Treasure to activate Clock of Omens targeting Cursed Mirror copy of Goblin Welder to untap it.
+
+Dualcaster Mage
+
+We all know the basic line of using a copy spell like Twinflame//Heat Shimmer//Molten Duplication on one of your creatures, holding priority and casting Dualcaster Mage however Magda can make for some really interesting lines with dualcaster especially in conjunction with the new card Return The Favor.
+
+Lines courtesy of Rust_ITG
 Dualcaster + Roaming Throne +Copy Spell + Bolt
 
 Setup
@@ -1626,9 +1621,7 @@ Loop
     Resolve Lightning Bolt copy dealing 3 damage to an opponent
     Resolve Copy of the Copy Spell targeting Dualcaster Mage
 
-https://www.youtube.com/watch?v=J1-2BOYnrTI
-
-** Dualcaster Mage + Roaming Throne + Bolt + Zoyowa's Justice **
+Dualcaster Mage + Roaming Throne + Bolt + Zoyowa's Justice
 
     Obtain Infinite Treasures
     Tutor Roaming Throne and Maskwood Nexus and any stax that will not let opponent's interact easily.
@@ -1641,12 +1634,16 @@ Loop
 
     Dualcaster Mage ETB happens twice because of Roaming Throne. Target both the Zoyowa's Justice and Lightning Bolt
     Resolve Lightning Bolt copy dealing 3 damage to an opponent
-    Resolve Zoyowa's Justice putting Dualcaster Mage in your library and hold priority on the Discover trigger for the second half of the spell's resolution.
-    Tutor Dualcaster Mage
+    Resolve Zoyowa's Justice putting Dualcaster Mage in your library. Discover 3.
+    Tutor Dualcaster Mage if Discover does not hit DCM otherwise re-cast DCM with the Discover from Zoyowa's Justice resolution.
 
-https://www.youtube.com/watch?v=dqbitucA5S8
+As long as you have things in your deck that are >3 cmc still in there then you're able to do this loop no problem entirely deterministically.
 
-** Dualcaster + Sculpting Steel + Welder/Engineer - Burn & Life Loss Variants **
+If you want extra safety then use Cursed Mirror in addition to Dualcaster Mage by leaving DCM on field and having Cursed Mirror enter as a copy of him. Zoyowa's Justice works on artifacts and creatures as so as long as Cursed Mirror is not in your graveyard or exiled then this makes the line much safer.
+
+This line can also be done by tutoring to a specific integer that The One Ring can draw out of your deck to put you at 0 cards. This way when your copy of Zoyowa's Justice resolves it will always discover into DCM which lets you finish the loop. This works with limited untapped treasures and no Maskwood Nexus
+
+Dualcaster + Sculpting Steel + Welder/Engineer - Burn & Life Loss Variants
 
 Goblin Engineer and Goblin Welder both work for this line as the thing you are swapping in and out is only 3 cmc, Sculpting Steel
 
@@ -1660,8 +1657,7 @@ Setup
     Tutor Maskwood Nexus & Clock of Omens (if not on field already).
     Tutor Goblin Welder
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Activate Liquimetal Torque targeting Goblin Welder or activate Mirror of the Forebears to become Goblin Welder
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder
+    Activate Mirror of the Forebears to become Goblin Welder or Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Tutor any artifact that can remove itself from play; Such as Lotus Petal, Jeweled Lotus
     Activate Lotus Petal//Jeweled Lotus to add mana and put it in the graveyard.
     Tutor Dualcaster Mage
@@ -1687,8 +1683,7 @@ Setup
     Tutor Maskwood Nexus & Clock of Omens (if not on field already).
     Tutor Goblin Welder
     Tutor Liquimetal Torque or Mirror of the Forebears naming goblin (or dwarf if you have maskwood out).
-    Activate Liquimetal Torque targeting Goblin Welder or activate Mirror of the Forebears to become Goblin Welder
-    Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder
+    Activate Mirror of the Forebears to become Goblin Welder or Tutor Cursed Mirror, enter as a copy of artifact Goblin Welder and use Liquimetal Torque to make the Cursed Mirror copy into an artifact.
     Tutor any artifact that can remove itself from play; Such as Lotus Petal, Jeweled Lotus
     Activate Lotus Petal//Jeweled Lotus to add mana and put it in the graveyard.
     Tutor Dualcaster Mage
@@ -1707,15 +1702,12 @@ Loop
     Sculpting Steel entering as a copy of Dualcaster Mage ETB copying ETB copying Return The Favor with the mode that lets you copy a triggered ability targeting the God-Pharaoh's Statue trigger causing 1 loss of life to all opponents
     Tap 2x Treasure to activate Clock of Omens targeting Cursed Mirror copy of Goblin Welder to untap it.
 
-https://www.youtube.com/watch?v=KX5yf7fSINM
-
-** Other **
+Other
 
 This section assumes you understand the previous sections.
 
 It will be updated as more things get found and will also provide gimmick wins.
-
-** Return The Favor Their Thoracle ETB **
+Return The Favor Their Thoracle ETB
 
     Thoracle ETB on the stack
     Generate infinite untapped treasures
@@ -1724,8 +1716,7 @@ It will be updated as more things get found and will also provide gimmick wins.
     Cast Return the Favor copying their Thassa's Oracle ETB trigger
 
 Depending on how many cards like Pyroblast you are running you will have counters available to be used on any interaction attempt.
-
-** Agatha's Soul Cauldron + Goblin Welder + Battered Golem + Eriette's Tempting Apple + Maskwood Nexus **
+Agatha's Soul Cauldron + Goblin Welder + Battered Golem + Eriette's Tempting Apple + Maskwood Nexus
 
     Obtain Infinite Untapped Treasures
     Tutor Maskwood Nexus, Goblin Welder, Battered Golem, Agatha's Soul Cauldron and Dwarven Scorcher
@@ -1740,7 +1731,94 @@ Loop
     Eriette's Tempting Apple ETB targeting Battered Golem
     Activate Eriette's Tempting Apple sacrificing it and draining an opponent for 3.
 
-** Staple Cards & Pseudo Staples **
+Dualcaster Mage//Pinnacle Monk + Roaming Throne + Zoyowa's Justice//Chaos Warp + Bolt Effect (Sans Maskwood)
+
+This line wins through Grafdigger's Cage and wins at instant speed with Dualcaster Mage, or on your own turn with Pinnacle Monk // Mystic Peak. The Pinnacle Monk // Mystic Peak variant is normally unnecessary since instead of doing this you can just draw loop into Magda, The Hoardmaster and win through combat instead, but the line does exist.
+
+Make sure drannith is killed before you resolve any copy of Zoyowa's Justice as it stops this combo, or anything else that prevents things from being cast from exile. Chaos Warp dodges this requirement.
+
+Dualcaster Mage
+
+    Obtain Infinite Untapped Treasures
+    Tutor Roaming Throne if is not on the field and if it is tutor Sculpting Steel as a copy of Roaming Throne and name either Human (Dualcaster Mage) or Djinn (Pinnacle).
+    Tutor The One Ring, count the cards in your graveyard, in play and in your hand to figure out the amount of cards in your deck.
+    Tutor any stax that will not let opponent's interact easily and subtract it from that number. (Not Null Rod or Torpor Orb)
+    Determine how many draw loops is required to remove all cards from your deck. (Use Chart Below)
+    Draw Loop with The One Ring and Clock of Omens via Treasure until you reach zero cards in your library and all your spells in your hand.
+    Cast Zoyowa's Justice//Chaos Warp targeting anything on board and hold priority, then cast any Lightning Bolt effect holding priority.
+    Cast Dualcaster Mage.
+
+Loop
+
+    Dualcaster Mage ETB happens twice because of Roaming Throne. Target both the Zoyowa's Justice and Lightning Bolt
+    Resolve Lightning Bolt copy dealing 3 damage to an opponent
+    Resolve Zoyowa's Justice//Chaos WarpDualcaster Mage in your library.
+    Discover 3 allow you to cast Dualcaster Mage for free as he is the only thing in your deck at the resolution of Zoyowa's Justice. Chaos Warp will put it into play since he is the only thing in your deck.
+
+Pinnacle Monk
+
+    Obtain Infinite Untapped Treasures
+    Tutor Roaming Throne if is not on the field and if it is tutor Sculpting Steel as a copy of Roaming Throne and name either Human (Dualcaster Mage) or Djinn (Pinnacle).
+    Tutor The One Ring, count the cards in your graveyard, in play and in your hand to figure out the amount of cards in your deck.
+    Tutor any stax that will not let opponent's interact easily and subtract it from that number. (Not Null Rod or Torpor Orb)
+    Determine how many draw loops is required to remove all cards from your deck. (Use Chart Below)
+    Draw Loop with The One Ring and Clock of Omens via Treasure until you reach zero cards in your library and all your spells in your hand.
+    Cast and resolve Zoyowa's Justice//Chaos Warp targeting anything on board and put it back into play via Chaos Warp resolution or via casting it from Discover X via Zoyowa's Justice
+    Cast and resolve Lightning Bolt targeting an opponent.
+    Cast Pinnacle Monk // Mystic Peak ETB happens twice because of Roaming Throne. Target both the Zoyowa's Justice and Lightning Bolt in your graveyard.
+
+Loop
+
+    Cast and resolve Lightning Bolt targeting an opponent.
+    Cast and resolve Zoyowa's Justice//Chaos Warp targeting Pinnacle Monk // Mystic Peak and put it back into play via Chaos Warp resolution or via casting it from Discover X via Zoyowa's Justice
+    Discover 5 allow you to cast Pinnacle Monk // Mystic Peak for free as he is the only thing in your deck at the resolution of Zoyowa's Justice. Chaos Warp will put it into play since he is the only thing in your deck.
+
+Chart
+
+TOR Use #|Total Cards Drawn.
+
+If you've played TOR in the game and are at a specific number used already, you can either Sculpting Steel to reset it to 0 for safety, or math things out.
+
+Opponents shouldn't normally have a problem with an explained shortcut to where your deck is empty and explain that GPS and potentially other backbreaker pieces are going to be in play for them to fight through as well as all of your potential interaction (flare of duplication, REB, Return The Favor, Swat and potentially pyroblast and tibalt's depending on decklist).
+
+1 | 1
+2 | 3
+3 | 6
+4 | 10
+5 | 15
+6 | 21
+7 | 28
+8 | 36
+9 | 45
+10 | 55
+11 | 66
+12 | 78
+13 | 91
+
+Below example video is of Pinnacle Monk.
+Pinnacle Monk + Maskwood Nexus + Roaming Throne + Bolt + Zoyowa's Justice//Chaos Warp
+
+Replace Zoyowa's Justice with Chaos Warp as an alternative variant.
+
+    Obtain Infinite Treasures
+    Tutor Roaming Throne and Maskwood Nexus and any stax that will not let opponent's interact easily.
+    Draw Loop of your choice until you have Lightning Bolt and Zoyowa's Justice
+    Cast and resolve Zoyowa's Justice targeting any of your creatures or artifacts with >=1 CMC/Mana Value
+    Cast and resolve Lightning Bolt
+    Tutor Pinnacle Monk // Mystic Peak
+
+Loop
+
+    Pinnacle Monk // Mystic Peak ETB happens twice because of Roaming Throne. Target both the Zoyowa's Justice and Lightning Bolt in your graveyard to put them to hand.
+    Cast and Resolve Lightning Bolt dealing 3 damage to an opponent
+    Cast and Resolve Zoyowa's Justice putting Pinnacle Monk // Mystic Peak in your library. Discover 5.
+    Tutor Pinnacle Monk // Mystic Peak if Discover does not hit Pinnacle Monk otherwise re-cast Pinnacle Monk with the Discover from Zoyowa's Justice resolution.
+
+As long as you have things in your deck that are >5 cmc still in there then you're able to do this loop no problem entirely deterministically.
+
+If you want extra safety then use Cursed Mirror in addition to Pinnacle Monk // Mystic Peak by leaving Pinnacle Monk on field and having Cursed Mirror enter as a copy of him. Zoyowa's Justice works on artifacts and creatures as so as long as Cursed Mirror is not in your graveyard or exiled then this makes the line much safer.
+
+Staple Cards & Pseudo Staples
 
 These lists were agreed upon by a few notable pilots in the Open Hands CEDH community. There is ALWAYS room for interpretation and these types of things will almost always be opinion based so take it with a grain of salt.
 Staples
@@ -1791,7 +1869,7 @@ Land
     Urza's Saga - Go get your Universal Automaton. Sol Ring, Mana Crypt, Grafdigger’s Cage or other important 0/1 drops.
     Volatile Fault - Essentially this is a Wasteland that generates you a treasure when used against a majority of 4+ color decks as they aren’t normally on basic lands.
 
-** Pseudo Staples **
+Pseudo Staples
 
 Creatures
 
@@ -1804,7 +1882,7 @@ Artifacts
 
     Damping Sphere - Shuts down lands that make more than one mana such as Gaea's Cradle while also making it potentially difficult for some decks to combo off especially decks that "Storm Off" or cast a lot of spells during their combos.
     Grafdigger's Cage - Important way to stop to field tutors and abilitiys such as Winota, Joiner of Forces, most green tutors and notable shuts down casting things from grave which stops many lines such as Underworld Breach
-    Mana Vault - Mana acceleration when you need it most. A lot of variants of the deck end up in a "Draw > Go" play patern so this can get uptapped more often than you'd think and it gives us acces to casting our 4+ CMC artifacts much earlier.
+    Mana Vault - Mana acceleration when you need it most. A lot of variants of the deck end up in a "Draw > Go" play pattern so this can get uptapped more often than you'd think and it gives us access to casting our 4+ CMC artifacts much earlier.
     Maskwood Nexus - Allows us to tutor out any creatures from our deck with our commander and is a potential combo outlet to make infinite creatures.
     Mirror of the Forebears - This is a creature copy spell that also makes whatever you're copying an artifact in addition to what it's other types. Also acts as a way to potentially combo off through Grafdigger's Cage
     Spine of Ish Sah - Catch all removal piece that can help dig out of very deep holes especially in combination with Sculpting Steel. It is also a combo piece that lets you remove all of your opponent's permanents.
@@ -1829,7 +1907,7 @@ Lands
     Shinka, The Bloodsoaked Keep - This is a way to help deter blockers and help opponents get through or surprisingly help remove a problematic creature another opponent unwisely blocked with. Also has profitable interaction with Magda, The Hoardmaster and Phantasmal Image
     Sokenzan, Crucible of Defiance - Generates two bodies that can be dwarves with Maskwood Nexus that generates red baseline.
 
-** Card//Combo Packages; How They Interact & Reasoning To Potentially Play Them (WIP) **
+Card//Combo Packages; How They Interact & Reasoning To Potentially Play Them (WIP)
 
 This section will be explaining the functionality of some specific cards as well as the reasoning behind why it may be in some decks, the cards that go along with one another and how those sets of cards overlapping effects deckbuilding.
 
@@ -1839,9 +1917,8 @@ There are some exceptions to the rule where sometimes cards are seldom seen with
 
 It is being written elsewhere and being ported over. The current format is not set in stone.
 
-Example:
-
-*** Elixir Of Immortality "Package" ***
+Example;
+Elixir Of Immortality "Package"
 
 Base Card
 
@@ -1888,8 +1965,7 @@ You may also feel that you have enough outs to deal with situations where Grafdi
 You may also have enough win conditions already that adding Elixir of Immortality acts as combo line "bloat" rather than being efficient. Especially for decks on cards like Terror of the Peaks // Scourge of Valkas // Realm-Scorcher Hellkite
 
 However Elixir of Immortality does add a plethora of lines for both combo starters and combo enders. It adds a layer of safety that may be more valuable than 1-2% win percentage similar to reasoning you might run Spine of Ish Sah regardless of the packages in your deck.
-
-** Goblin Welder//Goblin Engineer "Package" **
+Goblin Welder//Goblin Engineer "Package"
 
 Base Cards
 
@@ -1953,11 +2029,11 @@ They also tend to run a more streamlined approach of "Stax the game and give mys
 
 An example of such a deck can be seen here in a video I've made highlighting Gruulstavo's list;
 
-https://www.youtube.com/watch?v=ow4W8y19hmY
+Null Rod "Package"
 
-** Null Rod "Package" **
+Base Cards
 
-Base Cards Null Rod is a house of a card.
+Null Rod is a house of a card.
 
 It interrupts so many game plans as mana rocks are an integral part of CEDH and there are also plenty of artifact abilities that also can cause some issues. This includes stopping our own "main" combo line in Clock of Omens.
 
@@ -1986,7 +2062,7 @@ Package Cards Nullrod
 
 Example Package Used In Actual Deck
 
-Null Rod + Goblin Engineer] + Battered Golem + Maskwood Nexus + Professional Face-Breaker + Plundering Barbarian + Dwarven Bloodboiler + Spine of Ish Sah + Roaming Throne
+Null Rod + Goblin Engineer + Battered Golem + Maskwood Nexus + Professional Face-Breaker + Plundering Barbarian + Dwarven Bloodboiler + Spine of Ish Sah + Roaming Throne
 
 Cards here being added to the deck that are not already considered "Staples"; Null Rod, Goblin Engineer, Battered Golem, Maskwood Nexus, Dwarven Bloodboiler, Spine of Ish Sah
 
@@ -2011,3 +2087,427 @@ So this card is only really usable if you're on a lot of packages with overlap a
 Even some hard stax decks do not run this card because of how game warping it can be to our normal play patterns that allow us to progress towards a win more safely and easily.
 
 This card is back breaking for opponents though and if you're up to the task learning to play around it is quite rewarding as long as your deck can accommodate the requirements necessary.
+Maskwood Nexus
+
+Base Card
+
+Maskwood Nexus is an integral part of so many things that can go into Magda. One of it's main functionalities is to allow for tutoring of creatures of any type since all creatures are also considered dragons and qualify for magda's ability. It also functions as a potential combo piece to make infinite creatures and enabling some ways to make infinite treasures that are not otherwise possible.
+
+While there are many packages you can just throw maskwood in alongside to generate extra potential value it also does have it's own packages.
+
+Package Cards
+
+    Axgard Cavalry - This is primarily used as combo piece as a way to generate haste for any Shapeshifter generated with the Maskwood Nexus in combination with Clock of Omens and Liquimetal Torque
+    Battered Golem - Backup line to make infinite untapped treasures.
+    Clock of Omens - Important combo piece for many lines including the ways to end games alongside Maskwood Nexus normally including Axgard Cavalry
+    Dockside Extortionist - Being able to tutor this out when Maskwood Nexus is on field provides so much value.
+    Dualcaster Mage - There are quite a few combos that can be done with Dualcaster Mage when tutored and Maskwood Nexus enables these lines.
+    Dwarven Bloodboiler - There to act as a way to win alongside Battered Golem and Maskwood Nexus through Null Rod effects.
+    Goblin Engineer - Maskwood Nexus enables combo lines that end the game in conjunction with Goblin Engineer and cards that are normally part of packages alongside that cade.
+    Goblin Welder - Maskwood Nexus enables combo lines that end the game in conjunction with Goblin Welder and cards that are normally part of packages alongside that cade.
+    Inkmoth Nexus & Other animated artifact Lands - Treasure generation is important and being able to enable your Clock of Omens combo by animating a land is quite powerful.
+    Magda, The Hoardmaster - Mostly a way to allow this card to be tutored however it lets the dragons generated tap for treasures via Maskwood Nexus to win at instant speed instead of by attacking if for some reason someone has a Cyclonic Rift or something.
+    Scourge of Valkas - Win condition through Null Rod in conjunction with the ability to tutor everything out of your deck with Maskwood Nexus
+    Xorn - The original way to bridge the gap into untapped treasures post Clock of Omens combo in conjunction with Maskwood Nexus, just a great value piece in general and a backup if Roaming Throne is exiled or something.
+
+Example Package Used In Actual Deck
+
+Normally I would list out a practical set of cards here however because Maskwood Nexus gets slotted into so many packages its not really fair so I'll just list a few and the reasons they are normally added. Things like Dockside Extortionist and Magda, The Hoardmaster just get so much value by becoming tutorable targets they are able to be thrown into any package. Most importantly basically everything that goes alongside this outside of the packages below are just staples in the deck.
+
+Maskwood Nexus + Dwarven Bloodboiler + Battered Golem + Maskwood Nexus - Generic secondary infinite treasure combo line that still functions through Null Rod effects.
+
+Maskwood Nexus + Liquimetal Torgue + Axgard Cavalry + Clock of Omens - Combo line to win through combat damage with infinite hastey Shapeshifters.
+
+Maskwood Nexus + Liquimetal Torgue + Goblin Welder//Goblin Engineer (or both) + Clock of Omens + Cursed Mirror + Sculpting Steel - Required pieces to win with Welder/Engineer via recursion loops.
+
+Maskwood Nexus + Roaming Throne + Dualcaster Mage + Return The Favor + Lightning Bolt + Zoyowa's Justice - Many individually strong pieces that happen to go together into a game ending combo.
+
+Tertiary/Potential Overlap Card Example
+
+Eriette's Tempting Apple
+
+This card is mostly there to provide a backup way to give haste to your Goblin Engineer, Goblin Welder and Axgard Cavalry when on variants of the deck that do not use Elixir of Immortality as often times Cursed Mirror is likely used in other ways and there are no ways to effectively get this already used artifact back onto the field in most lists so a backup means of haste generation is essentially required to not limit yourself if the recursion lines are some of your main win conditions as you lose draw loop wins via Twinshot Sniper or burn spells as a backup win condition when not on elixir.
+
+Null Rod
+
+If you're not on backup lines that function through your own Null Rod such as the one including Maskwood Nexus, Battered Golem] and Dwarven Bloodboiler you simply cannot "combo off" through your own stax and have to pivot into beat-down plans which many variants of the deck do not run the optimal cards to transition into. This card is almost exclusively run in mid-range lists since they can afford to give up some alternative stax pieces to add in the required pieces to still potentially present wins with this in play.
+
+Why Might You Avoid This Card/Package Type
+
+With the inclusion of Magda, The Hoard Master and the ability to draw your deck still in a few ways ways, even if you are not able to perform a draw loop you still have a combat win available to you since her ability is a activated ability and can be done through summoning sickness.
+
+Being able to remove pieces that are required for secondary treasure generation methods lets you focus on a single streamlined gameplan and combo line instead using Clock of Omens. This can be quite risky but the list shown in an above video by Gruulstavo shows that this is a more than viable way to build the deck.
+
+Since you essentially can cut so much "Fat" from the deck by taking this approach it opens you up to potentially higher card quality especially if you are on a hard stax gameplan.
+The "Turbo Package" - Mana & Artifact Dwarves
+
+This section's structure is going to be a little different. Instead of going through a single card and how things interact with that we're going to look at a list of cards that are most commonly associated with "Turbo" variants of the deck.
+
+Turbo is looking to race to the finish and the easiest way to do that is by having access to mana and ways to force single activations from Magda being able to allow a win attempt.
+
+Package Cards
+
+    Adaptive Automaton - Artifact dwarf that helps make our opponents need to work a bit harder with their Orcish Bowmaster to remove our commander.
+    Ashnod's Transmogrant - The floor on this card is an artifact that can help restart Clock of Omens loop and the ceiling is a game win since it lets us turn any dwarf into an artifact in addition to its other types.
+    Blades of Velis Vel - This sees a lot less plays these days but its a way to turn any vehicle or artifact creature like Battered Golem into a dwarf to allow a win attempt.
+    Bloodline Pretender - Uncommonly seen artifact dwarf, normally only seen when stacking these types of creatures and effects for redundancy.
+    Chrome Mox - Mana rock that requires card disadvantage in order to stick on the board. This is a lot easier to make happen than Mox Diamond but depending on the list what you're getting rid of to have this in play can feel very bad.
+    Gamble - This is almost always an attempt to go get Dockside Extortionist however it requires going down two cards (the cast and the pitched card) so there is some inherent risk to using it and a very large cost if whatever you get is interacted with which can result in huge tempo loss.
+    Jeska's Will - Getting 7 mana to help cast a bunch of things is great but outside of very specific things or very specific hands its hard to make work the best. Theres also the risk of not having the mana required to cast relevant things exiled if you are able to use both effects. The biggest downside is that this is normally heavily telepgraphed and can eat counters you might want used elsewhere.
+    Liquimetal Coating - Turns anything into an artifact, so this lets us try to combo off or use shatters to help remove problematic pieces or even destroy lands keeping players in the game.
+    Liquimetal Torque - Mana rock that lets us use shatters to remove problematic nonland permanents or a way to let us potentially present win attempts. Important staple card that also enables combos through Grafdigger's Cage
+    Mana Vault - Seen a lot more in every variant of the deck these days its a good way to help power out strong cards like The One Ring in early turns or even allow for earlier access to things like Blood Moon which can help shut down certain deck's entire ability to play the game if they kept the wrong hand.
+    Metallic Mimic - One of the cheaper to cast artifact dwarves however it's ability forcing creatures to come down after it in order to get the effect makes it not worth running for many deck variants. However variants that want more consistency in their Artifact Dwarves being on field this card is commonly included.
+    Mirror of the Forebears - Artifact dwarf that lets you win through Grafdigger's Cage so while its a pseudo staple it very much adds to that redundancy for turbo variants.
+    Mox Diamond - Mana rock that requires card disadvantage in order to stick on the board. This is useful in very specific hands and normally most useful when you're on a 6 or 7 card starting hand.
+    Proteus Machine - This is only seen in turbo, its a do-nothing morph card that requires being flipped to become a dwarf.
+    Rite of Flame - Ritual that trades card disadvantage for mana. Unfortunately this is counterable.
+    Roaming Throne - This acting as its own way to turn the corner into infinite untapped treasures from Clock of Omens loop while being an artifact dwarf is enough alone but when not doing that it just acts as another copy of Xorn in regards to treasure generation.
+    Simian Spirit Guide - Uncounterable way to generate mana as its an exile effect. Card disadvantage still but better than Rite of Flame because of that fact.
+    Universal Automaton - Staple, the "best" artifact dwarf as its also fetchable off of Urza's Saga
+
+Example Packages Used In Actual Deck
+
+Rite of Flame + Simian Spirit Guide + Jeska's Will + Mana Vault + Mox Diamond + Chrome Mox - Used when early ramp is valued over all else.
+
+Adaptive Automaton + Ashnod's Transmogrant + Bloodline Pretender + Metallic Mimic + Mirror of the Forebears + Liquimetal Torque + Roaming Throne + Universal Automaton - Every non-useless artifact dwarf available.
+
+Why Might You Avoid This Card/Package Type
+
+The amount of artifact dwarves you want to run heavily depends on how consistent you want to have access to them. It also depends on your personal approach of the value of card quality over redundancy.
+
+Examples:
+
+Number in deck | % Chance to be seen in first 10 cards| Chance to get within 2 mulligans (going down to 6)
+
+    10 | 67.4% | 90%
+    9 | 63.3% | 87%
+    8 | 58.7% | 83.9%
+    7 | 53.7% | 79.6%
+    6 | 48.1% | 74.2%
+    5 | 42% | 67.4%
+
+The minimal amount of "artifact dwarves" you will normally see in ANY deck is 5. Universal Automaton, Adaptive Automaton, Roaming Throne, Liquimetal Torque and Mirror of the Forebears being the most common 5th choice but sometimes you'll see something else.
+
+These numbers are important because while the consistency of seeing an artifact dwarf may seem like it increases win percentage it is not always the key factor in determining a win as there is actually a decent amount of fragility in your Clock of Omens loop if your opponents know where to interact and have enough single target interaction to do so or you don't have enough artifacts to protect it. The practical difference between 5 and 6 is pretty low for the gameplans of decks that don't necessarily want to always be the first or even directly second to force a "make em have it" situation.
+
+The higher number of artifact dwarves you're on the more consistent you'll see them, obviously. If you want to present wins as fast as possible at the risk of more consistently making yourself a visible threat its a viable choice but sometimes 4-5 card slots being made available can make your deck more resilient and either give you extra outs to problematic situations or give you extra potential lines if your first win attempt is prevented.
+
+As to the mana ramp stuff... its entirely based on personal preference. At least in regards to things like Mox Diamond and Chrome Mox and your willingness/ability to pitch cards for early mana. Things like Simian Spirit Guide and Jeska's Will have been seeing less play even in turbo variants of the deck, sometimes you just don't want to be emptying your hand as it makes sandbagging interaction or bluffing interaction much more difficult and the types of hands you need to have in order to really force those early wins that absolutely require that mana are low probability to begin with. When i say low probability that number varies between 7% and 20% depending on the amount of cards you're running with effects like Jeska's Will or Simian Spirit Guide and if you're considering just your opening hand or the first 3 turns on the game as well which makes them feel statistically insignificant to many pilots when you can add other things that may have more impact.
+Tel Jilad Stylus Package
+
+Base Card
+
+Tel-Jilad Stylus is a card that for a while had some decent support behind it. It lets you tuck things safely back into your deck that are being targeted by removal or simply to allow you to pull said card back out with your commander's activated ability.
+
+There in lies the problem... most of the time the thing that is going to be targeted on board is our commander and putting our commander back in our deck does nothing for us unless we specifically have activated her tutor ability or can in response while simultaneously having Maskwood Nexus in play. Otherwise when we put her in the deck it just allows us to put her back in the command zone which there are very few situations where the is more beneficial than letting an opponent just remove it... such as Gilded Drake or in casual things like Oubliette.
+
+This card also requires Clock of Omens to act as a combo piece and also requires infinite untapped artifacts to do so making it very specific as far as the win conditions you can run go. The upside is that it avoids using the graveyard so things like Rest In Peace don't ruin your day... but we have ways we can build our deck to have answers to things like this and Dauthi Voidwalker.
+
+Originally this was seen as a potential way to win through Grafdigger's Cage but has since been determined that it is normally unnecessary as there are a plethora of other ways to either play through it or remove it adding very little value by running Tel-Jilad Stylus
+
+While all of this is true its still a perfectly viable way to build the deck and the win-conditions you wish to use.
+
+Package Cards
+
+    Knight Paladin - 6/6 trampler that has crew 1 and ETB deals 4 damage to each opponent. Even without the ability to go infinite for untapped treasures theres enough artifacts to let you kill all opponents with this in most situations. This works through Grafdigger's Cage as a tutor target which is the important part.
+    Legion Extruder - ETB 2 damage to any target. It's tap ability lets us use this as an engine to generate blockers/attackers for mana and treasures we've made. Works through Grafdigger's Cage as well.
+    Scourge of Valkas - ETB deal 1 damage to any target. Works way better with Maskwood Nexus as outlined in the combo section. Works through Grafdigger's Cage as well.
+    Spine of Ish Sah - ETB destroy any permanent... hard to play the game with permanents.
+    Terror Of The Peaks - Lets us use any other artifact creature to win via infinite ETBs.
+    The One Ring - Draw loop that doesn't really let us win with anything new unless combined with Elixir of Immortality, but Elixir also has its own functional draw loops.
+    Twinshot Sniper - ETB deal 2 damage to any target, does not win through Grafdigger's Cage.
+
+Example Packages Used In Actual Deck
+
+Tel-Jilad Stylus + Spine of Ish Sah + The One Ring + Twinshot Sniper
+
+This package gives you an out through your own cage with spine, a draw loop with TOR and twinshot as a way to end the game.
+
+Why Might You Avoid This Card/Package Type
+
+This card is almost entirely just a combo card and a way to potentially protect your Clock of Omens. Yes it helps get wins through Grafdigger's Cage but Elixir of Immortality can do the same in combination with other cards.
+
+Elixir of Immortality does everything this does really and most situations can be fought through with Elixir in combination with other cards that are normally staple to the deck or part of packages that go along with elixir that may be in the deck anyway. Elixir also provides backup lines for making infinite treasures where Tel-Jilad Stylus does not allow for any new ways to make infinite untapped treasures.
+
+The only time this might be worth running is if you are opting for one of those entirely Clock of Omens centric builds that end up leaning more towards the hard stax variants.
+Beginner/Budget Deck Lists
+
+These lists will be updated ~1 week after release of new sets. They will all try to be as close to the number listed but some cards just aren't worth cutting just to save $2 or whatever. That being said if you have a specific budget requirement for an event you are taking part in drop into the Magda CEDH discord server and someone will be glad to help you brew it to those requirements.
+
+    $50-60 "High Power Casual" Pseudo Turbo: https://www.moxfield.com/decks/bA8tKIshv02hFMZFsmB4gg
+    $~100 "High Power Casual" Mid-Range: https://www.moxfield.com/decks/zXCj5_F4xka1MglE-CJGlQ
+    $~250 Mid-Range Stax (No Dockside): https://www.moxfield.com/decks/jmB0fTd1mE-AMpp8pR0CJA
+    $~250 Mid Range Dockside Variant: https://www.moxfield.com/decks/uO0PxmLtbUCAvYVaeXcLww
+    $~500 Mid-Range: https://www.moxfield.com/decks/cUZ6qZu2v0mPbXHXf8Qgng
+
+Frequently Asked Questions
+Question 1: Why don’t we run X piece of “Fast Mana”?
+
+Why are some pilots not running Mox Amber? Mox Diamond? Chrome Mox? Mana Vault? Jeweled Lotus? Simian Spirit Guide? Rite of Flame?
+
+This question, or these questions I should say get asked quite often because the variance in fast mana played among decks is quite high and the reasoning to include or leave things out is not cut and dry.
+
+This has a lot more to do with deck building philosophies and in most cases is a personal preference oriented decision rather than one that purely numbers can dictate. How things “feel” to the individual pilot matters and how they want their deck to be tuned matters just as much, be it that they want to be turbo, mid range, hard stax etc.
+
+Mox Amber
+
+Mox Amber
+
+Most variants of the deck as it currently stands do not run many legendary creature outside of our commander, most lists are now off of Gimli of the Glittering Caves and Glóin, Dwarf Emissary and seemingly only “turbo oriented” lists are still on Ragavan, Nimble Pilferer. This means on average you’re on 1-3 legendary creatures with the only one that seemingly has been adopted by a majority of lists being Magda, the Hoardmaster. The severe lack of legendary creatures makes it very unlikely you’re able to use Mox Amber as a means of recasting your commander, which is the main downside to this particular piece of fast mana.
+
+Regardless of deck variant you have a 7% chance to get it in your opening hand excluding mulligan math, when combined with the chance to get a legendary creature when most lists are only running one or two ends up being close to 1% if you push out the amount of cards seen to ten which includes the first few turns of the game. The more legendaries you run the higher this number becomes but it's still relatively insignificant since it only jumps to as high as 4% if you’re running all potentially relevant legendary creatures.
+
+Although not being able to use this to recast our commander is a huge downside, the upside of it being active while our commander is so readily available most games can be hard to ignore for some pilots, especially if they are on “faster” deck variants. While that can be very useful we are also mono-red so our lack of card draw also must be considered when thinking about how important that extra mana may be going into the mid game if its not going to help us recast our commander, but even then a majority of lists are still running enough interaction that has a low mana value (1-2) that a single extra mana available can in some situations really make a difference.
+
+Magda is the most likely thing to be removed, which is very relevant to how often Mox Amber is going to be active and must be taken into heavy consideration especially if the meta is running more single target removal in its current iteration.
+
+At the very least this is a 0 mana artifact that can act as a part of protecting our Clock of Omens combo though. So even if it doesn’t help us re-cast our commander when we do have her out and we are attempting to combo off with Clock of Omens this might also put you over the amount of artifacts required on field to re-start your loop and win over the top of their interaction attempt.
+
+Chrome Mox
+
+Chrome Mox
+
+The main downside to this is that you must pitch a red card. That being said with the release of Modern Horizons 3 we got two more MDFCs that will likely end up in most variants of the deck making our density of red cards that we “can do without” slightly higher.
+
+Part of the issue though is that the card disadvantage you get from playing this can hurt quite bad, maybe not quite as bad as pitching Force of Will to your Gemstone Caverns but because of our deck’s main game plan it requires very specific starting hands for this to not feel like a “lesser of two evils” situation when choosing things to imprint. Interaction is very important for us to make sure that pesky Opposition Agent or Drannith Magistrate doesn’t just shut us out of participating in the game or at the very least make it much harder to win. Our creatures are very important as they are the main way we generate the resources we need in order to get to the point where we can combo off and win and our Artifacts with the exception of Cursed Mirror don’t fit the bill… and artifacts can’t be used as an imprint target for Chrome Mox anyway even if they have a “red pip”.
+
+That being said, most pilots agree that this is a “necessary evil” to maintain the ability to still have the turbo style starting hands available in more combinations of cards. Afterall most decks are on 40+ red cards unlike our land count which is much lower by comparison.
+
+At the very least this is a 0 mana artifact that can act as a part of protecting our Clock of Omens combo though.
+
+Mox Diamond
+
+Mox Diamond
+
+This card is a lot harder for some pilots to reason themselves into playing.
+
+The main reason for this is that you must discard a land in order to turn this on otherwise it goes straight to the graveyard via state based action.
+
+Most decks are on 25-31 lands so depending on the rest of your starting hand it may potentially be difficult to warrant going down the land in order to have an artifact that can be destroyed by someone’s Gorilla Shaman or Dauntless Dismantler. While that sorta artifact destruction isn’t very common in the format there are still some decks that you need to worry about it being a potential casualty of war… mostly to decks running Dauntless Dismantler as this shares a mana value with our treasure tokens, or green decks running things like Force of Vigor.
+
+Similar to Chrome Mox though it can indeed add some depth to your opening hands which are keepable and in the same vein are also more “turbo oriented.” This is the primary rationale behind running the card, that while going down a land can suck it can make a second seven or even your “six” more appealing with an extra land over the idea of going down further especially if the rest of the hand is able to set up a board state or interact quite a bit.
+
+Unlike Mox Amber and Chrome Mox though this cannot be cast and stay on the field regardless, but because of that it can be helpful for lines we may want to use when combined with Goblin Welder or Goblin Engineer to remove specific stax pieces we are running to allow a win such as Grafdigger’s Cage or Null Rod.
+
+Mana Vault
+
+Mana Vault is something that over time has seen more inclusions across all deck variants. I’d like to say its adoption rate is closer to 90% now compared to where it was a year ago.
+
+It essentially acts as a 1 cost ritual for 3 colorless which can be quite impactful since most deck variants sit around 30% of it’s cards as artifacts and about 10-15% more of it’s cards with at least 2 colorless required to cast it. It also lets you very easily cast up to a 5 drop on turn 2 with no other “fast mana” which can be important for some deck variants.
+
+All variants can use 2 colorless early in the game and the downside of losing 1 HP per turn cycle is next to nothing in CEDH since a majority of games end earlier rather than later as far as amount of turns go.
+
+So regardless of if you want to be playing early stax or simply getting some of your 3-5 drops out such as Magus of the Moon, Imperial Recruiter, Roaming Throne or The One Ring, Mana Vault lets you potentially get that push forward to either slow the game down or potentially present a win earlier.
+
+Some pilots don’t like this card though since so much of the deck itself is on the lower end CMC/Mana Value wise and playing on curve is more along the lines of what this deck ends up doing a lot of the time.
+
+Simian Spirit Guide & Rite of Flame
+
+Simian Spirit Guide has inherent upside over any of the other ritual cards that “give one extra mana” as it doesn’t actually get cast to generate the mana and rather just requires it be exiled. It does have the downside of being card disadvantage in exchange for a small bit of acceleration which may or may not help much depending on the hand you’ve been dealt. It also has the upside of being able to hide you have interaction available such as Red Elemental Blast
+
+Rite of Flame on the other hand requires it be cast and you have to use mana to cast it. This is susceptible to Mental Misstep which can be back breaking. It also has the downside of being card disadvantage as well, just like Simian Spirit Guide]. Unlike Simian Spirit Guide it is unfortunately sorcery speed only.
+
+These types of effects are good to get around early Drannith Magistrate as well and can help you play a 3 or 4 drop on turn 2. In general though it requires very specific types of hands to really be a potential optimal play. A generic downside though is that it gives opponents a potential opportunity for a 2-for-1 and telegraphs that what you are casting may be important or worth countering.
+
+Some pilots compare these cards to Lotus Petal and that's a great comparison especially to Simian Spirit Guide. The thing that Lotus Petal gives you that these other cards do not is that while it costing 0 is great the differentiator is that it can sit on field until it needs to be used, which can do something like bait a dockside earlier than someone might want to normally play it which we can then use as a copy target with our Cursed Mirror or effect like Heat Shimmer if you’re deck variant is on that. The biggest difference though is that this has positive interactions with both Goblin Welder and Goblin Engineer, primarily with Welder as it gives us another tutor target that can go right to the graveyard if we can sacrifice it to be used for our game ending combos. Petal also is part of combos with Elixir of Immortality to let us generate infinite untapped treasures through Grafdigger’s Cage. So Lotus Petal compared to the other two similar effects has so much more versatility and also dodges Mental Misstep.
+
+Jeweled Lotus
+
+Jeweled Lotus like Mana Vault has received a higher adoption rate over the past year.
+
+One of the biggest issues for our deck is Drannith Magistrate and Jeweled Lotus gives another way to potentially dodge the Drannith. Turn 1 Magda is not always the play we want to make because attacking with her has more inherent risk than many other commanders, at least if we don’t have access to fast mana to let us play multiple things on our first turn. We’d normally rather be playing a 1 drop dwarf or two that can be used to attack on the following turn without risking the ability to make treasure itself by losing our commander.
+
+Just like Mana Vault part of the reason this wasn’t really ran as often was that playing on curve tends to be what this deck tends to do more often than not and at first Magda wasn’t being removed nearly as consistently which made Jeweled Lotus less practical. That being said as time has gone on Magda is being removed on sight similar to Winota so potentially having access to Jeweled Lotus in the mid game can help quite a bit on top of the turn 1 play it can provide.
+
+This card also functions the same way as Lotus Petal in the above example in regards to the welder lines and being able to put itself into the graveyard after being tutored to allow easier access to something in the graveyard to start your combo.
+
+Jeska’s Will
+
+Jeska’s Will - “JWill”
+
+For a LONG time this was a staple to every variant of the deck. As time has gone there have been quite a few pilots that have opted to move away from JWill. Often the conversation comes up about why this card isn’t in some lists so I want to go through some of the reasoning as to why you may or may not run this.
+
+As far as reasons to run this it has two potentially powerful effects. Based on the amount of cards our opponents have in hand we make red mana equal to the highest amount. The floor for this is normally going to be a pay 3 mana to generate 4 with the ceiling being quite high as there are plenty of times where an opponent may have 10 or more cards in hand. This can provide quite a bit of acceleration and potentially let us dump our hand or gain access to the mana to play things like Portal to Phyrexia or God-Pharaoh's Statue. It also gives us the ability to exile 3 cards from the top of our library and give us access to playing them, when combined with the potential mana available from the other mode this can be quite the potential boon to our boardstate. Decks where these situations may be most fruitful are ones with a higher density of low cost stax pieces since you may potentially be able to generate a board state more beneficial to you.
+
+Like many red cards though there is some inherent risk behind playing Jwill. It attracts quite a bit of attention, especially when opponents have a lot of cards in hand, and because of the mode where it allows you to exile cards there is reason to counter the JWill itself rather than waiting for the next spell like you might for some tutors. When we are allowed to resolve this though if we are only making say 5 mana, if that's all that is available to us we very well might not be able to cast multiple things from exile and it's especially bad if we are exiling potentially important things… hitting both Maskwood Nexus and Clock of Omens as an example with minimal mana available is always a bad situation. You also only get access to both modes if Magda is out, so while it can be used to help generate the mana to re-play Magda if she's been killed a few times it still requires a very specific gamestate for that to be the case and the “floor” for the card doesn’t really do much for you since it potentially just turns into a more expensive Rite of Flame.
+
+Simply put the floor for the card is quite low (becoming Rite of Flame) and the ceiling, while it may seem high, is also way too gamestate specific. When you can get close to “optimal” value from playing it you’re also relying on luck in multiple facets just to get that “optimal” value. This card does not “win the game” as its ceiling unless you luck into an A+B combo with enough mana and the odds of that are VERY low.
+
+This card is also a relatively dead card if you’re either sandbagging playing your commander or if Drannith Magistrate is on the field.
+Question 2: What are Magda’s best win conditions/combos?
+
+Realistically this is a hard question to answer.
+
+A generic answer is going to be that the best win conditions are going to be the ones that can be added or exist in the way you’ve built your deck with as few combo specific cards as you can add. Most of the time this has to do with the “card packages” you opt into playing and how those packages allow you to present wins.
+
+Deck variants and how you want to play the deck itself change what is “best” as they have to be suited for your build and play style. Some pilots like the safety of Elixir of Immortality and others swear it is just losing overall card quality in the deck to run it.
+
+Some deck variants even go so far as to ignore all other “combo starters” outside of Clock of Omens and focus entirely around building board states where when that comes in it can be protected when you attempt your combo rather than having extra lines that may win through specific stax pieces like Null Rod where you NEED specific pieces to do so. This also means not running effective stax pieces (like that Null Rod) that may be hard to remove for this type of deck variant and specifically having tools that allow you to still protect your win attempt them with your chosen main combo line that lets you fight through extremely important stax pieces like Grafdigger’s Cage that shut down MANY win conditions in the format.
+
+The honest truth of the matter is… when you get to infinite treasures it doesn’t matter how you win, just that you can win. When you get to this board state ideally you should want at least two or three ways that can be pivoted into should somehow one be stopped but a lot of our win-cons have extra layers of protection you can add to ensure that you can win over the top of anything that isn’t at Split Second speed. Another reason we normally have multiple win-cons is because some combo lines simply do not work through specific stax pieces, so we either have to add extra lines to win through them or we have to add extra ways to help remove them.
+
+An example would be that you’re trying to win with Goblin Welder and Twinshot Sniper where someone tries to exile the twinshot sniper in your graveyard…you simply use your Clock of Omens to untap your Goblin Welder that has been made into an artifact since most lines require it to be an artifact already to function and activate the ability again over the top of their attempt to remove any piece that's part of the combo line.
+
+Winning with Magda in some ways can be a puzzle depending on the situation, but there's almost always a way to do it. If you can’t win at instant speed for some reason, you can almost always halt opponents from winning by bringing most of your stax pieces into play. Once those stax pieces are in play you can opt to “draw loop” to gain access to some interaction and they will have to fight through hell just to attempt a win or stop yours on the next turn.
+Question 3: Why are dragons so uncommon now?
+
+Dragons, while uncommon currently, will still be seen from time to time depending on how lists are built. In the past things like Utvara Hellkite, Bogardan Hellkite and Ancient Copper Dragon would commonly be seen as they all had their potential upsides, however over time the practical usage of these cards has come into question with new strategies and deck building possibilities showing their face.
+
+Utvara Hellkite was very popular in a meta when tournaments were running 120 minute rounds. Simply having a plan of “stax the board, beat their face with a bunch of dragons” isn’t as effective when only given 75 or 80 minutes to work with unfortunately. It is still a potent card in more staxy variants of the deck, but because most deck variants in general are not on many dragons to begin with it’d take quite a few turns to get the army you might need to win.
+
+Bogardan Hellkite was a combo piece primarily that has since been replaced with things like Twinshot Sniper. It was also part of Elixir of Immortality loops that helped generate infinite untapped treasures through Grafdigger’s Cage but since those lines were invented there have been quite a few others that have the same outcome with higher card quality or simply use other cards that already are used in the deck for varied reasons. Realistically if this isn’t being tutored it's not being cast and one of our staples Portal to Phyrexia is bad enough when it is stuck in hand, we don’t really want to increase the number of “dead cards” in hand simply to have a combo card, which you can also argue for Spine of Ish Sah but that's another topic to be discussed later. Another reason why this doesn’t see as much play is that originally it was used as a means to have a small “board wipe” of sorts, now we just rely on Portal to Phyrexia instead as it has more upsides.
+
+Ancient Copper Dragon was seen as a way to let you 50/50 into just winning the game on its attack. This was normally done by tutoring for it on our opponent’s end step. The issue is not just that this strategy is inconsistent but rather that it requires the dragon to live to actually attack and connect for damage so it has to dodge removal and a deck having flyers to block it. On top of this Roaming Throne was introduced which when tutored at the same time in many board states just lets you threaten a win on your next turn/combat.
+
+Things like Realm-Scorcher Hellkite (Which is arguably a strictly better version of Skarrgan Hellkite that was previously used), Scourge of Valkas and Terror of the Peaks are seen still because of their ability to end games in a simple fashion, potentially through potent stax pieces. However many pilots primarily see these specific types of dragons as “shortcut” pieces..
+
+This idea of a shortcut piece is common when discussing win conditions that may be superfluous, especially ones that simply make your combo easier to execute or understand for your opponents. Adding cards specifically to make things easier to explain sacrifices potential card quality for that feeling of safety, similar can be said for things like Elixir of Immortality however that provides a bit more than just one thing when added to most decks which will be covered in later sections of this guide.
+
+The potential upside to dragons outside of their ability to help us combo though is that they can provide a clock on our opponent’s life total since flyers are uncommon in the format outside of some specific commanders or hatebears and those pieces don’t often favorably trade into dragons. But a lot of lists have gone away from that “stax the board, beat down” backup plan because of the changes to tournament play over the past few years as mentioned above.
+
+Like every other card that is added to your deck… the “why” is the most important part to answer. If you need a card to win the game because you don’t want to run a card package including Goblin Welder and win-cons through the graveyard then something like Realm-Scorcher Hellkite might be just up your ally, if you’re running Null Rod and you want a creature based win-con while you’re running Maskwood Nexus in your deck then Terror of the Peaks or Scourge of Valkas might suit your needs.
+
+However if you’re already on other combo lines adding these types of outlets in just to simplify things may not be “optimal” but everything is up to player preference. This is also entirely based upon deckbuilding philosophies as some pilots heavily value being able to win through their own stax above all else and in this case they are no longer really “shortcuts,” while others are more of the mindset for removing the thing that is stopping the win through a variety of ways in which case they would be considered a “shortcut” and potentially not worth the slot to them.
+Question 4: What's the deal with no fetch lands?
+
+Fetch lands are something that in 60 card formats help with deck thinning, but in CEDH they are mostly there for color fixing. As we are a mono-colored deck we don’t really need color fixing and the slightest advantage you get from deck thinning is likely not normally going to be worth it.
+
+Below is a quote describing the math behind deck thinning not really being statistically significant.
+
+“Deck thinning can be worth it, but its effects are often overestimated. Take a 99-card deck for EDH (this can also be applied to 60-card Constructed decks and 40-card Limited decks), and say roughly 1/3 of the cards in your deck are lands. Once you’ve drawn your starting hand and are a few turns in, you’ll have around 84 cards left. If you use a fetch land to remove a single land from your deck, you’re only increasing your likelihood of drawing a non-land from 66.7% (56 non-lands out of 84) to 67.4% (56 non-lands out of 83). Considering you’re using a fetch to do this, you’re likely paying 1 life (unless you’re using something like Fabled Passage), and you really need to ask yourself if it’s worth it.” - Via: https://draftsim.com/deck-thinning-mtg
+
+In a mono-color deck though there are a few specific cards that can make fetches worth running and those are Crucible of Worlds and Dwarven Mine .
+
+The upside is that you can recur your fetches with Crucible of Worlds that essentially means that as long as you keep getting turns you’re going to have a much easier time recasting your commander should it continually be removed.
+
+The downside is that you’re potentially losing out on many of the non-fetchable utility lands such as Urza’s Cave, Fomori Vault and Talon Gates of Madara among many others. On top of this you also give extra reason for your opponents to use their Opposition Agent.
+
+Your landbase needs to be built entirely around making sure you get the most out of those fetch lands which on average means more basics that do eat into those slots for utility lands. In general you’re normally on more lands when running this kind of strategy, so that you can not only have the basics you need, but all of the fetches and land destruction lands to best put to use Crucible of Worlds.
+
+Especially now that Magda, the Hoardmaster has been printed and is in most variants of the list it makes giving up land slots for fetches much harder as you need access to the lands that allow you to target things to commit “crimes” such as Hammerheim to maximize the value of Magda, the Hoardmaster.
+Question 5: Why do we run X stax piece that can actively hurt us or turns off some of our lines?
+
+Stax pieces such as Grafdigger’s Cage, Null Rod can be debilitating. They both prevent integral aspects of our gameplans but they also tend to be good at warping the game and preventing opponents win conditions.
+
+While it’d be wonderful to not need to run debilitating stax pieces (and some lists do not) many pilots consider these types of stax a “necessary evil.”
+
+To a lesser extent stax like Torpor Orb and Sphere of Resistance//Thorn of Amethyst//Damping Sphere can be problematic to our game plan but also can be integral to preventing specific win conditions or making them much tighter for our opponents allowing plenty of room for error.
+
+Grafdigger’s Cage
+
+Grafdigger’s Cage is a symmetrical effect that prevents creatures from entering the battlefield from libraries or graveyards. It also prevents cards from being cast from graveyards or libraries.
+
+This particular stax piece makes it very hard to find lines that allow us to combo off. Primarily because it shuts down the ability to have creatures enter the battlefield which means that we lose access to things like Roaming Throne and Xorn that are used to bridge the gap from infinite tapped treasures to infinite untapped treasures. There's also the problem that we can’t tutor any of our other artifact dwarves to play, so our Urza’s Saga can’t get us our Universal Automaton though it can get us our Grafdigger’s Cage if we need it to. It also disables one of our alternative wincons in Battered Golem.
+
+Most variants of the deck do have a way around this situation though. Clock of Omens is still an artifact as is Liquimetal Torque. Torque allows us to turn any dwarf we’ve played into an artifact, then that lets us go through our Clock of Omens loop to make infinite tapped treasures, then depending on decklist you either have a way to remove the Grafdigger’s Cage or have a way to make infinite untapped treasures through the Grafdigger’s Cage by using things like Grinding Station or using specific loops with Elixir of Immortality.
+
+While at first this might seem like it prevents deck variants that win by using the graveyard alongside Goblin Welder or Goblin Engineer from functioning at a baseline it does not as both of these creature’s abilities let them remove the cage to begin their combos which makes it a non-factor. These would need to be on the field already though for that to matter as Cage does directly stop lines that require tutoring creatures. So unless you’re on an Elixir of Immortality package you’re kinda stuck finding a way to get creatures to win this primarily uses a “draw loop” to just play everything you want from hand instead of tutoring it and in this kind of a situation you should probably make sure God-Pharaoh's Statue and other stax pieces that can prevent opponents from interacting easily are on the field first.
+
+Our opponents however aren’t as lucky. Underworld Breach is a format defining win condition currently and this prevents our opponents being able to cast things via escape. It also shuts down all “To Field” tutors such as Sissay, Weatherlight Captain ability, Kinnan, Bonder Prodigy ability and anything like Eldritch Evolution. It also stops reanimation spells that put things on field such as Lively Dirge, Reanimate and Animate Dead.
+
+Other things this stops are things like Reality Chip, Bolas’s Citadel, Eladamri, Korvecdal, and unfortunately Power Balance. Essentially anything that lets you cast something from your library, or graveyard like Sevinne’s Reclamation flashback ability.
+
+Another very important aspect of Grafdigger’s Cage is that there is a non-deterministic way to remove it, even without infinite untapped treasures. Namely using The One Ring in combination with the 20+ other artifacts that can be tutored allowing you to draw about half of your starting deck card total. This allows you to either draw into Battered Golem to be played and help you dig deeper or simply find your answer such as Abrade or Zoyowa’s Justice along with the mana rocks to allow these things to be cast. While this is non-deterministic it is actually relatively consistent.
+
+Null Rod
+
+Null Rod
+
+This card is extremely polarizing. The one thing we need access to is generating treasures and the most common means of doing so is by using the crew ability on vehicles, which also happens to be an activated ability of an artifact. This means that game states can become difficult to navigate and get to our end goal if the board is too cluttered unless we have access to Dwarven Bloodboiler.
+
+Magda’s ability not requiring an activated ability of an artifact means that we can potentially break parity through this stax piece. Null Rod does something that most other stax pieces do not and that is allow you to potentially out-tempo our opponents as everyone loses access to all fast mana including treasures while simultaneously preventing a multitude of prevalent win conditions in the format.
+
+Anything involving an artifact ability is removed as an option for a win condition. This primarily affects dockside loops, underworld breach loops and most lines post Ad Nauseam as they normally have a heavy reliance on mana rocks. It also disables some sacrifice outlets that may be used in some combo lines such as Ashnod’s Altar and Phyrexian Altar while also stopping things like Birthing Pod from turning a Dargo into a Hullbreaker Horror.
+
+In a way not being able to activate artifacts is also a boon to us due to the interaction with Treasure and Dockside Extortionist. It allows the opponents to stockpile Treasure for when they are able to remove the Null Rod with something like Chain of Vapor or a shatter. However, until an opponent is able to remove the Null Rod though it just potentially feeds the “Dockside Count” which turns any single search while a dockside is on board into a potential win for us (normally via Cursed Mirror).
+
+Torpor Orb
+
+Torpor Orb
+
+Torpor does one thing, it shuts down creatures ETBs. There are quite a lot of relevant ETB effects in the format and most of them help opponents accrue value or even tutor with something like Ranger Captain of Eos to help set up specific lines. Because it stops ETBs it prevents many win conditions with reliance on them such as Thassa’s Oracle, Dockside Extortionist, Karmic Guide, Felidar Guardian and Grey Merchant of Asphodel it makes the downsides for our own deck worth it.
+
+Most Magda deck variants don’t have many creature ETB effects. The primary tools used are Goblin Engineer, Plundering Barbarian, Dockside Extortionist and our own tutors such as Imperial Recruiter. While turning off our own ETBs isn’t great, the chances of seeing our ETB creatures is very low in general. Being able to stop our opponents from potentially being able to tutor for their Orcish Bowmaster and Dockside Extortionist while turning off Dockside’s ETB can potentially just win us games. In the games where Torpor Orb shuts off win conditions of our opponents it forces other lines or for Torpor Orb to be removed which gives a bit of information on the types of plays that might be looking to make.
+
+Sphere Effects
+
+Thorn of Amethyst Sphere of Resistance Damping Sphere
+
+Sphere effects slow down spell based decks a lot more than they slow us down. While they are annoying to deal with in some situations like when you’re looking to interact or when you’re looking to play vehicles in some ways they can be a necessary evil.
+
+Deck variants that use these are doing so because they make early advantage engines harder to deploy and slow or prevent win attempts from many archetypes. Your opponent’s Underworld Breach line becomes tighter with a normal sphere and simply not possible with something like Damping Sphere.
+
+These effects are very simple to understand their upside, but the downside is almost always going to be that your opponents need to be able to properly threat assess and play through them. If they are too greedy often they will not be able to play the interaction they need to in order to prevent other opponents from winning, should they have lines that do happen to win through Sphere effects. This is another strength of Damping Sphere is that while it does stop specific win conditions involving many casts it does not shut down free interaction such as Force of Will to allow our opponents to stop one another.
+Question 6: There's a lot of variance in the amount of “Artifact Dwarves” that are run in decks, how many is best?
+
+Artifact Dwarf references any creature that is an artifact…and a dwarf, along with anything that can turn a dwarf into an artifact.
+
+This is a question that is quite deep.
+
+The first thing that you need to consider is what kind of play pattern do you wish to have for your deck? Are you trying to present wins as soon as possible, are you trying to slow your opponents while you break parity and present a delayed win? Figuring out what you want your deck to focus on matters a lot when deciding how many artifact dwarves you want, because Clock of Omens combo isn’t the only way to win.
+
+The Options available to us are; Universal Automaton, Roaming Throne, Adaptive Automaton, Metallic Mimic, Bloodline Pretender, Proteus Machine, Liquimetal Torque, Liquimetal Coating, Ashnod’s Transmogrant, Mycosynth Lattice, Nexus of Becoming and Mirror of the Forebears
+
+Cards that in many cases are considered low card quality; Bloodline Pretender, Proteus Machine Liquimetal Coating, Ashnod’s Transmogrant, Mycosynth Lattice (Arguable)
+
+The reason for this is that 3 mana for just a random artifact dwarf with no other bonus is only good if you’re REALLY looking to present wins as fast as possible with the highest consistency you can. When discussing the artifacts Lattice can be good with Karn, the Great Creator and can allow you to make ALL of your dwarves into artifacts but Liquimetal Coating and Ashnod’s Transmogrant have very limited usage outside of trying to force a combo.
+
+A vast majority of decks are only on the following; Universal Automaton, Roaming Throne, Adaptive Automaton], Liquimetal Torque and potentially Mirror of the Forebears
+
+Universal Automaton being a 1 drop dwarf makes it easy to sandbag and play when you feel you can possibly present a win. Adaptive Automaton gives you the ability to put your dwarves out of range of Orcish Bowmaster. Roaming Throne is just insane, doubling your Magda triggers and being a one card tutor target to bridge the gap into infinite untapped treasures when doing Clock Combo. Liquimetal Torque lets you play through Grafdigger’s Cage and Mirror of the Forebears functions in a similar way but also lets you potentially make 1 treasure per turn for one mana.
+
+Nexus of Becoming is seen in more grindy decks, and decks that focus on getting to a board state where 6 mana can be made available quickly, this archetype is primarily called “Turbo Stax”. The card draw is pretty strong but the fact that you can make any of our dwarves into a permanent artifact dwarf that is also out of Orcish Bowmaster range can be very strong on top of the fact that it's uncounterable.
+
+Math
+
+My Favorite GIF
+
+Over the past year we’ve seen “turbo” decks go from trying to jam every way to have access to an “Artifact Dwarf” to a much more reasonable amount, in some cases halving the amount.
+
+From a practical standpoint when considering mulligans there is very little practical difference between 5 and 6 artifact dwarves and in order to see practical difference you essentially need to jump two artifact dwarves at a time.
+
+If you’re talking about just blanketly seeing an “Artifact Dwarf” within the first 10 cards of the game you get diminishing returns when going over 6 artifact dwarves. The reason being that for each dwarf above 6 you only end up getting 5% more games with an earlier potential win attempt from only having 5 treasures. Going from 9 to 10 is where you get less than 5%.
+
+Well, how many is optimal?
+
+The answer comes down to your personal preference. Is 5% higher chance to see one within the first 10 cards in a game worth giving up a slot in your deck that can be given to interaction, a value engine, acceleration or a stax piece? That's entirely up to you!
+
+A vast majority of decks are running between 4 and 6. Some specialized decks such as Gruulstavo’s has “cut the fat” by removing “backup lines” to make potential wins from 5 treasures as common as possible while still being a “hard stax deck” and that works very well for him, this deck is on 9.
+
+What you CAN manage to fit depends entirely on the “card packages” you are adding into your deck and the slots they take up, the win-cons and the “backup lines” (Like Battered Golem) you want for safety or to play through specific stax pieces all influence the “optimal” amount of Artifact Dwarves for YOUR deck.
+Question 7: There's a lot of variance in the amount of Vehicles that are run in decks, how many is best?
+
+This is a simple math problem for consistency. Either you want the effect to let you tap your dwarves with impunity more often, or you’re okay with less of this effect to gain higher card quality.
+
+Realistically outside of the vehicles listed below finding ones that do what we want at a low enough mana value is quite difficult;
+
+Clown Car , Unlicensed Hearse, Smuggler’s Copter, High-Speed Hover Bike, Flywheel Racer
+
+Otherwise you’re dipping into the well and are given the following options; Mobile Garrison, Mobile Homestead, Bessie, the Doctor’s Roadster, Brotherhood Vertibird, Careening Mine Cart, Funeral Longboat, Hoard Hauler, Knight Paladin, Luxurious Locomotive, Magmatic Galleon, Rms Titanic, Sky Skiff, Skysovereign, Consul Flagship, Reckoner Bankbuster, Mighty Servant of Leuk-o
+
+Almost all of these are either slightly overcosted with a decent ability (such as Mobile Garrison), at cost (2 or less) with a mediocre ability that may not be worth the card quality… or overcosted with attractive abilities that are unlikely to be cast in most variants of the deck and are almost never the correct tutor target such as RMS Titanic.
+
+Things with higher than crew 2 also make it extremely difficult to use them, so things like Reckoner Bankbuster and Hoard Hauler while they can provide some interesting utility or help you get treasures if it connects… realistically getting the crew 3 is going to not always be consistent and also makes the ability to stack crews abilities on top of one another to help deal with potential interaction quite a bit harder on lower creature count boardstates.
+
+Math
+
+My Favorite GIF
+
+Essentially this is the same as the artifact dwarves. Diminishing returns are the name of the game. The amount of return you get for going above 5 slows the increase in draw/seen rate to about 5% per vehicle added. Something also to be considered is if you consider Tangle Wire a vehicle or not, to some it might even count as “half a vehicle” and if you’re running Dwarven Bloodboiler since it functions the same as a vehicle but works through Null Rod.
+
+The difference between 80% and 86% for seeing it within 10 cards and 2 mulligans is in line with the other diminishing returns. Going from 42 to 48% and from 67 to 74% is similar enough that it may be less statistically significant if the card you’re adding in place of a 6th vehicle can help you out of some precarious situations or give you redundancy for some other effect you’re looking to have more of.
+
+Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 1993-2024 Wizards. All Rights Reserved.
+
+Moxfield LLC is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. Moxfield LLC may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. MAGIC: THE GATHERING® is a trademark of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at https://company.wizards.com/.
+
+Some card prices and other card data are provided by Scryfall. Scryfall makes no guarantee about its price information and recommends you see stores for final prices and details.
+
+Having trouble viewing images?Click here to revert to the legacy image format.
+
+DiscordFacebookTwitterInstagramThreadsReddit
+
+Patreon
+
+© 2024 Moxfield LLC·Terms of Service·Privacy Policy·Affiliate Disclosures·Version 2024.06.18.1
