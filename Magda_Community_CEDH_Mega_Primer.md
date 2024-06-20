@@ -87,7 +87,7 @@ The most common second step will be to make infinite untapped treasures by using
 
 Its important to note that things like Liquimetal Torque and Mirror of the Forebears can act as ways to either copy a dwarf as an artifact creature or simply make an existing dwarf on your board into an artifact with Liquimetal Torque's ability.
 
-https://www.youtube.com/watch?v=vgSdWBPDLOU
+(https://www.youtube.com/watch?v=vgSdWBPDLOU)
 
 **Maskwood Nexus + Battered Golem**
 
