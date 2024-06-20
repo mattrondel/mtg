@@ -29,23 +29,15 @@ There is a lot of nuance and knowledge required to win through many "stax" piece
 This primer is going to broken down into the following sections because of this fact;
 
 Combo "Starters" - Making Infinite Treasures
-
 - Basic means of Generating Infinite Treasures (Staxless)
-
 - Generating Infinite Treasures Through Varying Stax
-
 - Alternative Means Of Generating Infinite Treasures
 
 Important Combo Adjacent Information - Things You Need To Know When Trying To Win The Game
-
 - Professional Face-Breaker Impulse Draw
-
 - The One Ring Draw Loops
-  
 - Pyrite Spellbomb//Soul-Guide Lantern//Stone Of Erech Draw Loop
-
 - Removing Enchantments & Non-Artifact Problem Permanents
-
 - Protecting Your Win
 
 Combo "Enders" - Outlets & Winning The Game
