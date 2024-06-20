@@ -79,9 +79,9 @@ Clock of Omens is an artifact that allows us to use any "Artifact Dwarf" as a me
 This requires a board state of Magda, Brazen Outlaw + Clock of Omens + any Artifact Dwarf (AD)
 
 1. Tap Clock of Omens + Artifact Dwarf such as Adaptive Automaton targeting the automaton with Clock's ability to untap it. This will trigger Magda, Brazen Outlaw when the AD is tapped as part of the cost to use Clock's Ability which will generate an untapped Treasure
-    You will then tap the AD and the newly made Treasure targeting your AD which will trigger Magda, Brazen Outlaw again in order to untap your AD generate another untapped treasure Treasure. This leaves you with one untapped treasure, an untapped Artifact Dwarf and a tapped Treasure
-    From here you continue this loop of tapping the new untapped Treasure and the Artifact Dwarf to use Clock of Omens ability targeting the Artifact Dwarf in order to generate infinite tapped Treasure and leave you with one untapped Treasure
-    Win the game from here with infinite Magda, Brazen Outlaw activations that lead to varying Combo Enders
+2. You will then tap the AD and the newly made Treasure targeting your AD which will trigger Magda, Brazen Outlaw again in order to untap your AD generate another untapped treasure Treasure. This leaves you with one untapped treasure, an untapped Artifact Dwarf and a tapped Treasure
+3. From here you continue this loop of tapping the new untapped Treasure and the Artifact Dwarf to use Clock of Omens ability targeting the Artifact Dwarf in order to generate infinite tapped Treasure and leave you with one untapped Treasure
+4. Win the game from here with infinite Magda, Brazen Outlaw activations that lead to varying Combo Enders
 
 The most common second step will be to make infinite untapped treasures by using either Roaming Throne or Maskwood Nexus + Xorn and repeating the Clock of Omens loop generating an extra untapped treasure each loop and then performing your preferred "Combo Ender."
 
