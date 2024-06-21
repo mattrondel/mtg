@@ -1,3 +1,6 @@
+https://www.reddit.com/r/mildlyinteresting/comments/1dlcb44/my_collection_of_hotel_keys_from_the_past_10/
+
+
 https://scryfall.com/card/c21/78/tempting-contract
 
 Varragoth, Bloodsky Sire
