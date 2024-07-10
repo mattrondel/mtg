@@ -1,3 +1,7 @@
+interesting chatterfang deck contents
+
+https://infinite.tcgplayer.com/magic-the-gathering/deck/CEDH-378-Chatterfang/497684?sharedid=&irpid=4924596&irgwc=1&utm_source=impact&utm_medium=affiliate&utm_campaign=playingwithpowermtg
+
 https://www.tcgplayer.com/product/145317/magic-iconic-masters-serra-ascendant?Language=English&page=1
 
 
