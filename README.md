@@ -1,3 +1,7 @@
+https://dariaaksenova.com/merch/wot-squirrels-playmats
+
+https://dariaaksenova.com/merch/wot-pigeons-playmats
+
 https://dariaaksenova.com/merch/wot-opossums-playmats
 
 https://dariaaksenova.com/merch/wot-racoons-playmats
