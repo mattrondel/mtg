@@ -1,3 +1,5 @@
+Your 10% discount code is: ARTY2022
+
 https://dariaaksenova.com/merch/wot-squirrels-playmats
 
 https://dariaaksenova.com/merch/wot-pigeons-playmats
