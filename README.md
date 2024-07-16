@@ -1,5 +1,6 @@
 https://dariaaksenova.com/merch/wot-opossums-playmats
 
+https://dariaaksenova.com/merch/wot-racoons-playmats
 
 interesting chatterfang deck contents
 
