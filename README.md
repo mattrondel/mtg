@@ -1,3 +1,5 @@
+https://www.reddit.com/r/magicTCG/comments/1e9fabg/that_one_geography_map_but_with_the_first_basic/
+
 Your 10% discount code is: ARTY2022
 
 https://dariaaksenova.com/merch/wot-squirrels-playmats
