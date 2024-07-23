@@ -1,4 +1,4 @@
-https://www.reddit.com/r/magicTCG/comments/1e9fabg/that_one_geography_map_but_with_the_first_basic/
+https://old.reddit.com/r/magicTCG/comments/1e9gin0/blb_bloomburrow_draft_archetypes_insert/
 
 Your 10% discount code is: ARTY2022
 
