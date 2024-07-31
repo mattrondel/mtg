@@ -1,3 +1,7 @@
+do we have this?
+
+https://www.tcgplayer.com/product/559494/magic-bloomburrow-stormsplitter?Language=English
+
 https://ultimateguard.com/en/Magic-The-Gathering/
 
 https://old.reddit.com/r/magicTCG/comments/1e9gin0/blb_bloomburrow_draft_archetypes_insert/
