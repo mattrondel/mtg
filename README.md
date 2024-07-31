@@ -50,10 +50,6 @@ Facebook group:
 
 https://www.facebook.com/groups/Premodern
 
-Do we have
-
-https://www.tcgplayer.com/product/509564/Magic-Wilds%20of%20Eldraine%20Enchanting%20Tales-Aggravated%20Assault%20Anime%20Borderless?xid=a975f8727-2d7f-4be6-90fd-8b5e3199d4e1&Language=English
-
 https://www.tcgplayer.com/product/5226/magic-mirage-shallow-grave?Language=English
 
 https://www.tcgplayer.com/product/5890?page=1&sharedid=&irpid=4931599&irgwc=1&utm_source=impact&utm_medium=affiliate&utm_campaign=Scryfall&Language=English
@@ -68,7 +64,6 @@ Check out the magda discord for more tailored deck help :
 
 https://discord.gg/jZJ8H7yBMA
 
-
 https://m.youtube.com/watch?v=k7RUJKo7q1Y&feature=youtu.be
 
 cedh links
@@ -79,11 +74,9 @@ For Andrew
 
 Gisa, the Hellraiser 
 
-
 "puzzle-like commander games"
 
 https://www.cedh.guide/philosophy
-
 
 https://ajmanzanedo.artstation.com/projects/yJ3eRK
 
