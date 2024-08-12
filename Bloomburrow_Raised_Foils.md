@@ -24,7 +24,7 @@ Bloomburrow Raised foils
  
 - [] BLB	355	Zoraline, Cosmos Caller
 
-
+Commander (BLC)
 
 - [] BLC	93	Jace, the Mind Sculptor
 
