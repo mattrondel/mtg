@@ -1,3 +1,8 @@
+cheap $23 ixaln folder
+
+https://www.amazon.com/Ultra-Pro-9-Pocket-Zippered-PRO-Binder/dp/B0CLMGV4XJ?th=1
+
+
 https://www.ebay.com/itm/185445293110
 
 do we have this?
