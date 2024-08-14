@@ -34,8 +34,6 @@ Commander (BLC)
 
 - [X] BLC	96	Nissa, Who Shakes the World
 
-- [] BLC	97	Elspeth, Sun's Champion
-
 - [] BLC	101	Bello, Bard of the Brambles
 
 - [X] BLC	102	Hazel of the Rootbloom
