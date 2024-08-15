@@ -1,10 +1,10 @@
 Bloomburrow Raised foils
 
-- [] BLB 343 Lumra, Bellow of the Woods
+- [] BLB 343 Lumra, Bellow of the Woods (bear)
 
-- [] BLB	344	Alania, Divergent Storm
+- [] BLB	344	Alania, Divergent Storm (otter)
 
-- [] BLB	345	Baylen, the Haymaker 
+- [] BLB	345	Baylen, the Haymaker (rabbit)
 
 - [] BLB	346	Camellia, the Seedmiser (squirrel)
 
