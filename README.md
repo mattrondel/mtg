@@ -1,3 +1,5 @@
+https://youtu.be/QHHg99hwQGY?t=1616
+
 cheap $23 ixaln folder
 
 https://www.amazon.com/Ultra-Pro-9-Pocket-Zippered-PRO-Binder/dp/B0CLMGV4XJ?th=1
