@@ -1,3 +1,14 @@
+48 Plains (0287) 
+
+39 island (0288) - The Lost Caverns of Ixalan (LCI)
+
+43 Swamp (0289)
+
+50 moutain
+
+44 Forest (0291)
+
+
 https://youtu.be/QHHg99hwQGY?t=1616
 
 cheap $23 ixaln folder
