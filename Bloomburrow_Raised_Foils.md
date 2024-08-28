@@ -89,6 +89,7 @@ Commander (BLC)
 
 - [X] BLC	102	Hazel of the Rootbloom
 
+8/27 $245
 
 
 - [] BLC	103	Ms. Bumbleflower
