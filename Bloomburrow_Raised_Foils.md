@@ -79,6 +79,7 @@ Commander (BLC)
 
 https://www.tcgplayer.com/product/558590/Magic-Commander%20Bloomburrow-Chatterfang%20Squirrel%20General%20Borderless%20Raised%20Foil?xid=aa16079b1-1693-4400-b30b-8ce52728498b
 
+https://www.cardkingdom.com/mtg/bloomburrow-commander-decks-variants/chatterfang-squirrel-general-0095-raised-foil-foil
 
 - [X] BLC	96	Nissa, Who Shakes the World
 
