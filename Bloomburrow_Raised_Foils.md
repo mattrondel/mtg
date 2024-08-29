@@ -77,6 +77,8 @@ Commander (BLC)
 
 8/27 $270
 
+https://www.tcgplayer.com/product/558590/Magic-Commander%20Bloomburrow-Chatterfang%20Squirrel%20General%20Borderless%20Raised%20Foil?xid=aa16079b1-1693-4400-b30b-8ce52728498b
+
 
 - [X] BLC	96	Nissa, Who Shakes the World
 
