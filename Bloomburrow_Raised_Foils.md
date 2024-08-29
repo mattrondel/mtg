@@ -1,4 +1,4 @@
-**Bloomburrow Raised foils**
+*Bloomburrow Raised foils*
 
 price snapshots are lowest Tcgplayer
 
