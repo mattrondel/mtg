@@ -1,4 +1,9 @@
+tempest set cube
+
+https://cubecobra.com/cube/overview/17r2c
+
 what mike is looking for 
+
 2 lord skitter (woe)
 
 1 gix yawgmoth (bro)
