@@ -1,3 +1,33 @@
+what mike is looking for 
+2 lord skitter (woe)
+
+1 gix yawgmoth (bro)
+
+1 season of gathering borderless
+
+2 phxrexian areana 
+
+2 mirrix
+
+4 hopeless nightmare (woe)
+
+2 go for the throat *
+
+2 rankless prank (woe)
+
+4 hostile investigatrtor (big)
+
+4 ruthless negotation *
+
+2 virture of persistance (woe)
+
+2 painful quandry (bro)
+
+2 cut down (dmu)
+
+
+
+
 for cubes
 
 https://www.amazon.com/Black-Dex-Protection-Supreme-Storage/dp/B07HBP5CN5?th=1
