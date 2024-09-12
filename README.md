@@ -1,3 +1,6 @@
+3 Demonic Ruckus OTJ
+
+
 tempest set cube
 
 https://cubecobra.com/cube/overview/17r2c
