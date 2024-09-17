@@ -1,5 +1,6 @@
 3 Demonic Ruckus OTJ
 
+Cacophony Scamp 
 
 tempest set cube
 
