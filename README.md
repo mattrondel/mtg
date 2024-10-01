@@ -1,10 +1,17 @@
+mike wants
+
+Callous Sell-Sword
+
+slickshot showoffs
+
+Cacophony Scamp
+	
+Blackcleave Cliffs
+
+mana vault and eye of urgin for lilliana?
+
+
 https://www.thingiverse.com/thing:5580663
-
-3 Demonic Ruckus OTJ
-
-Cacophony Scamp 
-
-tempest set cube
 
 https://cubecobra.com/cube/overview/17r2c
 
