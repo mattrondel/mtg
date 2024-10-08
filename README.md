@@ -1,3 +1,5 @@
+https://www.mtg.onl/complete-token-collection/
+
 https://infinite.tcgplayer.com/magic-the-gathering/deck/Magda-Brazen-Outlaw/498584?source=syndication
 
 mike wants
