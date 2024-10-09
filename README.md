@@ -1,6 +1,6 @@
-Mishra's Factory (Fall) 52.94 @ AncestralMTG MP
+Mishra's Factory (Fall) 52.94 @ AncestralMTG MP - california
 
-Mishra's Factory (Spring) 49.99 @ Overnight Magic NM
+Mishra's Factory (Spring) 49.99 @ Overnight Magic NM - Washington
 
 
 https://www.mtg.onl/complete-token-collection/
