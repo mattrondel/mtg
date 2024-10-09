@@ -1,4 +1,4 @@
-judgment-dwarven-bloodboiler MP Foil Vermilion - Oregon $25.98 or Into Sanctuary LP @ $38 (get MP and save enought for another foil dwarf or Ecto 1)
+judgment-dwarven-bloodboiler MP Foil Vermilion - Oregon $25.98 or Into Sanctuary LP @ $38 (get MP and save enought for another foil dwarf (like liberated dwarf or Ecto 1 currently at 12.50)
 
 odyssey-tarnished-citadel The Magical Cards 29.79 NM - california
 
