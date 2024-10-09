@@ -1,3 +1,8 @@
+Mishra's Factory (Fall) 52.94 @ AncestralMTG MP
+
+Mishra's Factory (Spring) 49.99 @ Overnight Magic NM
+
+
 https://www.mtg.onl/complete-token-collection/
 
 https://infinite.tcgplayer.com/magic-the-gathering/deck/Magda-Brazen-Outlaw/498584?source=syndication
