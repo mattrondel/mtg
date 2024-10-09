@@ -1,3 +1,7 @@
+odyssey-tarnished-citadel The Magical Cards 29.79 NM - california
+
+Cavern-Hoard Dragon
+
 Mishra's Factory (Fall) 52.94 @ AncestralMTG MP - california
 
 Mishra's Factory (Spring) 49.99 @ Overnight Magic NM - Washington
