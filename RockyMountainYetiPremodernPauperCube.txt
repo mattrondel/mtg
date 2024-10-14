@@ -1,0 +1,352 @@
+# From: https://www.cubecobra.com/cube/overview/70dcb46b-a30e-4a8f-b57e-b65e88f9e3f7
+
+1 Benalish Missionary (wth) 10
+1 Benevolent Bodyguard (jud) 5
+1 Plated Sliver (lgn) 19
+1 Serra Zealot (usg) 46
+1 Soltari Foot Soldier (tmp) 43
+1 Suntail Hawk (jud) 28
+1 Advance Scout (tmp) 1
+1 Benalish Trapper (inv) 8
+1 Capashen Unicorn (inv) 10
+1 Master Decoy (tmp) 29
+1 Skyshroud Falcon (sth) 16
+1 Soltari Trooper (tmp) 47
+1 Talon Sliver (tmp) 50
+1 Youthful Knight (sth) 25
+1 Benalish Infantry (wth) 8
+1 Benalish Knight (wth) 9
+1 Benalish Lancer (inv) 7
+1 Charging Paladin (por) 11
+1 Diving Griffin (pcy) 6
+1 Elite Javelineer (tmp) 17
+1 Femeref Knight (mir) 18
+1 Helionaut (apc) 13
+1 Jamuraan Lion (vis) 10
+1 Knight of Valor (vis) 11
+1 Mine Bearer (pcy) 16
+1 Pegasus Charger (usg) 30
+1 Soltari Visionary (exo) 20
+1 Zhalfirin Knight (mir) 50
+1 Dive Bomber (ons) 26
+1 Heavy Ballista (wth) 17
+1 Mounted Archers (tmp) 30
+1 Mystic Zealot (ody) 36
+1 Noble Templar (scg) 19
+1 Anoint (tmp) 3
+1 Burst of Energy (ulg) 3
+1 Excise (pcy) 8
+1 Funeral Pyre (jud) 10
+1 Off Balance (nem) 15
+1 Reinforcements (all) 12a
+1 Smite (sth) 17
+1 Aura Blast (pls) 1
+1 Disenchant (lea) 18
+1 Divine Offering (leg) 9
+1 Lead Astray (jud) 14
+1 Rally (ice) 48
+1 Reprisal (all) 13a
+1 Radiant's Judgment (ulg) 22
+1 Congregate (usg) 8
+1 Second Thoughts (ody) 45
+1 Path of Peace (por) 21
+1 Kirtar's Desire (ody) 27
+1 Opal Caryatid (usg) 24
+1 Angelic Renewal (wth) 4
+1 Pacifism (mir) 32
+1 Sun Clasp (vis) 21
+1 Cessation (ulg) 4
+1 Shackles (exo) 18
+1 Dega Disciple (apc) 4
+1 Aquamoeba (tor) 24
+1 Bay Falcon (mir) 54
+1 Cloud of Faeries (ulg) 29
+1 Merfolk Looter (exo) 39
+1 Mistform Sliver (lgn) 46
+1 Sea Scryer (mir) 90
+1 Storm Crow (all) 36a
+1 Stormscape Familiar (pls) 36
+1 Winged Sliver (tmp) 106
+1 Azimaet Drake (mir) 53
+1 Bouncing Beebles (ulg) 28
+1 Cloud Elemental (vis) 29
+1 Horseshoe Crab (usg) 80
+1 Man-o'-War (vis) 37
+1 Rootwater Commando (nem) 39
+1 Rootwater Hunter (tmp) 82
+1 Wind Drake (por) 77
+1 Wormfang Drake (jud) 57
+1 Zuran Spellcaster (ice) 112
+1 Ascending Aven (ons) 68
+1 Aven Fisher (ody) 63
+1 Benthic Explorers (all) 24a
+1 Blockade Runner (mmq) 60
+1 Pendrell Drake (usg) 86
+1 Aven Windreader (ody) 65
+1 Covert Operative (lgn) 33
+1 Abjure (wth) 31
+1 Disrupt (wth) 37
+1 Mind Games (sth) 38
+1 Obsessive Search (tor) 43
+1 Opt (inv) 64
+1 Power Sink (lea) 72
+1 Boomerang (leg) 48
+1 Confound (pls) 22
+1 Counterspell (lea) 54
+1 Impulse (vis) 34
+1 Mana Leak (sth) 36
+1 Prohibit (inv) 67
+1 Snap (ulg) 43
+1 Catalog (usg) 64
+1 Exclude (inv) 56
+1 Frantic Search (ulg) 32
+1 Jolt (mir) 70
+1 Keep Watch (jud) 43
+1 Choking Tethers (ons) 74
+1 Ray of Command (ice) 92
+1 Rewind (usg) 93
+1 Gush (mmq) 82
+1 Careful Study (ody) 70
+1 Deep Analysis (tor) 36
+1 Aboshan's Desire (ody) 59
+1 Apathy (wth) 33
+1 Betrayal (vis) 26
+1 Cloak of Mists (usg) 65
+1 Hermetic Study (usg) 78
+1 Errant Minion (ice) 68
+1 Frozen Solid (scg) 36
+1 Stormscape Apprentice (inv) 75
+1 Blood Celebrant (lgn) 61
+1 Carnophage (exo) 53
+1 Festering Goblin (ons) 148
+1 Putrid Imp (tor) 77
+1 Cabal Inquisitor (ody) 119
+1 Clot Sliver (tmp) 112
+1 Crypt Sliver (lgn) 63
+1 Dauthi Horror (tmp) 122
+1 Dauthi Slayer (tmp) 126
+1 Fledgling Djinn (wth) 69
+1 Foul Imp (sth) 59
+1 Frightcrawler (ody) 138
+1 Shepherd of Rot (ons) 168
+1 Undertaker (mmq) 167
+1 Cabal Torturer (tor) 53
+1 Crypt Rats (vis) 55
+1 Dauthi Jackal (exo) 58
+1 Dauthi Marauder (tmp) 123
+1 Death's-Head Buzzard (scg) 63
+1 Gangrenous Zombies (ice) 127
+1 Organ Grinder (tor) 75
+1 Phyrexian Ghoul (usg) 148
+1 Phyrexian Rager (apc) 49
+1 Severed Legion (ons) 166
+1 Disease Carriers (uds) 57
+1 Faceless Butcher (tor) 60
+1 Gravebane Zombie (mir) 127
+1 Gravedigger (por) 95
+1 Haunted Cadaver (ons) 154
+1 Gempalm Polluter (lgn) 70
+1 Fatal Blow (wth) 67
+1 Funeral Charm (vis) 61
+1 Ghastly Demise (ody) 139
+1 Diabolic Edict (tmp) 128
+1 Afflict (ody) 115
+1 Bone Harvest (mir) 108
+1 Dark Banishing (ice) 119
+1 Expunge (usg) 135
+1 Feast or Famine (all) 49a
+1 Snuff Out (mmq) 162
+1 Duress (usg) 132
+1 Ostracize (ulg) 57
+1 Death Stroke (sth) 57
+1 Disturbed Burial (tmp) 129
+1 Drain Life (lea) 105
+1 Exhume (usg) 134
+1 Brush with Death (sth) 52
+1 Death's Duet (exo) 60
+1 Aphetto Dredging (ons) 125
+1 Befoul (usg) 116
+1 Despoil (pcy) 62
+1 Evincar's Justice (tmp) 134
+1 Tortured Existence (sth) 74
+1 Enfeeblement (mir) 121
+1 Pestilence (lea) 120
+1 Agonizing Demise (inv) 92
+1 Firescreamer (inv) 106
+1 Quagmire Druid (apc) 51
+1 Bloodfire Dwarf (apc) 56
+1 Duct Crawler (sth) 79
+1 Goblin Grappler (lgn) 100
+1 Goblin Patrol (usg) 193
+1 Kris Mage (mmq) 195
+1 Mogg Fanatic (tmp) 190
+1 Raging Goblin (por) 145
+1 Dwarven Berserker (wth) 97
+1 Fireslinger (tmp) 173
+1 Goblin Brigand (scg) 94
+1 Hunter Sliver (lgn) 102
+1 Viashino Sandscout (ulg) 96
+1 Barbarian Lunatic (ody) 175
+1 Bogardan Firefiend (wth) 91
+1 Craven Giant (por) 121
+1 Ember Beast (ody) 190
+1 Flamewave Invoker (lgn) 92
+1 Goblin Medics (ulg) 79
+1 Mage il-Vec (exo) 86
+1 Anaba Shaman (hml) 67a
+1 Ancient Kavu (inv) 136
+1 Battering Craghorn (ons) 188
+1 Chainflinger (ody) 181
+1 Lightning Elemental (tmp) 186
+1 Shock Troops (mmq) 212
+1 Chartooth Cougar (scg) 84
+1 Goretusk Firebeast (jud) 91
+1 Blazing Salvo (ody) 178
+1 Heat Ray (usg) 199
+1 Rock Slide (vis) 92
+1 Shock (sth) 98
+1 Accelerate (tor) 90
+1 Falter (usg) 184
+1 Headlong Rush (usg) 198
+1 Incinerate (ice) 194
+1 Kindle (tmp) 184
+1 Sonic Burst (exo) 103
+1 Thunderbolt (wth) 115
+1 Fiery Temper (tor) 97
+1 Rhystic Lightning (pcy) 99
+1 Lightning Blast (tmp) 185
+1 Lava Storm (wth) 110
+1 Fireblast (vis) 79
+1 Firebolt (ody) 193
+1 Kaervek's Torch (mir) 185
+1 Lava Burst (ice) 198
+1 Meteor Shower (ice) 202
+1 Book Burning (jud) 80
+1 Flame Jet (uds) 81
+1 Arc Lightning (usg) 174
+1 Panic Attack (pcy) 98
+1 Acceptable Losses (ody) 172
+1 Aftershock (tmp) 160
+1 Scorching Missile (ody) 219
+1 Lava Axe (por) 137
+1 Bloodfire Infusion (apc) 57
+1 Agent of Stromgald (all) 64a
+1 Caldera Kavu (pls) 58
+1 Basking Rootwalla (tor) 121
+1 Birchlore Rangers (ons) 248
+1 Elvish Berserker (exo) 110
+1 Elvish Herder (usg) 247
+1 Elvish Pioneer (ons) 257
+1 Fyndhorn Elves (ice) 244
+1 Marsh Boa (pcy) 118
+1 Pouncing Jaguar (usg) 269
+1 Rogue Elephant (wth) 139
+1 Acridian (usg) 230
+1 Elvish Warrior (ons) 260
+1 Harvest Wurm (wth) 130
+1 Harvester Druid (jud) 120
+1 Muscle Sliver (tmp) 238
+1 Priest of Titania (usg) 270
+1 Quick Sliver (lgn) 136
+1 Quirion Elves (mir) 234
+1 River Boa (vis) 118
+1 Skyshroud Elf (tmp) 255
+1 Werebear (ody) 282
+1 Wild Mongrel (ody) 283
+1 Avenging Druid (exo) 105
+1 Elvish Ranger (all) 88a
+1 Horned Troll (mmq) 251
+1 Jolrael's Centaur (mir) 222
+1 Penumbra Bobcat (apc) 82
+1 Blastoderm (nem) 102
+1 Elvish Pathcutter (ons) 256
+1 Krosan Drover (scg) 122
+1 Krosan Vorine (lgn) 131
+1 Barkhide Mauler (ons) 246
+1 Battlefield Scrounger (jud) 106
+1 Rabid Elephant (ody) 263
+1 Spike Colony (sth) 117
+1 Thresher Beast (pcy) 128
+1 Giant Warthog (jud) 118
+1 Glade Gnarr (apc) 78
+1 Needleshot Gourna (lgn) 133
+1 Yavimaya Wurm (ulg) 120
+1 Krosan Tusker (ons) 272
+1 Crash of Rhinos (mir) 210
+1 Choking Vines (wth) 123
+1 Crop Rotation (ulg) 98
+1 Crossbow Ambush (sth) 105
+1 Divergent Growth (scg) 116
+1 Elvish Fury (tmp) 226
+1 Giant Growth (lea) 197
+1 Reclaim (exo) 120
+1 Vitalize (wth) 145
+1 Aggressive Urge (inv) 181
+1 Harrow (tmp) 230
+1 Elephant Ambush (ody) 240
+1 Rampant Growth (mir) 235
+1 Acorn Harvest (tor) 118
+1 Break Asunder (scg) 113
+1 Rancor (ulg) 110
+1 Fertile Ground (usg) 252
+1 Daring Leap (pls) 101
+1 Silver Drake (pls) 125
+1 Malicious Advice (pls) 114
+1 Recoil (inv) 264
+1 Terminate (pls) 128
+1 Plague Spores (inv) 260
+1 Horned Kavu (pls) 110
+1 Hull Breach (pls) 111
+1 Serpentine Kavu (inv) 211
+1 Gerrard's Command (pls) 109
+1 Armadillo Cloak (inv) 229
+1 Putrid Warrior (apc) 117
+1 Soul Link (apc) 120
+1 Razorfin Hunter (apc) 119
+1 Quicksilver Dagger (apc) 118
+1 Llanowar Dead (apc) 109
+1 Consume Strength (apc) 93
+1 Goblin Legionnaire (apc) 103
+1 Squee's Embrace (apc) 122
+1 Gaea's Skyfolk (apc) 101
+1 Temporal Spring (apc) 125
+1 Phyrexian Walker (vis) 152
+1 Metallic Sliver (tmp) 297
+1 Roterothopter (hml) 109
+1 Manakin (tmp) 296
+1 Coiled Tinviper (tmp) 279
+1 Phyrexian War Beast (all) 127a
+1 Clockwork Steed (hml) 103
+1 Clockwork Swarm (hml) 104
+1 Lotus Petal (tmp) 294
+1 Barbed Sextant (ice) 312
+1 Squee's Toy (tmp) 309
+1 Mind Stone (wth) 153
+1 Astrolabe (all) 118a
+1 Serrated Arrows (hml) 110
+1 Sisay's Ring (vis) 154
+2 Adarkar Wastes (ice) 351
+2 Underground River (ice) 362
+2 Sulfurous Springs (ice) 360
+2 Karplusan Forest (ice) 356
+2 Brushland (ice) 352
+2 Caves of Koilos (apc) 140
+2 Shivan Reef (apc) 142
+2 Llanowar Wastes (apc) 141
+2 Battlefield Forge (apc) 139
+2 Yavimaya Coast (apc) 143
+1 Abandoned Outpost (ody) 312
+1 Barren Moor (ons) 312
+1 Drifting Meadow (usg) 320
+1 Forgotten Cave (ons) 317
+1 Lonely Sandbar (ons) 320
+1 Polluted Mire (usg) 323
+1 Ravaged Highlands (ody) 324
+1 Remote Isle (usg) 324
+1 Seafloor Debris (ody) 325
+1 Secluded Steppe (ons) 324
+1 Slippery Karst (usg) 327
+1 Smoldering Crater (usg) 328
+1 Terminal Moraine (pls) 142
+1 Timberland Ruins (ody) 330
+1 Tranquil Thicket (ons) 326
