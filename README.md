@@ -1,4 +1,6 @@
 
+https://www.ebay.com/itm/192994282816
+
 https://edhtop16.com/tournament/EDk1yv7UxlBF9ETaVgaF
 
 what dwarves do i need in foil?
