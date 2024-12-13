@@ -1,3 +1,4 @@
+https://ragingbullseries.com/index.php/2020/07/11/mtg-old-school-storage-boxes/
 
 https://www.ebay.com/itm/192994282816
 
