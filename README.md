@@ -4,75 +4,13 @@ https://a.co/d/6wo6KDC
 
 https://edhtop16.com/tournament/EDk1yv7UxlBF9ETaVgaF
 
-what dwarves do i need in foil?
-
-
-judgment-dwarven-bloodboiler MP Foil Vermilion - Oregon $25.98 or Into Sanctuary LP @ $38 (get MP and save enought for another foil dwarf (like liberated dwarf or Ecto 1 currently at 12.50)
-
-odyssey-tarnished-citadel The Magical Cards 29.79 NM - california
-
-Cavern-Hoard Dragon
-
-Mishra's Factory (Fall) 52.94 @ AncestralMTG MP - california
-
-Mishra's Factory (Spring) 49.99 @ Overnight Magic NM - Washington
-
-
 https://www.mtg.onl/complete-token-collection/
 
 https://infinite.tcgplayer.com/magic-the-gathering/deck/Magda-Brazen-Outlaw/498584?source=syndication
 
-mike wants
-
-Callous Sell-Sword
-
-slickshot showoffs
-
-Cacophony Scamp
-	
-Blackcleave Cliffs
-
-mana vault and eye of urgin for lilliana?
-
-
 https://www.thingiverse.com/thing:5580663
 
 https://cubecobra.com/cube/overview/17r2c
-
-what mike is looking for 
-
-2 lord skitter (woe)
-
-1 gix yawgmoth (bro)
-
-4 feed the swarm (who)
-
-2 sheoldreds edit (one)
-
-1 season of gathering borderless
-
-2 phxrexian areana 
-
-2 mirrix
-
-4 hopeless nightmare (woe)
-
-2 go for the throat *
-
-2 rankless prank (woe)
-
-4 hostile investigatrtor (big)
-
-4 ruthless negotation *
-
-2 virture of persistance (woe)
-
-2 painful quandry (bro)
-
-2 cut down (dmu)
-
-
-
 
 for cubes
 
