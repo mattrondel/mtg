@@ -2,7 +2,7 @@ From: https://luckypaper.co/resources/formats/
 
 Cube Draft Formats
 
-***Booster Draft***
+*Booster Draft*
 
 The classic draft experience. Modeled after Booster Draft with sealed packs.
 
