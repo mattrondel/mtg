@@ -6,7 +6,7 @@ From: https://luckypaper.co/resources/formats/
 
 The classic draft experience. Modeled after Booster Draft with sealed packs.
 
-**How to Play**
+### How to Play
 
 Each player begins with three stacks of 15 random cards from the Cube. Starting with the first ‘pack’ of cards, players secretly choose one, and passes the remaining 14 cards to the player to their left. Repeat the process until all cards from the first set of packs are drafted. Draft subsequent packs the same way, alternating which direction cards are passed with each pack.
 
