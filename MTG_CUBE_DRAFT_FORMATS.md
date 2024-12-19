@@ -38,7 +38,7 @@ Constructed Packs
 
 While most often packs are composed of a number of randomized cards, it’s also possible to structure the packs in one way or another to change the draft experience. Packs can be collated by shuffling in a way to create a more consistent distribution of colors or effects. Rather than dealing out cards randomly, packs can also be structured with particular ‘slots’ from different groups of cards to make sure everyone has an opportunity to some particular effects.
 
-## Burn Draft
+# Burn Draft
 
 The draft can be varied by having players ‘burn’ cards from packs in addition to drafting cards into their pools. In a Burn Draft players, for example, take one card and set another aside before passing the pack. The exact breakdown is variable and cards can either be burned with each pick or some number of cards at the end of a pack can all be burned together. Burn Draft is often used as a way to add more hidden information to drafts with small groups, or allow players to have more choices without expanding draft pool sizes.
 
