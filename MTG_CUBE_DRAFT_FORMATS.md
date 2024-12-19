@@ -97,9 +97,7 @@ Players build decks from randomized pools of cards — no drafting required.
 
 Sealed may be the simplest way to play Cube. Like Limited with fresh booster packs, give each player 90 random cards from the cube. Players build decks of at least 40 cards with any cards from their pool, plus any number of basic lands.
 
-## Advantages of Sealed
-
-## Number of Players
+## Advantages of Sealed Number of Players
 
 Sealed has a big advantage over other ways to Cube in its flexibility. There’s no requirement on the number of players, or that everyone be able to sit down to draft at the same time. Deck-building can be asynchronous and more players can easily join in.
 
