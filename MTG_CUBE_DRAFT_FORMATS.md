@@ -38,7 +38,7 @@ Constructed Packs
 
 While most often packs are composed of a number of randomized cards, it’s also possible to structure the packs in one way or another to change the draft experience. Packs can be collated by shuffling in a way to create a more consistent distribution of colors or effects. Rather than dealing out cards randomly, packs can also be structured with particular ‘slots’ from different groups of cards to make sure everyone has an opportunity to some particular effects.
 
-# Burn Draft
+## Burn Draft
 
 The draft can be varied by having players ‘burn’ cards from packs in addition to drafting cards into their pools. In a Burn Draft players, for example, take one card and set another aside before passing the pack. The exact breakdown is variable and cards can either be burned with each pick or some number of cards at the end of a pack can all be burned together. Burn Draft is often used as a way to add more hidden information to drafts with small groups, or allow players to have more choices without expanding draft pool sizes.
 
@@ -86,3 +86,30 @@ Some players also prefer Burn Draft to give critical-mass decks a fighting chanc
 ## Limitations
 
 Burn Draft introduces a new layer of complexity and meta decisions to the draft. This could be a pro as well, but this editor has not experienced anyone making burn picks with interesting agency other than a weird form of hate drafting. The result of this is often counter to the goals of the format, leading to cards that are leaders among synergistic packages or part of easily targeted micro-synergies get burned on a whim. The alternative form of burning cards only at the ends of packs rather than with each picks largely avoids these issues.
+
+
+
+# Sealed Deck
+
+Players build decks from randomized pools of cards — no drafting required.
+
+## How to Play
+
+Sealed may be the simplest way to play Cube. Like Limited with fresh booster packs, give each player 90 random cards from the cube. Players build decks of at least 40 cards with any cards from their pool, plus any number of basic lands.
+
+## Advantages of Sealed
+
+## Number of Players
+
+Sealed has a big advantage over other ways to Cube in its flexibility. There’s no requirement on the number of players, or that everyone be able to sit down to draft at the same time. Deck-building can be asynchronous and more players can easily join in.
+
+## Variations
+
+Many of the disadvantages of sealed are mitigated by Team Sealed. Team Sealed does take a bit more structure and a certain number of players, but makes deckbuilding less challenging and more consistent.
+
+## Cube Design Considerations
+
+Sealed can present some challenges for cube composition. Compared to sealed booster sets, many cubes are more complex, more synergistic, and more powerful. This can make Sealed deck-building a challenge, as two-card combos and synergistic packages will rarely be in the same pool, and the flatter power level of many cubes can make it hard to identify the final 40. Cube designers can ensure synergy decks thrive with very broad synergies, like Strixhaven’s Magecraft keyword.
+
+
+[For more design tips for Sealed, check out Episode 3 of Lucky Paper Radio](https://www.youtube.com/watch?v=Qw7lVQHOTP8)
