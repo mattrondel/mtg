@@ -1,0 +1,288 @@
+https://cubecobra.com/cube/overview/60374e1ffe63961046afc54b
+
+Lorwyn draft has a certain reputation. Mark Rosewater cites the complexity of it as the reason for a radical shift in magic design. To quote:
+
+Here was the problem that reared its head during Lorwyn and Morningtide. This type of complexity isn't about what cards can do but rather about how they interact with one another while they are on the battlefield. This problem was most noticeable to R&D during the employee Prerelease for Morningtide. The casual players were quitting after one or two rounds and we kept watching people who stayed in suffer as they couldn't figure out what they had to do. There was just too much dependent interaction.
+
+I think this analysis is blind to an important aspect of Lorwyn. Lorwyn had some complex cards, but by modern standards the on-board complexity is not that bad. The truth is that people were quitting because Lorwyn limited was completely fucking miserable.
+
+If you read the commons of Lorwyn, all the power was in defensive and reactive cards.
+
+Many cards are stronger when used defensively. Lairwatch Giant sucks at attacking, but he can block a whole weenie deck by himself. Defensive decks got Zephyr Net and Glimmerdust Nap at common. Nath's Buffoon usually can't attack but it can block a 7/7 all day. Gilt-Leaf Ambush can kill two attackers of any size but can't even attack into a 2/2. Treefolk are an entire tribe of 1/3s.
+Mudbutton Torchrunner. Lys Alana Huntmaster. Silvergill Douser.
+
+A common theme of Lorwyn design is waiting for your opponent to do something and then obliterating them for their insolence. Attacking with your 2/2? Sentinels of Glen Elendra. Built around Cenn's Heir? Peppersmoke with the trigger on the stack, idiot. You drafted some bombs and ways to break open the board stall? Counterspells are everywhere and the blue player's still on 14 life. Your combat tricks suck and everything punishes them and the Merfolk player is gaining 8 life every turn.
+
+Any time you tried to do anything there was some stupid flash counterspell regenerate damage prevention super blocking deathtouch bastard waiting to make you look like a complete idiot.
+
+If you played with a bunch of random cards from the set (as casual players basically do), you would be locked into endless miserable board stalls. No wonder players were quitting after two rounds.
+
+These problems were invisible to experienced drafters, who learned how to succeed (play blue) and have fond memories of beating players who made mistakes (not playing blue). The format coalesced into counter wars and 1/1 fliers, with draft's self-balancing nature letting other strategies in when the stars aligned.
+Changing Lorwyn Draft
+
+This cube removes Lorwyn's worst offenders (except Silvergill Douser) and fills in the gaps with Morningtide cards to address the format's problems. Reactive blue decks are still by far the best, but other strategies are at least plausible contenders. There's better access to combat tricks, removal is better at clearing blockers, and creatures strike a closer balance between offense and defense.
+
+None of Morningtide's job tribal cards are included. Unlike creature races, creature class is not consistently represented through art or mechanics, making it hard to remember what class each creature is. Cards like Luminescent Rain that incidentally care about class are also excluded.
+
+Lorwyn had many bombs. These were necessary to break open stalled games, so with the format changes many bombs have been cut. Creature density has been increased to make it easier to get the right ones for proactive strategies.
+Format Overview
+
+
+Lorwyn cares about what race your cards are. There are 8 races:
+
+    w Kithkin
+    uw Merfolk
+    ub Faeries
+    br Goblins
+    r Elementals
+    rw Giants
+    gb Treefolk
+    g Elves
+
+Changelings are all tribes at the same time. Everything in the set interacts favourably with changelings; they get buffed by Wizened Cenn, can be found with Boggart Harbinger, can't be countered by Faerie Trickery, and help you cast Silvergill Adept. Changelings are stronger than you think they are.
+Some cards tell you to go all-in on a single tribe, most are okay with a mix, and some explicitly ask for cards from another tribe. Some cards are designed to play better with cards outside their tribe, like Final-Sting Faerie in Kithkin or Goldmeadow Harrier in Merfolk.
+Don't pass Mulldrifter.
+Merfolk
+
+The default best deck. Silvergill Douser is one of the most powerful (and miserable) cards in the set. Lock up the game with your defensive cards and kill them with mill or islandwalk.
+Faeries
+
+Harder to draft than Merfolk but stronger when it comes together. Get down one or two Faeries and then lock out your opponent with countermagic and removal. Peppersmoke and Dreamspoiler Witches are cruel in a small creature format.
+Giants
+
+Thundercloud Shaman is the best non-blue non-rare in the set.
+Kithkin
+
+Beside Surge of Thoughtweft it's just white aggro. Play black for removal or green for combat tricks.
+Elves
+
+Lys Alana Huntmaster makes a lot of tokens. The puzzle is how to win with a pile of 1/1s.
+Goblins
+
+Goblins are good at blocking and killing creatures. From there you can win with Warren Pilferers recursion or a Giant bomb.
+Elementals
+
+Smokebraider is the backbone. The tribe is split between mono-red aggro, Ceaseless Searblades combo, and off-colour evoke Elementals.
+Treefolk
+
+Leans heavily on Thorntooth Witch.
+Cross-Tribe
+
+Decks don't need to prescribe to the intended tribal colour pairs. Be cognizant of how many cards of a tribe are necessary to make your cards work. Remember that Flamekin Harbinger can find Fire-Belly Changeling to enable your Boggart Sprite-Chaser.
+An Aside about cycles
+
+At this point they were really into cycles. Some of them were 8 cards to fit across the 8 tribes, some of them were tribal but only got one in each colour (leaving 3 tribes left out) and a lot of them were just regular honest 5-colour cycles. Almost half of the entire 300 card set was cycles.
+
+Proper 8-card tribal cycles:
+
+    Kithkin Harbinger • Merrow Harbinger • Faerie Harbinger • Boggart Harbinger • Giant Harbinger • Flamekin Harbinger • Treefolk Harbinger • Elvish Harbinger
+    Wanderwine Hub • Secluded Glen • Auntie's Hovel • Gilt-Leaf Palace • Ancient Amphitheater • Primal Beyond • Rustic Clachan • Murmuring Bosk (Flamekin Village showing up later for the mono-red elementals)
+    Brion Stoutarm • Doran, the Siege Tower • Gaddock Teeg • Horde of Notions • Nath of the Gilt-Leaf • Sygg, River Guide • Wort, Boggart Auntie • Wydwen, the Biting Gale (Brigid, Hero of Kinsbaile and Ashling the Pilgrim for their mono-colour tribes)
+    Wizened Cenn • Merrow Reejerey • Imperious Perfect • Scion of Oona • Mad Auntie • Incandescent Soulstoke • Sunrise Sovereign • Timber Protector (most at rare for the sake of limited)
+    Favor of the Mighty • Militia's Pride • Merrow Commerce • Faerie Tauntings • Prowess of the Fair • Boggart Shenanigans • Rebellion of the Flamekin • Lignify
+
+Tribal cycles limited to 5:
+
+    Surge of Thoughtweft • Aquitect's Will • Peppersmoke • Giant's Ire • Rootgrapple
+    Goldmeadow Stalwart • Silvergill Adept • Squeaking Pie Sneak • Flamekin Bladewhirl • Wren's Run Vanquisher
+    Wellgabber Apothecary • Silvergill Douser • Nectar Faerie • Caterwauling Boggart • Kithkin Mourncaller
+    Cloudgoat Ranger • Benthicore • Marsh Flitter • Hearthcage Giant • Guardian of Cloverdell
+    Thoughtweft Trio • Mistbind Clique • Boggart Mob • Nova Chaser • Wren's Run Packmaster (Bonus! Wanderwine Prophets)
+
+Regular cycles:
+
+    Vivid Meadow • Vivid Creek • Vivid Marsh • Vivid Crag • Vivid Grove
+    Windbrisk Heights • Shelldock Isle • Howltooth Hollow • Spinerock Knoll • Mosswort Bridge
+    Ajani Goldmane • Jace Beleren • Liliana Vess • Chandra Nalaar • Garruk Wildspeaker
+    Purity • Guile • Dread • Hostility • Vigor
+    Austere Command • Cryptic Command • Profane Command • Incendiary Command • Primal Command
+    Oaken Brawler • Paperfin Rascal • Bog Hoodlums • Adder-Staff Boggart • Nath's Elite
+    Avian Changeling • Amoeboid Changeling • Skeletal Changeling • Fire-Belly Changeling • Woodland Changeling
+    Changeling Hero • Turtleshell Changeling • Ghostly Changeling • Changeling Berserker • Changeling Titan
+    Soaring Hope • Ponder • Footbottom Feast • Boggart Forager • Gilt-Leaf Seer
+
+2 Goldmeadow Harrier
+2 Cenn's Heir
+2 Judge of Currents
+2 Kinsbaile Skirmisher
+2 Kithkin Greatheart
+2 Surge of Thoughtweft
+2 Triclopean Sight
+2 Avian Changeling
+2 Burrenton Bombardier
+2 Kithkin Healer
+2 Springjack Knight
+2 Hillcomber Giant
+2 Kinsbaile Balloonist
+2 Neck Snap
+2 Plover Knights
+2 Wellgabber Apothecary
+2 Amoeboid Changeling
+2 Broken Ambitions
+2 Deeptread Merrow
+2 Ringskipper
+2 Silvergill Douser
+2 Spellstutter Sprite
+2 Stonybrook Angler
+2 Whirlpool Whelm
+2 Faerie Trickery
+2 Paperfin Rascal
+2 Pestermite
+2 Streambed Aquitects
+2 Sentinels of Glen Elendra
+2 Inkfathom Divers
+2 Mulldrifter
+2 Aethersnipe
+2 Facevaulter
+2 Nightshade Stinger
+2 Peppersmoke
+2 Blightsoil Druid
+2 Skeletal Changeling
+2 Black Poplar Shaman
+2 Boggart Loggers
+2 Eyeblight's Ending
+2 Spiderwig Boggart
+2 Dreamspoiler Witches
+2 Final-Sting Faerie
+2 Hornet Harasser
+2 Quill-Slinger Boggart
+2 Violet Pall
+2 Warren Pilferers
+2 Mournwhelk
+2 Flamekin Brawler
+2 Kindled Fury
+2 Tarfire
+2 Adder-Staff Boggart
+2 Boggart Sprite-Chaser
+2 Fire-Belly Changeling
+2 Smokebraider
+2 Soulbright Flamekin
+2 Blind-Spot Giant
+2 Inner-Flame Acolyte
+2 Mudbutton Torchrunner
+2 Stinkdrinker Daredevil
+2 Caterwauling Boggart
+2 Lowland Oaf
+2 Consuming Bonfire
+2 Axegrinder Giant
+2 Elvish Handservant
+2 Earthbrawn
+2 Fertile Ground
+2 Fistful of Force
+2 Kithkin Daggerdare
+2 Leaf Gilder
+2 Lignify
+2 Woodland Changeling
+2 Battlewand Oak
+2 Elvish Branchbender
+2 Bog-Strider Ash
+2 Cloudcrown Oak
+2 Lys Alana Huntmaster
+2 Nath's Elite
+2 Rootgrapple
+2 Oakgnarl Warrior
+2 Runed Stalactite
+2 Springleaf Drum
+2 Wanderer's Twig
+2 Moonglove Extract
+1 Daily Regimen
+1 Goldmeadow Stalwart
+1 Knight of Meadowgrain
+1 Wizened Cenn
+1 Crib Swap
+1 Kithkin Harbinger
+1 Summon the School
+1 Veteran of the Depths
+1 Cloudgoat Ranger
+1 Research the Deep
+1 Silvergill Adept
+1 Captivating Glance
+1 Drowner of Secrets
+1 Merrow Reejerey
+1 Faerie Harbinger
+1 Glen Elendra Pranksters
+1 Merrow Harbinger
+1 Turtleshell Changeling
+1 Squeaking Pie Sneak
+1 Boggart Harbinger
+1 Ghostly Changeling
+1 Lys Alana Scarblade
+1 Fodder Launch
+1 Marsh Flitter
+1 Final Revels
+1 Shriekmaw
+1 Thorntooth Witch
+1 Flamekin Bladewhirl
+1 Flamekin Harbinger
+1 Flamekin Spitfire
+1 Goatnapper
+1 Inner-Flame Igniter
+1 Ceaseless Searblades
+1 Tar Pitcher
+1 Giant Harbinger
+1 Thundercloud Shaman
+1 Heritage Druid
+1 Treefolk Harbinger
+1 Wren's Run Vanquisher
+1 Elvish Harbinger
+1 Imperious Perfect
+1 Kithkin Mourncaller
+1 Briarhorn
+1 Changeling Titan
+1 Incremental Growth
+1 Vivid Crag
+1 Vivid Creek
+1 Vivid Grove
+1 Vivid Marsh
+1 Vivid Meadow
+1 Rustic Clachan
+1 Windbrisk Heights
+1 Hoofprints of the Stag
+1 Militia's Pride
+1 Ajani Goldmane
+1 Indomitable Ancients
+1 Thoughtweft Trio
+1 Feudkiller's Verdict
+1 Shelldock Isle
+1 Shapesharer
+1 Jace Beleren
+1 Scion of Oona
+1 Vendilion Clique
+1 Sower of Temptation
+1 Surgespanner
+1 Fathom Trawl
+1 Howltooth Hollow
+1 Knucklebone Witch
+1 Oona's Prowler
+1 Mad Auntie
+1 Boggart Mob
+1 Cairn Wanderer
+1 Fendeep Summoner
+1 Liliana Vess
+1 Spinerock Knoll
+1 Ashling the Pilgrim
+1 Countryside Crusher
+1 Incandescent Soulstoke
+1 Nova Chaser
+1 Chandra Nalaar
+1 Sunrise Sovereign
+1 Hamletback Goliath
+1 Mosswort Bridge
+1 Rhys the Exiled
+1 Dauntless Dourbark
+1 Garruk Wildspeaker
+1 Immaculate Magistrate
+1 Masked Admirers
+1 Wren's Run Packmaster
+1 Timber Protector
+1 Gaddock Teeg
+1 Sygg, River Guide
+1 Doran, the Siege Tower
+1 Brion Stoutarm
+1 Wort, Boggart Auntie
+1 Wydwen, the Biting Gale
+1 Horde of Notions
+1 Nath of the Gilt-Leaf
+1 Murmuring Bosk
+1 Mutavault
+
