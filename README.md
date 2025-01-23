@@ -1,3 +1,6 @@
+Revisted battlebox: https://mtgbattlebox.com/project/revised-edition/
+
+
 https://www.amazon.com/dp/B0187T406K
 
 
