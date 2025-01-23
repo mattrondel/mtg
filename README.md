@@ -1,3 +1,6 @@
+
+https://cubecobra.com/cube/overview/1zgb3
+
 Revisted battlebox: https://mtgbattlebox.com/project/revised-edition/
 
 
