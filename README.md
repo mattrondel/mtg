@@ -1,8 +1,13 @@
 ixalan lands needed
+
 6 forest
+
 10 island
+
 2 plains
+
 7 swamp
+
 no moutain
 
 
