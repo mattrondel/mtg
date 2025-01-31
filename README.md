@@ -1,3 +1,8 @@
+layout:art-series set:ablb
+
+layout:art-series set:awoe
+
+
 ixalan lands needed
 
 6 forest
