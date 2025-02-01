@@ -3,14 +3,14 @@ I owe Mike 45 for cards
 
 layout:art-series set:ablb
 
-- [ ] 50 signed
-- [ ] 20
-- [ ] 26
-- [ ] 2
-- [ ] 16 sign
-- [ ] 16
-- [ ] 8
-- [ ] 21
+- [ ] 50 signed need
+- [X] 20 (signed)
+- [X] 26
+- [X] 2
+- [ ] 16 sign need
+- [X] 16 
+- [ ] 8 need
+- [X] 21
 
 layout:art-series set:awoe
 - [ ] 28
