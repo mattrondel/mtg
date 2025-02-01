@@ -3,8 +3,28 @@ I owe Mike 45 for cards
 
 layout:art-series set:ablb
 
-layout:art-series set:awoe
+- [ ] 50 signed
+- [ ] 20
+- [ ] 26
+- [ ] 2
+- [ ] 16 sign
+- [ ] 16
+- [ ] 8
+- [ ] 21
 
+layout:art-series set:awoe
+- [ ] 28
+- [ ] 15
+- [ ] 48
+- [ ] 23
+- [ ] 31
+- [ ] 9
+- [ ] 62
+- [ ] 74
+- [ ] 81 signed
+- [ ] 70
+- [ ] 57
+- [ ] 79 signed
 
 ixalan lands needed
 
