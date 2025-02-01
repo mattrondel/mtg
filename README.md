@@ -28,13 +28,13 @@ layout:art-series set:awoe
 
 ixalan lands needed
 
-6 forest
+2 forest
 
-10 island
+7 island
 
-2 plains
+no plains
 
-7 swamp
+3 swamp
 
 no moutain
 
