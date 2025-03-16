@@ -9,6 +9,15 @@ I owe Mike 45 for cards
 MORABTO Premium 1000+ Pockets Card Binder,16 Pockets Trading Card Binder Ringless Side Loading Trading Card Album Folder for TCG -Black
 https://a.co/d/jklqAsN
 
+purple for eldrane (pull out from red and add tokens art cards etc)
+
+yellow for old cards
+
+red will be phrexia
+
+old orange book for outlaws
+
+
 layout:art-series set:ablb
 
 - [ ] 50 signed need
