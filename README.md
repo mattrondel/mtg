@@ -1,14 +1,7 @@
 This Town Ain't Big Enough - Outlaws of Thunder Junction (OTJ)
 
-cloud of faries for will - dominira box
 
-raging goblin jeff miracolas 10th edition commons
-
-goblin engineer foil for will
-
-defense grid urzas
-
-I owe Mike 45 for cards
+I owe Mike 27 for cards post conadent crossroads
 
 MORABTO Premium 1000+ Pockets Card Binder,16 Pockets Trading Card Binder Ringless Side Loading Trading Card Album Folder for TCG -Black
 https://a.co/d/jklqAsN
