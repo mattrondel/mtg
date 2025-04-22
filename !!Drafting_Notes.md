@@ -16,7 +16,7 @@ Draft tips:
 
 B.R.E.A.D. - this is to teach you priory of what to pick
 
-Bombs: - your opponent’s biggest threats. If your opponent’s cannot get rid of them they will "go off" and win you the game
+•	Bombs: - your opponent’s biggest threats. If your opponent’s cannot get rid of them they will "go off" and win you the game
 
 How do you know if it’s a bomb? 
 
@@ -30,23 +30,23 @@ Card advantage is defined as a player having access to more cards than another p
 
 Does this card provide game-breaking effects, such as that of planeswalkers
 
-Removal: Counterspells, destroy, or exile effects. Removal removes the threat. Bounce spells like return target creature to owners’ hand are removal.
+•	Removal: Counterspells, destroy, or exile effects. Removal removes the threat. Bounce spells like return target creature to owners’ hand are removal.
 
 Combat spells and tricks can be used as removal as well. Pumping your creature so that it can now block and kill an attacker is a form of removal as is flashing in a creature strategically for surprise blocking. 
 
-Evasion: Attackers that can prevent opponents from blocking. Flying, menace, horsemanship trample, etc. being able to attack without the possibility of your opponent’s blocking is partially strong. 
+•	Evasion: Attackers that can prevent opponents from blocking. Flying, menace, horsemanship trample, etc. being able to attack without the possibility of your opponent’s blocking is partially strong. 
 
-Aggro: creatures that are neither bombs, nor have evasion, but apply pressure and can fill holes in your mana curve. Sometimes these are cards that have weaker abilities that don’t win you the game, but help you win the game. Aggro is sometimes called ability cards. Aggro should be taken with mana curve in mind. Aggro could also be called anything else
+•	Aggro: creatures that are neither bombs, nor have evasion, but apply pressure and can fill holes in your mana curve. Sometimes these are cards that have weaker abilities that don’t win you the game, but help you win the game. Aggro is sometimes called ability cards. Aggro should be taken with mana curve in mind. Aggro could also be called anything else
 
-Dirt -Your worst cards. Your duds. The cards you would never, ever play. Typically, dirt tends to be all that is left in the remaining 5 or so cards but this varies. Dirt can sometimes have a role in your sideboard. Your sideboard is all the cards you drafted but did not use in your deck.  Sometimes dirt can be situational cards that you might sideboard in between games. 
+•	Dirt -Your worst cards. Your duds. The cards you would never, ever play. Typically, dirt tends to be all that is left in the remaining 5 or so cards but this varies. Dirt can sometimes have a role in your sideboard. Your sideboard is all the cards you drafted but did not use in your deck.  Sometimes dirt can be situational cards that you might sideboard in between games. 
 
 ****************
 
 Alternate break down more simplified?
 
-Bombs: creates that have a strong impact on the board and can help swing the game in your favor even if your behind
+•	Bombs: creates that have a strong impact on the board and can help swing the game in your favor even if your behind
 
-Removal – spells that destroy creatures or make your opponent’s creatures a little bit weaker.
+•	Removal – spells that destroy creatures or make your opponent’s creatures a little bit weaker.
 
 Mana Curve – you want to have something to cast on every turn, so you need to conscious of how many two, three, four and five drop (total casting cost) creatures you’re choosing for your deck. Once your done drafting you can pick and choose creatures to make your mana curve as smooth as possible
 
