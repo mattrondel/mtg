@@ -54,21 +54,27 @@ Synergy: How cards in the set work together if you have a card that makes a copy
 
 **** Points of Courtesy / Rules – Still in Development ****
 
-No Hate Drafting – this means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
+### No Hate Drafting ### 
 
-### No Shiny card Syndrome###
+This means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
+
+### No Shiny card Syndrome ###
 
 Don’t take a card simply because it’s big, flashy and/or a mythic rare take it because it will work well in your deck. 
 
-No Copy Limit – there is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
+### No Copy Limit  ### 
 
-Keep Quiet - Don’t talk about the contents of your pack that you’re looking at this is giving up a lot of information what’s in the packs.
+There is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
 
-Zone Draft - There is a "zone" between each player and in each player's hands. No more than one pack can be in a zone at once. So if the player to your left hasn't picked up the pack you passed them, you're not allowed to pass them another pack
+### Keep Quiet ### - Don’t talk about the contents of your pack that you’re looking at this is giving up a lot of information what’s in the packs.
 
-Don't pass until somebody is ready
+### Zone Draft ### 
 
-Zone Drafting isn’t to make things more competitive, it’s to keep things organized so there are less problems all around.
+There is a "zone" between each player and in each player's hands. No more than one pack can be in a zone at once. So if the player to your left hasn't picked up the pack you passed them, you're not allowed to pass them another pack
+
+•	Don't pass until somebody is ready
+
+•	Zone Drafting isn’t to make things more competitive, it’s to keep things organized so there are less problems all around.
 
 There may not be more than one pack between players.
 
@@ -78,11 +84,11 @@ if by chance a pack builds up then "tap" the pile this is to prevent a train of 
 
 Essentially you've got three zones:
 
-Pass zone: You collect from one pass zone to your hand, and then when you're done drafting from that pack, put it into the next pass zone (passing left for the first pack, right for the second, and left for the third).
+•	Pass zone: You collect from one pass zone to your hand, and then when you're done drafting from that pack, put it into the next pass zone (passing left for the first pack, right for the second, and left for the third).
 
-Hand zone: View the cards, and take one that you want to put in your draft zone, then pass the rest of the pack.
+•	Hand zone: View the cards, and take one that you want to put in your draft zone, then pass the rest of the pack.
 
-Drafted zone: Your pile of cards that you've drafted.
+•	Drafted zone: Your pile of cards that you've drafted.
 
 Only one pack of cards can be in a pass zone or a hand zone. If there's a pile up. If your outgoing pass zone is still occupied, you hold onto the pack in your hand until that outgoing pack moves along; and there doesn't end up a pileup on one player
 
@@ -91,13 +97,12 @@ Zoning don’t pass your packs too fast for the person you’re passing to. Look
 “zone drafting”. After you pick, put the rest of the pack down between you and the next player, and wait for that zone to be clear before making your next pick and putting down the next pack.
 
 
-
-
 Land basics:
 
 need to determine this:
 
 maybe here: https://www.youtube.com/watch?v=4Lio7WqsoL4
+
 
 Suggestions:
 
