@@ -66,7 +66,9 @@ Don’t take a card simply because it’s big, flashy and/or a mythic rare take 
 
 There is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
 
-### Keep Quiet ### - Don’t talk about the contents of your pack that you’re looking at this is giving up a lot of information what’s in the packs.
+### Keep Quiet ### 
+
+Don’t talk about the contents of your pack that you’re looking at this is giving up a lot of information what’s in the packs.
 
 ### Zone Draft ### 
 
