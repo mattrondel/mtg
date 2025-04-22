@@ -52,11 +52,11 @@ Mana Curve – you want to have something to cast on every turn, so you need to 
 
 Synergy: How cards in the set work together if you have a card that makes a copy of itself 
 
-****Points of Courtesy / Rules – Still in Development****
+**** Points of Courtesy / Rules – Still in Development ****
 
 No Hate Drafting – this means drafting a card out of a pack that you zero intention of playing or putting in as sideboard/alternate. The only reason you’re taking it is that you’re keeping it from somebody else at the table. 
 
-###No Shiny card Syndrome###  – Don’t take a card simply because it’s big, flashy and/or a mythic rare take it because it will work well in your deck. 
+### No Shiny card Syndrome ###  – Don’t take a card simply because it’s big, flashy and/or a mythic rare take it because it will work well in your deck. 
 
 No Copy Limit – there is no limit on how many copy of a card can be in a deck – if you draft 10 poison dart frogs you can play them all
 
