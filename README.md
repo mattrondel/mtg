@@ -1,3 +1,7 @@
+Citidel tokens:
+
+https://www.ebay.com/itm/225217122598
+
 https://deckcheck.co
 
 https://www.amazon.com/NEBO-Aluminum-Hands-Free-FlashlightHazard-Light-Red/dp/B08NZ254YD
