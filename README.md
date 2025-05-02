@@ -1,3 +1,9 @@
+https://www.youtube.com/watch?v=cTbS7eYCjyk
+
+old tokens
+
+http://www.flaminio.com/magic/rarities-computer-mprs-2.html
+
 Citidel tokens:
 
 https://www.ebay.com/itm/225217122598
