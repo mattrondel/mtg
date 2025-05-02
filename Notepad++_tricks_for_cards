@@ -1,4 +1,22 @@
 *******************
+Card Kingdom orders
+*******************
+Open Notepad++.
+Press Ctrl + H to open the Replace dialog.
+In the "Find what" field, enter: :.*
+Leave the "Replace with" field empty.
+Make sure the "Search Mode" is set to "Regular expression".
+Click on "Replace All".
+
+this will replace any/all lines like so:
+
+Goblin Matron: Urza's Saga
+to
+Goblin Matron
+
+
+
+*******************
 MTG 8 Deck lists
 *******************
 
