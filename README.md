@@ -1,3 +1,47 @@
+* denotes mentioned by not an eligent designed premodern card
+
+mystic snake
+
+*absorb
+
+deep analysis
+
+*careful study
+
+*wild mongrel
+
+*psychatog
+
+*mental note
+
+lava dart
+
+*prismatic strands - paupler all stars
+
+*battle screech - paupler all stars
+
+*cabal therapy
+
+wall of blossums
+
+fire/ice
+
+* illusion/reality
+ 
+* life/death
+ 
+* night/day
+ 
+* order/ chaos
+
+flametongue kavu
+
+
+
+*firebolt 
+*seize the day
+
+
 https://www.youtube.com/watch?v=cTbS7eYCjyk
 
 old tokens
