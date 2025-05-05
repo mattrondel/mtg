@@ -77,47 +77,9 @@ old orange book for outlaws
 
 layout:art-series set:ablb
 
-- [ ] 50 signed need
-- [X] 20 (signed)
-- [X] 26
-- [X] 2
-- [ ] 16 sign need
-- [X] 16 
-- [ ] 8 need
-- [X] 21
-
 layout:art-series set:awoe
-- [ ] 28
-- [ ] 15
-- [ ] 48
-- [ ] 23
-- [ ] 31
-- [ ] 9
-- [ ] 62
-- [ ] 74
-- [ ] 81 signed
-- [ ] 70
-- [ ] 57
-- [ ] 79 signed
-
-ixalan lands needed
-
-2 forest
-
-7 island
-
-no plains
-
-3 swamp
-
-no moutain
-
-
 
 https://cubecobra.com/cube/overview/1zgb3
-
-Revisted battlebox: https://mtgbattlebox.com/project/revised-edition/
-
 
 https://www.amazon.com/dp/B0187T406K
 
@@ -154,16 +116,6 @@ https://cubecobra.com/cube/overview/17r2c
 for cubes
 
 https://www.amazon.com/Black-Dex-Protection-Supreme-Storage/dp/B07HBP5CN5?th=1
-
-48 Plains (0287) 
-
-39 island (0288) - The Lost Caverns of Ixalan (LCI)
-
-43 Swamp (0289)
-
-50 moutain
-
-44 Forest (0291)
 
 
 https://youtu.be/QHHg99hwQGY?t=1616
@@ -318,259 +270,18 @@ https://www.youtube.com/watch?v=EmX0TQTdW2g
 
 https://www.etsy.com/listing/1676188854/5-junk-artifact-tokens-for-magic-the?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=magda+brazen+outlaw&ref=sr_gallery-1-10&bes=1&content_source=11ef99d5b52f3026bacbfe3f5140f880715e560f%253A1676188854&search_preloaded_img=1&organic_search_click=1
 
-19.90
-
-https://www.tcgplayer.com/product/544435/magic-outlaws-of-thunder-junction-terror-of-the-peaks-extended-art
-
 https://www.etsy.com/listing/1646564395/magda-brazen-outlaw-2-sticker-inspired
-
-
-changes to make to cmdr nights
-
-differnt leagues differnt weeks beginning would be like a precon no fast rocks no infinites 
-
-cedh nights proxy friendly league fee
-
-prices for leagues the same
-
-bonus points for buying and playing same night a precon from the shop
-
-bonus points for not searching library or not playing fast mana rocks eg mana positives like crypt, vault sol ring etc
-
-Trading notes
-
-use tcg market price rounded to closest dollar
-
--Favor github over mtg8-
-usablilty + collection + cedh staple + proxy pointer in a deck
-
-Deck site that groups cards
-
-https://archidekt.com/
-
-https://www.mtgtop8.com/
-
-https://edhtop16.com
-
-https://cedh-decklist-database.com/
-
-
-https://commandersherald.com/magda-brazen-outlaw-in-cedh-the-best-deck-no-ones-talking-about/
-
-https://www.etsy.com/shop/DiamondDragonGames
-
-https://jankmats.com/
-
-https://www.reddit.com/r/magicTCG/comments/1b9sfym/where_my_nivmizzet_players_at/
-
-Purple/black deck box 7.97
-https://www.temu.com/card-deck-box-card-storage-box-fits-100-double-sleeved-cards-strong-magnet-card-deck-case-for-tcg-cards-g-601099529840931.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F3f82c6f6-fccd-477e-9cda-240f130beada.jpg&spec_gallery_id=2042737025&refer_page_sn=10017&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=Nzk3&_oak_gallery_order=1322374486%2C127277047%2C1921734857%2C317505327%2C1300633619&search_key=deck%20card%20box&refer_page_el_sn=200049&refer_page_name=bgn_verification&refer_page_id=10017_1709830903858_r0c0219moc&_x_sessn_id=po7hgr8ldf
-
-red deck
-https://www.temu.com/card-deck-box-for-mtg-cards-100-deck-case-fits-tcg-ccg-pu-leather-denim-print-card-storage-box-compatible-with-collectible-trading-cards-g-601099532312797.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2F1cc430c25728108037a016760cd1c8e6.jpg&sku_id=17592283936651&refer_page_sn=10009&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=Nzk3&_oak_gallery_order=331492128%2C1192760148%2C1032664061%2C91027327%2C788754487&search_key=deck%20card%20box&refer_page_el_sn=200049&refer_page_name=search_result&refer_page_id=10009_1709830871026_saje7b1l9x&_x_sessn_id=po7hgr8ldf
-
-https://www.temu.com/card-deck-box-for-cards-100-deck-case-fits-pu-leather-card-storage-box-g-601099541807121.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2Fad61ebdb-7e9e-4aff-ab00-f3cfbb3c2de7.jpg&sku_id=17592323325770&refer_page_sn=10009&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&_oak_rec_ext_1=NjQ3&_oak_gallery_order=1968547441%2C1299887434%2C1871796597%2C1968397228%2C809466387&search_key=deck%20card%20box&refer_page_el_sn=200049&refer_page_name=search_result&refer_page_id=10009_1709830871026_saje7b1l9x&_x_sessn_id=po7hgr8ldf
 
 yeah this didnt really work, mtg fills in the small gaps of life where you can't get too concentraited in any one thing
 new magic rules for the next month:
 
-THINK OF IT AS MAGIC DOES NOT EXIST TO YOU
 
-no card buying, no card look up at work
-
-homework only, yes really.
-
-no going to shop unless family wants to go
-
-if downtime in house then homework review, same with work
-
-if co-workers/friends ask tell then your focusing on homework this last 28 days as you dont want to spend 2500 again .
-
-
-
---------------------------------------------------------
-add things to look up on magic here when python is done:
-
-trade/buy missing cards for squirrel and dwarve decks
-
-https://edhtop16.com
-
-Bricktown brewery
-
-http://places.singleplatform.com/bricktown-berwery/menu?ref=google
-
-Cube to lookup 
-
-https://cubecobra.com/cube/list/lorwyn
-
-the boil winneer
-
-https://www.mtgtop8.com/event?e=51763&d=584127&f=cEDH
-
-$100 one:
-
-https://www.mtgtop8.com/event?e=51034&d=578319&f=cEDH
-
-https://commandersherald.com/an-introduction-to-kinnan-in-cedh/
-
-
-https://commandersherald.com/the-top-5-cedh-decks-for-beginners/
-
-bootlegmage:
-
-Minamo, School at Water's Edg
-
-Cephalid Coliseum
-
-Mindbreak Trap
-
-Mox Diamond?
-
-EDHTop16.com
-
-top to print
-
-https://htxt.co.za/2019/03/07/3d-print-turns-senseis-divining-top-into-an-mtg-life-counter/
-
-https://draftsim.com/chatterfang-edh-deck/
-
-
-burgeoning
-
-Secret Lair Drop: Every Dog Has Its Day - Foil - Secret Lair Drop Series (SLD)
-
-either Ancient Grudge 8.60
-foil Dig Through Time 5.60
-Lightning Greaves either 34
-Rest in Peace 16.70 normal 19.50 foil
- 
-foil 67.70
-not foil 65
-
-qs card
-https://www.delverlab.com
-
-
-ones to check out:
-
-Memnarch mtg
-
-Don decks to see
-
-https://deckstats.net/decks/190754/3299767-don-andres-prince-of-theft
-
-https://draftsim.com/don-andres-edh-deck/
-
-https://www.youtube.com/watch?v=uwj-Pd3HFYI
 
 ----
 
 https://www.moxfield.com/decks/uWn_5LRH1EmzpP-BMS9msQ
 
 https://www.moxfield.com/decks/-je6HM94MkSSjpnjx1CpGA
-
-dinosaursmtg
-
-https://www.pokemoncenter.com/product/701-95854/hisuian-zoroark-poke-plush-14-in
-
-https://www.pokemoncenter.com/product/701-98901/ceruledge-poke-plush-15-in
-
-https://www.buildabear.com/flareon-plush-bundle/28163_28150_28194_28036.html?cgid=characters-brands-and-characters-pokemon
-
-r/edh
-dinosaursmtg
-mtgcube
-magicdeckbuilding
-jeep 92 xj
-sudden loss of power
-
-
-Dockside dollar https://www.reddit.com/r/magicTCG/comments/11h37rm/oc_treasure_tokens_goldsabertooths_dockside/
-
-save the orginal size https://twitter.com/forrestimel/status/1686460361015513088
-
-https://old.reddit.com/r/AskReddit/comments/17vtb36/what_immediately_tells_you_someone_is_a_trashy/
-
-https://discord.com/invite/mtg-marketplace-690408090851606529
-
-www.ebay.com/itm/225798497092
-
-
-Pokemon gift set on tcgplayer
-
-https://www.tcgplayer.com/product/282402/pokemon-swsh11-lost-origin-hisuian-zoroark-vstar-premium-collection?xid=pi98fd8ed5-1f8d-4b28-88e9-74615ac7d785&Language=English&page=1
-
-
-cube
-
-https://www.tcgplayer.com/product/236083?page=1&irclickid=TcO1mqwyHxyPWibXiMXazT9GUkFVzA1PrymQzA0&sharedid=moxfield&irpid=4949650&irgwc=1&utm_source=impact&utm_medium=affiliate&utm_campaign=Moxfield&Language=English
-
-https://archidekt.com/decks/5798515/vintage_power_cube
-
-[https://edhchamber.com/blog/izzet-jank-pirate-tribal-malcolm-breeches&hl=en&gl=us](https://edhchamber.com/blog/izzet-jank-pirate-tribal-malcolm-breeches)
-
-pirates to get
-
-Spectral Sailor (J22)
-
-KiteSail Freebooter
- 
-Chart a Course
-
-Dire Fleet Poisoner
-
-Captain Storm, Cosmium Raider 
-
-Dowsing Dagger
-
-Corsairs of Umbar
-
-Storm Fleet Sprinter 
-
-Falkenrath Noble 
-
-Dockside Extortionist
-
-
-https://www.commandersalt.com/
-
-https://old.reddit.com/r/EDH/comments/ro8dnm/what_is_the_optimal_3_colour_land_base/
-
-https://old.reddit.com/r/mtgfinance/comments/17hrelw/woe_collector_booster_box_really/
-
-https://www.mtggoldfish.com/deck/3583570#paper
-
-interesting D&D book
-
-https://old.reddit.com/r/magicTCG/comments/17a1klu/lorwynshadowmoor_in_dd_5e_planeshifted_guide/
-
-sara wants this 
-
-https://www.etsy.com/listing/861488009/
-
-similar?
-
-https://www.amazon.com/Hobby-Lobby-Masters-Sketch-Supply/dp/B0921K5NC9/ref=sr_1_2?keywords=wooden+briefcase&qid=1697573846&sr=8-2
-
-fetch lands
-
-          #Fetch lands
-          Flooded Strand (white blue)
-          Polluted Delta (Blue Black)
-          Bloodstained Mire (Black red)
-          Wooded Foothills (Red Green)
-          Windswept Heath (green white)
-
-          Enemy        
-          Arid Mesa (red white)
-          Misty Rainforest (blue green)
-
-
-
-Nice deck box
-
-https://www.amazon.com/Mage-Tech-Card-Deck-Commander/dp/B0CDFY2KTF/ref=sr_1_16?crid=26C1XB6LGVCOF&keywords=doctor+who+mtg+commander+decks&qid=1697472030&sprefix=doctor+who+%2Caps%2C208&sr=8-16
-
 
 
 read at home:
