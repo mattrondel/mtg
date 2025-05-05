@@ -1,6 +1,6 @@
 https://burmak.ru/mtg/
 
-* denotes mentioned by not an eligent designed premodern card
+* denotes mentioned by not an elegant designed premodern card
 
 mystic snake
 
