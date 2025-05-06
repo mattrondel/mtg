@@ -1,3 +1,6 @@
+https://scryfall.com/card/tclb/20/undercity-the-initiative
+
+
 https://burmak.ru/mtg/
 
 * denotes mentioned by not an elegant designed premodern card
