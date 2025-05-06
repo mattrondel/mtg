@@ -1,3 +1,8 @@
+compare to my premodern cube
+
+https://cubecobra.com/cube/overview/1j7pg
+
+
 https://scryfall.com/card/tclb/20/undercity-the-initiative
 
 
