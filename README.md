@@ -1,3 +1,5 @@
+piles of 24 how many of each color card do we have?
+
 compare to my premodern cube
 
 https://cubecobra.com/cube/overview/1j7pg
