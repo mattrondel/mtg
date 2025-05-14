@@ -1,3 +1,8 @@
+cube shells
+
+https://www.amazon.com/gp/product/B09W6CQPHH
+
+
 piles of 24 how many of each color card do we have?
 
 compare to my premodern cube
