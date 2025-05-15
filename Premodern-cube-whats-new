@@ -13,6 +13,18 @@ Print:
 1 Recycle (TMP) 248
 1 Aluren (TMP) 213
 1 Wall of Souls (STH) 75
+1 Cat (TDMR) 3
+2 Elephant (MPR) 3
+5 Goblin Soldier (MPR) 6
+5 Goblin (P03) 5
+5 Insect (TINR) 15
+5 Morph (TMKC) 30
+1 Minion (TDDE) 2
+1 Spirit (TISD) 2
+5 Soldier (TTHS) 2
+5 Saproling (MPR) 2
+1 Wurm (TUMA) 7
+5 Zombie (DDQ) 80
 
 ##################################
 tokens/counters needed:
@@ -24,10 +36,10 @@ fuse counters
 four fade counters for tangle wire
 -1/-1 flips for arrowhead counters
 
-Cat (black) 2/1 from penumbra bobcat and  red 1/1 from firecat blitz
+Cat (black) 2/1 from penumbra bobcat and red 1/1 from firecat blitz https://www.mtg.onl/token-list/cat_r_1_1/
 Elephant 3/3 green
 Goblin 1/1 red
-Goblin Soldier 1/1 red/white from goblin trenches)
+Goblin Soldier 1/1 red/white from goblin trenches
 Insect 1/1 green from Wirewood Hivemaster
 Minion black X/X from phyrexian processor 
 Morph 2/2 colorless 
@@ -38,6 +50,7 @@ Soldier 1/1 white
 Squirrel 1/1 green
 Wurm 6/6 (black) from penumbra wurm
 Zombie 2/2 black
+
 ##################################
 
 
