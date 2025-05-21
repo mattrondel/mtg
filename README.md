@@ -1,3 +1,7 @@
+this ie my cube
+
+https://www.cubecobra.com/cube/overview/rmypmc
+
 cube shells
 
 https://www.amazon.com/gp/product/B09W6CQPHH
