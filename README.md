@@ -33,49 +33,6 @@ https://scryfall.com/card/tclb/20/undercity-the-initiative
 
 https://burmak.ru/mtg/
 
-* denotes mentioned by not an elegant designed premodern card
-
-mystic snake
-
-*absorb
-
-deep analysis
-
-*careful study
-
-*wild mongrel
-
-*psychatog
-
-*mental note
-
-lava dart
-
-*prismatic strands - paupler all stars
-
-*battle screech - paupler all stars
-
-*cabal therapy
-
-wall of blossums
-
-fire/ice
-
-* illusion/reality
- 
-* life/death
- 
-* night/day
- 
-* order/ chaos
-
-flametongue kavu
-
-
-
-*firebolt 
-*seize the day
-
 
 https://www.youtube.com/watch?v=cTbS7eYCjyk
 
@@ -90,11 +47,6 @@ https://www.ebay.com/itm/225217122598
 https://deckcheck.co
 
 https://www.amazon.com/NEBO-Aluminum-Hands-Free-FlashlightHazard-Light-Red/dp/B08NZ254YD
-
-This Town Ain't Big Enough - Outlaws of Thunder Junction (OTJ)
-
-
-I owe Mike 27 for cards post conadent crossroads
 
 MORABTO Premium 1000+ Pockets Card Binder,16 Pockets Trading Card Binder Ringless Side Loading Trading Card Album Folder for TCG -Black
 https://a.co/d/jklqAsN
