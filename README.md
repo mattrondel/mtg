@@ -1,4 +1,14 @@
-this ie my cube
+print for cube
+
+wall of souls
+
+contagion
+
+recycle
+
+aluren
+
+this is my cube
 
 https://www.cubecobra.com/cube/overview/rmypmc
 
