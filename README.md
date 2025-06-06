@@ -1,18 +1,5 @@
-print for cube
+https://www.youtube.com/watch?v=K393KVX6xNw
 
-wall of souls
-
-contagion
-
-recycle
-
-Ashnod's Altar as monty python
-
-aluren
-
-tokens
-
-this is my cube
 
 https://www.cubecobra.com/cube/overview/rmypmc
 
