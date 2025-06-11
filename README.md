@@ -1,3 +1,10 @@
+http://theboozecube.blogspot.com/
+
+Altar of victory enchantment custom card
+
+https://youtu.be/nEsDm0ehOHw?t=231
+
+
 https://cubecobra.com/cube/overview/BarCube
 
 
