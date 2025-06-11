@@ -1,3 +1,5 @@
+https://www.reddit.com/r/mtgcube/comments/vshbxh/proud_to_show_off_the_beer_cube_a_cube_for_laughs/
+
 http://theboozecube.blogspot.com/
 
 Altar of victory enchantment custom card
