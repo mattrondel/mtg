@@ -2,6 +2,12 @@ https://www.reddit.com/r/mtgcube/comments/vshbxh/proud_to_show_off_the_beer_cube
 
 http://theboozecube.blogspot.com/
 
+I think this is Gavin Verithys cubes:
+
+https://cubecobra.com/cube/overview/322fffb9-9702-48dc-9113-9c44e9dd3ab1
+
+https://cubecobra.com/cube/overview/e58ed71a-8fb7-4d3a-9d39-fbdc3ad6b2c8
+
 Altar of victory enchantment custom card
 
 https://youtu.be/nEsDm0ehOHw?t=231
