@@ -1,3 +1,7 @@
+Bloomburrow remastered cube:
+
+https://cubecobra.com/cube/overview/BLB-remastered
+
 https://www.amazon.com/Ultimate-Guard-Squaroes-Airbender-Collectors/dp/B0DZBW7PCQ
 
 ultimate guard bloomburrow omnihive
