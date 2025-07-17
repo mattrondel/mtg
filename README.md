@@ -1,3 +1,5 @@
+https://www.reddit.com/r/mtgcube/comments/1f081vl/bloomburrow_remastered_cube/
+
 Bloomburrow remastered cube:
 
 https://cubecobra.com/cube/overview/BLB-remastered
