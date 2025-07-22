@@ -1,3 +1,7 @@
+cube draft primer
+
+https://www.reddit.com/r/mtgcube/comments/5jbaqn/cube_draft_format_primer/
+
 Sleeves
 
 https://www.amazon.com/dp/B0BKQ683RK?th=1
