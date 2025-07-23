@@ -1,3 +1,7 @@
+nature the gathering
+
+https://www.reddit.com/r/mtgcube/comments/1m78lki/please_help_me_finish_ntg_nature_the_gathering/
+
 cube draft primer
 
 https://www.reddit.com/r/mtgcube/comments/5jbaqn/cube_draft_format_primer/
