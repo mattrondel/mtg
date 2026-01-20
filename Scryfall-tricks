@@ -2,3 +2,8 @@ find value in bulk in a set over $1
 swap otj with set name
 set:otj usd>1 unique:prints
 then use the sort frop down for COLOR
+
+
+show only old frame cards for a specific card
+like all old frame goblin king
+goblin king frame:old unique:prints
