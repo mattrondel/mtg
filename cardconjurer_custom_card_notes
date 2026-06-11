@@ -1,0 +1,45 @@
+https://cardconjurer.onrender.com/
+need to try https://github.com/MagicSetEditorPacks/M15-Magic-Pack/
+
+test avatar Eladamri's Call
+issue is with set code TLE
+
+frame 
+textless/Fullart
+gerneric showcase
+nickname ("Godzilla")
+(Selected: Multicolored Frame, No Mask)
+(Selected: Multicolored Title, No Mask)
+add frame ot card
+
+Text 
+Mana cost
+g w
+Nickname
+Lifelong Friendship
+Title
+Eladamri’s Call{left}{/left} or Eladamri’s Call if you want it like a normal SLD
+{flavor}add flavor text like "Don't cross the streams!"
+adding tap symbol {T}: Add {R}.
+type 
+Instant
+rules text
+-paste from scryfall-
+
+Art
+browse pc and tinker what suits you using photoshop content away fill if needed
+
+set symbol
+upload a custom if you have one or 
+enter: sld
+rarity
+R
+load symbols from:
+Hexproof.io
+
+Watermark
+skip this section
+
+Collector
+check: Use New (post-ONE)
+toggle star/dot if needed
