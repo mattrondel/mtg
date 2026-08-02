@@ -1,0 +1,93 @@
+https://cardconjurer.onrender.com/
+new url
+https://cardconjurer.app/
+need to try https://github.com/MagicSetEditorPacks/M15-Magic-Pack/
+
+test avatar Eladamri's Call
+issue is with set code TLE
+
+frame 
+textless/Fullart
+gerneric showcase
+nickname ("Godzilla")
+(Selected: Multicolored Frame, No Mask)
+(Selected: Multicolored Title, No Mask)
+add frame ot card
+
+Text 
+Mana cost
+g w
+Nickname
+Lifelong Friendship
+Title
+Eladamri’s Call{left}{/left} or Eladamri’s Call if you want it like a normal SLD
+{flavor}add flavor text like "Don't cross the streams!"
+adding tap symbol {T}: Add {R}.
+type 
+Instant
+rules text
+-paste from scryfall-
+
+Art
+browse pc and tinker what suits you using photoshop content away fill if needed
+
+set symbol
+upload a custom if you have one or 
+enter: sld
+rarity
+R
+load symbols from:
+Hexproof.io
+
+Watermark
+skip this section
+
+Collector
+check: Use New (post-ONE)
+toggle star/dot if needed
+
+--------------------
+Revised ones used for Kpop Demon hunters
+
+--------------------
+Frames:
+sol ring full art secret lair
+frame> showcase frame > borderless
+double click dark grey for artifact, blue etc
+
+How to do mana cost:
+text> 
+numbers for colorless like 1
+type like artifact
+default text is black not white
+{fontcolorwhite}. You can also use other HTML color words or hex colors.
+
+To do rules text:
+tap symbols
+{t}
+for example tap add red
+tap symbol {T}: Add {R}.
+mana symbols need {}
+your options are:
+{T}: Add {w}{u}{b}{r}{g}{c}
+
+for flavor text 
+use {flavor} then the text you want to add
+like:
+{flavor} They certainly are
+
+
+To do Set symbols
+Set Symbol tab>
+make sure "Load set symbols from: is set to CardConjurer
+rarity options are C, U, R, M
+set symbols are 2-3 letter codes from scryfall
+
+To do art inserting
+browse to your art you can use shift to scale and your mouse to move your art
+
+to save credit the artist at:
+Art tab> :And credit the artist" line
+Kiryunx Kiyo
+michael kurinsky
+misstiart
